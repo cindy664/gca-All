@@ -527,8 +527,8 @@
       "termsandConditionsPolicy": "https://www.american.edu/policies/",
       "registrationMessage": "Registration is now open.",
       "credits": "3 AU credits",
-      "startDate": "May 11",
-      "endDate": "August 15"
+      "startDate": "<b style='color:red;'>null<b/>",
+      "endDate": "<b style='color:red;'>null<b/>"
     },
     {
       "item": "about",
@@ -539,9 +539,9 @@
       "phone": "(202) 858-0358",
       "credits": "3 AU credits",
       "programFee": null,
-      "seasonYear": "Summer 2026",
-      "term": "Summer",
-      "season": "Summer",
+      "seasonYear": null,
+      "term": null,
+      "season": "<b style='color:red;'>null<b/>",
       "registrationMessage": "Registration is now open."
     },
     {
@@ -560,8 +560,8 @@
       "courseCode1": "KSB 289 (Summer)",
       "seasonYear1": "Summer 2026",
       "seasonYear2": "Fall 2026",
-      "term1StartDate": "May 11",
-      "term1EndDate": "August 15",
+      "term1StartDate": null,
+      "term1EndDate": null,
       "term2StartDate": "August 31",
       "term2EndDate": "December 11"
     },
@@ -575,8 +575,8 @@
       "courseCode1": "KSB 289 (Summer)",
       "seasonYear1": "Summer 2026",
       "seasonYear2": "Fall 2026",
-      "term1StartDate": "May 11",
-      "term1EndDate": "August 15",
+      "term1StartDate": null,
+      "term1EndDate": null,
       "term2StartDate": "August 31",
       "term2EndDate": "December 11"
     },
@@ -590,8 +590,8 @@
       "courseCode1": "KSB 289 (Summer)",
       "seasonYear1": "Summer 2026",
       "seasonYear2": "Fall 2026",
-      "term1StartDate": "May 11",
-      "term1EndDate": "August 15",
+      "term1StartDate": null,
+      "term1EndDate": null,
       "term2StartDate": "August 31",
       "term2EndDate": "December 11"
     },
@@ -605,8 +605,8 @@
       "courseCode1": "KSB 289 (Summer)",
       "seasonYear1": "Summer 2026",
       "seasonYear2": "Fall 2026",
-      "term1StartDate": "May 11",
-      "term1EndDate": "August 15",
+      "term1StartDate": null,
+      "term1EndDate": null,
       "term2StartDate": "August 31",
       "term2EndDate": "December 11"
     },
@@ -620,8 +620,8 @@
       "courseCode1": "KSB 289 (Summer)",
       "seasonYear1": "Summer 2026",
       "seasonYear2": "Fall 2026",
-      "term1StartDate": "May 11",
-      "term1EndDate": "August 15",
+      "term1StartDate": null,
+      "term1EndDate": null,
       "term2StartDate": "August 31",
       "term2EndDate": "December 11"
     },
@@ -884,8 +884,8 @@
       "termsandConditionsPolicy": null,
       "registrationMessage": "Registration is now open.",
       "credits": "6 BSU credits",
-      "startDate": "<b style='color:red;'>null<b/>",
-      "endDate": "<b style='color:red;'>null<b/>"
+      "startDate": "May 11",
+      "endDate": "August 16"
     },
     {
       "item": "about",
@@ -895,10 +895,10 @@
       "abbreviation": "BSU",
       "phone": "(208) 247-5556",
       "credits": "6 BSU credits",
-      "programFee": null,
-      "seasonYear": null,
-      "term": null,
-      "season": "<b style='color:red;'>null<b/>",
+      "programFee": "+ 1,600",
+      "seasonYear": "Summer 2026",
+      "term": "Summer",
+      "season": "Summer",
       "registrationMessage": "Registration is now open."
     },
     {
@@ -917,12 +917,9 @@
       "courseCode1": "IPS 350 (Fall • CRN: 76889)",
       "courseCode2": "IPS 350 (Fall • CRN: 76967)",
       "courseCode3": "IPS 350 (Summer • CRN: 42134)",
-      "seasonYear1": "Summer 2026",
-      "seasonYear2": "Fall 2026",
-      "term1StartDate": null,
-      "term1EndDate": null,
-      "term2StartDate": "August 24",
-      "term2EndDate": "December 18"
+      "seasonYear": "Summer 2026",
+      "startDate": "May 11",
+      "endDate": "August 16"
     },
     {
       "item": "coding-for-web",
@@ -934,12 +931,9 @@
       "courseCode1": "IPS 350 (Fall • CRN: 76889)",
       "courseCode2": "IPS 350 (Fall • CRN: 76967)",
       "courseCode3": "IPS 350 (Summer • CRN: 42134)",
-      "seasonYear1": "Summer 2026",
-      "seasonYear2": "Fall 2026",
-      "term1StartDate": null,
-      "term1EndDate": null,
-      "term2StartDate": "August 24",
-      "term2EndDate": "December 18"
+      "seasonYear": "Summer 2026",
+      "startDate": "May 11",
+      "endDate": "August 16"
     },
     {
       "item": "data-analytics",
@@ -951,12 +945,9 @@
       "courseCode1": "IPS 350 (Fall • CRN: 76889)",
       "courseCode2": "IPS 350 (Fall • CRN: 76967)",
       "courseCode3": "IPS 350 (Summer • CRN: 42134)",
-      "seasonYear1": "Summer 2026",
-      "seasonYear2": "Fall 2026",
-      "term1StartDate": null,
-      "term1EndDate": null,
-      "term2StartDate": "August 24",
-      "term2EndDate": "December 18"
+      "seasonYear": "Summer 2026",
+      "startDate": "May 11",
+      "endDate": "August 16"
     },
     {
       "item": "coding-for-data",
@@ -968,12 +959,9 @@
       "courseCode1": "IPS 350 (Fall • CRN: 76889)",
       "courseCode2": "IPS 350 (Fall • CRN: 76967)",
       "courseCode3": "IPS 350 (Summer • CRN: 42134)",
-      "seasonYear1": "Summer 2026",
-      "seasonYear2": "Fall 2026",
-      "term1StartDate": null,
-      "term1EndDate": null,
-      "term2StartDate": "August 24",
-      "term2EndDate": "December 18"
+      "seasonYear": "Summer 2026",
+      "startDate": "May 11",
+      "endDate": "August 16"
     },
     {
       "item": "career-rotation",
@@ -985,12 +973,9 @@
       "courseCode1": "IPS 350 (Fall • CRN: 76889)",
       "courseCode2": "IPS 350 (Fall • CRN: 76967)",
       "courseCode3": "IPS 350 (Summer • CRN: 42134)",
-      "seasonYear1": "Summer 2026",
-      "seasonYear2": "Fall 2026",
-      "term1StartDate": null,
-      "term1EndDate": null,
-      "term2StartDate": "August 24",
-      "term2EndDate": "December 18"
+      "seasonYear": "Summer 2026",
+      "startDate": "May 11",
+      "endDate": "August 16"
     },
     {
       "item": "reserve-a-seat",
@@ -1023,8 +1008,8 @@
       "termsandConditionsPolicy": "https://www.uc.edu/about/privacy.html",
       "registrationMessage": "Registration is now open.",
       "credits": "6 CINCY credits",
-      "startDate": "May 11",
-      "endDate": "August 9"
+      "startDate": "<b style='color:red;'>null<b/>",
+      "endDate": "<b style='color:red;'>null<b/>"
     },
     {
       "item": "about",
@@ -1035,9 +1020,9 @@
       "phone": "(513) 506-0718",
       "credits": "6 CINCY credits",
       "programFee": null,
-      "seasonYear": "Summer 2026",
-      "term": "Summer",
-      "season": "Summer",
+      "seasonYear": null,
+      "term": null,
+      "season": "<b style='color:red;'>null<b/>",
       "registrationMessage": "Registration is now open."
     },
     {
@@ -1056,8 +1041,8 @@
       "courseCode1": "LPE 2048",
       "seasonYear1": "Summer 2026",
       "seasonYear2": "Fall 2026",
-      "term1StartDate": "May 11",
-      "term1EndDate": "August 9",
+      "term1StartDate": null,
+      "term1EndDate": null,
       "term2StartDate": "August 24",
       "term2EndDate": "December 12"
     },
@@ -1071,8 +1056,8 @@
       "courseCode1": "LPE 2048",
       "seasonYear1": "Summer 2026",
       "seasonYear2": "Fall 2026",
-      "term1StartDate": "May 11",
-      "term1EndDate": "August 9",
+      "term1StartDate": null,
+      "term1EndDate": null,
       "term2StartDate": "August 24",
       "term2EndDate": "December 12"
     },
@@ -1086,8 +1071,8 @@
       "courseCode1": "LPE 2048",
       "seasonYear1": "Summer 2026",
       "seasonYear2": "Fall 2026",
-      "term1StartDate": "May 11",
-      "term1EndDate": "August 9",
+      "term1StartDate": null,
+      "term1EndDate": null,
       "term2StartDate": "August 24",
       "term2EndDate": "December 12"
     },
@@ -1101,8 +1086,8 @@
       "courseCode1": "LPE 2048",
       "seasonYear1": "Summer 2026",
       "seasonYear2": "Fall 2026",
-      "term1StartDate": "May 11",
-      "term1EndDate": "August 9",
+      "term1StartDate": null,
+      "term1EndDate": null,
       "term2StartDate": "August 24",
       "term2EndDate": "December 12"
     },
@@ -1116,8 +1101,8 @@
       "courseCode1": "LPE 2048",
       "seasonYear1": "Summer 2026",
       "seasonYear2": "Fall 2026",
-      "term1StartDate": "May 11",
-      "term1EndDate": "August 9",
+      "term1StartDate": null,
+      "term1EndDate": null,
       "term2StartDate": "August 24",
       "term2EndDate": "December 12"
     },
@@ -1787,6 +1772,7 @@
       "credits": "3 UD credits",
       "abbreviation": "UD",
       "registrationMessage": "Registration is now open.",
+      "courseCode1": "BIZ 294",
       "seasonYear": "Summer 2026",
       "startDate": "May 18",
       "endDate": "August 8"
@@ -1798,6 +1784,7 @@
       "credits": "3 UD credits",
       "abbreviation": "UD",
       "registrationMessage": "Registration is now open.",
+      "courseCode1": "BIZ 294",
       "seasonYear": "Summer 2026",
       "startDate": "May 18",
       "endDate": "August 8"
@@ -1809,6 +1796,7 @@
       "credits": "3 UD credits",
       "abbreviation": "UD",
       "registrationMessage": "Registration is now open.",
+      "courseCode1": "BIZ 294",
       "seasonYear": "Summer 2026",
       "startDate": "May 18",
       "endDate": "August 8"
@@ -1820,6 +1808,7 @@
       "credits": "3 UD credits",
       "abbreviation": "UD",
       "registrationMessage": "Registration is now open.",
+      "courseCode1": "BIZ 294",
       "seasonYear": "Summer 2026",
       "startDate": "May 18",
       "endDate": "August 8"
@@ -1831,6 +1820,7 @@
       "credits": "3 UD credits",
       "abbreviation": "UD",
       "registrationMessage": "Registration is now open.",
+      "courseCode1": "BIZ 294",
       "seasonYear": "Summer 2026",
       "startDate": "May 18",
       "endDate": "August 8"
@@ -2145,12 +2135,9 @@
       "abbreviation": "Elmhurst",
       "registrationMessage": "Registration is now open.",
       "courseCode1": "COM 353-15: COM 353-15",
-      "seasonYear1": "Summer 2026",
-      "seasonYear2": "Fall 2026",
-      "term1StartDate": "June 8",
-      "term1EndDate": "August 16",
-      "term2StartDate": "August 31",
-      "term2EndDate": "December 17"
+      "seasonYear": "Summer 2026",
+      "startDate": "June 8",
+      "endDate": "August 16"
     },
     {
       "item": "coding-for-web",
@@ -2160,12 +2147,9 @@
       "abbreviation": "Elmhurst",
       "registrationMessage": "Registration is now open.",
       "courseCode1": "COM 353-15: COM 353-15",
-      "seasonYear1": "Summer 2026",
-      "seasonYear2": "Fall 2026",
-      "term1StartDate": "June 8",
-      "term1EndDate": "August 16",
-      "term2StartDate": "August 31",
-      "term2EndDate": "December 17"
+      "seasonYear": "Summer 2026",
+      "startDate": "June 8",
+      "endDate": "August 16"
     },
     {
       "item": "data-analytics",
@@ -2175,12 +2159,9 @@
       "abbreviation": "Elmhurst",
       "registrationMessage": "Registration is now open.",
       "courseCode1": "COM 353-15: COM 353-15",
-      "seasonYear1": "Summer 2026",
-      "seasonYear2": "Fall 2026",
-      "term1StartDate": "June 8",
-      "term1EndDate": "August 16",
-      "term2StartDate": "August 31",
-      "term2EndDate": "December 17"
+      "seasonYear": "Summer 2026",
+      "startDate": "June 8",
+      "endDate": "August 16"
     },
     {
       "item": "coding-for-data",
@@ -2190,12 +2171,9 @@
       "abbreviation": "Elmhurst",
       "registrationMessage": "Registration is now open.",
       "courseCode1": "COM 353-15: COM 353-15",
-      "seasonYear1": "Summer 2026",
-      "seasonYear2": "Fall 2026",
-      "term1StartDate": "June 8",
-      "term1EndDate": "August 16",
-      "term2StartDate": "August 31",
-      "term2EndDate": "December 17"
+      "seasonYear": "Summer 2026",
+      "startDate": "June 8",
+      "endDate": "August 16"
     },
     {
       "item": "career-rotation",
@@ -2205,12 +2183,9 @@
       "abbreviation": "Elmhurst",
       "registrationMessage": "Registration is now open.",
       "courseCode1": "COM 353-15: COM 353-15",
-      "seasonYear1": "Summer 2026",
-      "seasonYear2": "Fall 2026",
-      "term1StartDate": "June 8",
-      "term1EndDate": "August 16",
-      "term2StartDate": "August 31",
-      "term2EndDate": "December 17"
+      "seasonYear": "Summer 2026",
+      "startDate": "June 8",
+      "endDate": "August 16"
     },
     {
       "item": "reserve-a-seat",
@@ -2392,8 +2367,8 @@
       "termsandConditionsPolicy": "https://www.fgcu.edu/adminservices/officeofthecontroller/procurementservices/purchasing/termsandconditions",
       "registrationMessage": "Registration is now open.",
       "credits": "Up to 6 FGCU credits",
-      "startDate": "May 11",
-      "endDate": "August 8"
+      "startDate": "<b style='color:red;'>null<b/>",
+      "endDate": "<b style='color:red;'>null<b/>"
     },
     {
       "item": "about",
@@ -2403,10 +2378,10 @@
       "abbreviation": "FGCU",
       "phone": "(239) 266-2546",
       "credits": "Up to 6 FGCU credits",
-      "programFee": "+ 1,800",
-      "seasonYear": "Summer 2026",
-      "term": "Summer",
-      "season": "Summer",
+      "programFee": null,
+      "seasonYear": null,
+      "term": null,
+      "season": "<b style='color:red;'>null<b/>",
       "registrationMessage": "Registration is now open."
     },
     {
@@ -2430,8 +2405,8 @@
       "courseCode6": "COE3948",
       "seasonYear1": "Summer 2026",
       "seasonYear2": "Fall 2026",
-      "term1StartDate": "May 11",
-      "term1EndDate": "August 8",
+      "term1StartDate": null,
+      "term1EndDate": null,
       "term2StartDate": "August 17",
       "term2EndDate": "December 4"
     },
@@ -2450,8 +2425,8 @@
       "courseCode6": "COE3948",
       "seasonYear1": "Summer 2026",
       "seasonYear2": "Fall 2026",
-      "term1StartDate": "May 11",
-      "term1EndDate": "August 8",
+      "term1StartDate": null,
+      "term1EndDate": null,
       "term2StartDate": "August 17",
       "term2EndDate": "December 4"
     },
@@ -2470,8 +2445,8 @@
       "courseCode6": "COE3948",
       "seasonYear1": "Summer 2026",
       "seasonYear2": "Fall 2026",
-      "term1StartDate": "May 11",
-      "term1EndDate": "August 8",
+      "term1StartDate": null,
+      "term1EndDate": null,
       "term2StartDate": "August 17",
       "term2EndDate": "December 4"
     },
@@ -2490,8 +2465,8 @@
       "courseCode6": "COE3948",
       "seasonYear1": "Summer 2026",
       "seasonYear2": "Fall 2026",
-      "term1StartDate": "May 11",
-      "term1EndDate": "August 8",
+      "term1StartDate": null,
+      "term1EndDate": null,
       "term2StartDate": "August 17",
       "term2EndDate": "December 4"
     },
@@ -2510,8 +2485,8 @@
       "courseCode6": "COE3948",
       "seasonYear1": "Summer 2026",
       "seasonYear2": "Fall 2026",
-      "term1StartDate": "May 11",
-      "term1EndDate": "August 8",
+      "term1StartDate": null,
+      "term1EndDate": null,
       "term2StartDate": "August 17",
       "term2EndDate": "December 4"
     },
@@ -2577,12 +2552,9 @@
       "abbreviation": "FIU",
       "registrationMessage": "Registration is now open.",
       "courseCode1": "SLS 3940 (Internship)",
-      "seasonYear1": "Summer 2026",
-      "seasonYear2": "Fall 2026",
-      "term1StartDate": "May 11",
-      "term1EndDate": "July 31",
-      "term2StartDate": "August 24",
-      "term2EndDate": "December 12"
+      "seasonYear": "Summer 2026",
+      "startDate": "May 11",
+      "endDate": "July 31"
     },
     {
       "item": "coding-for-web",
@@ -2592,12 +2564,9 @@
       "abbreviation": "FIU",
       "registrationMessage": "Registration is now open.",
       "courseCode1": "SLS 3940 (Internship)",
-      "seasonYear1": "Summer 2026",
-      "seasonYear2": "Fall 2026",
-      "term1StartDate": "May 11",
-      "term1EndDate": "July 31",
-      "term2StartDate": "August 24",
-      "term2EndDate": "December 12"
+      "seasonYear": "Summer 2026",
+      "startDate": "May 11",
+      "endDate": "July 31"
     },
     {
       "item": "data-analytics",
@@ -2607,12 +2576,9 @@
       "abbreviation": "FIU",
       "registrationMessage": "Registration is now open.",
       "courseCode1": "SLS 3940 (Internship)",
-      "seasonYear1": "Summer 2026",
-      "seasonYear2": "Fall 2026",
-      "term1StartDate": "May 11",
-      "term1EndDate": "July 31",
-      "term2StartDate": "August 24",
-      "term2EndDate": "December 12"
+      "seasonYear": "Summer 2026",
+      "startDate": "May 11",
+      "endDate": "July 31"
     },
     {
       "item": "coding-for-data",
@@ -2622,12 +2588,9 @@
       "abbreviation": "FIU",
       "registrationMessage": "Registration is now open.",
       "courseCode1": "SLS 3940 (Internship)",
-      "seasonYear1": "Summer 2026",
-      "seasonYear2": "Fall 2026",
-      "term1StartDate": "May 11",
-      "term1EndDate": "July 31",
-      "term2StartDate": "August 24",
-      "term2EndDate": "December 12"
+      "seasonYear": "Summer 2026",
+      "startDate": "May 11",
+      "endDate": "July 31"
     },
     {
       "item": "career-rotation",
@@ -2637,12 +2600,9 @@
       "abbreviation": "FIU",
       "registrationMessage": "Registration is now open.",
       "courseCode1": "SLS 3940 (Internship)",
-      "seasonYear1": "Summer 2026",
-      "seasonYear2": "Fall 2026",
-      "term1StartDate": "May 11",
-      "term1EndDate": "July 31",
-      "term2StartDate": "August 24",
-      "term2EndDate": "December 12"
+      "seasonYear": "Summer 2026",
+      "startDate": "May 11",
+      "endDate": "July 31"
     },
     {
       "item": "reserve-a-seat",
@@ -2819,8 +2779,8 @@
       "termsandConditionsPolicy": "https://www.uidaho.edu/policies",
       "registrationMessage": "Registration is now open.",
       "credits": "3 UIdaho credits",
-      "startDate": "May 18",
-      "endDate": "August 7"
+      "startDate": "<b style='color:red;'>null<b/>",
+      "endDate": "<b style='color:red;'>null<b/>"
     },
     {
       "item": "about",
@@ -2831,9 +2791,9 @@
       "phone": "(208) 886-4151",
       "credits": "3 UIdaho credits",
       "programFee": null,
-      "seasonYear": "Summer 2026",
-      "term": "Summer",
-      "season": "Summer",
+      "seasonYear": null,
+      "term": null,
+      "season": "<b style='color:red;'>null<b/>",
       "registrationMessage": "Registration is now open."
     },
     {
@@ -2849,10 +2809,12 @@
       "credits": "3 UIdaho credits",
       "abbreviation": "UIdaho",
       "registrationMessage": "Registration is now open.",
+      "courseCode1": "INTR3980: INTR3980 (Fall)",
+      "courseCode2": "INTR3980: INTR3980 (Summer)",
       "seasonYear1": "Summer 2026",
       "seasonYear2": "Fall 2026",
-      "term1StartDate": "May 18",
-      "term1EndDate": "August 7",
+      "term1StartDate": null,
+      "term1EndDate": null,
       "term2StartDate": "August 24",
       "term2EndDate": "December 18"
     },
@@ -2863,10 +2825,12 @@
       "credits": "3 UIdaho credits",
       "abbreviation": "UIdaho",
       "registrationMessage": "Registration is now open.",
+      "courseCode1": "INTR3980: INTR3980 (Fall)",
+      "courseCode2": "INTR3980: INTR3980 (Summer)",
       "seasonYear1": "Summer 2026",
       "seasonYear2": "Fall 2026",
-      "term1StartDate": "May 18",
-      "term1EndDate": "August 7",
+      "term1StartDate": null,
+      "term1EndDate": null,
       "term2StartDate": "August 24",
       "term2EndDate": "December 18"
     },
@@ -2877,10 +2841,12 @@
       "credits": "3 UIdaho credits",
       "abbreviation": "UIdaho",
       "registrationMessage": "Registration is now open.",
+      "courseCode1": "INTR3980: INTR3980 (Fall)",
+      "courseCode2": "INTR3980: INTR3980 (Summer)",
       "seasonYear1": "Summer 2026",
       "seasonYear2": "Fall 2026",
-      "term1StartDate": "May 18",
-      "term1EndDate": "August 7",
+      "term1StartDate": null,
+      "term1EndDate": null,
       "term2StartDate": "August 24",
       "term2EndDate": "December 18"
     },
@@ -2891,10 +2857,12 @@
       "credits": "3 UIdaho credits",
       "abbreviation": "UIdaho",
       "registrationMessage": "Registration is now open.",
+      "courseCode1": "INTR3980: INTR3980 (Fall)",
+      "courseCode2": "INTR3980: INTR3980 (Summer)",
       "seasonYear1": "Summer 2026",
       "seasonYear2": "Fall 2026",
-      "term1StartDate": "May 18",
-      "term1EndDate": "August 7",
+      "term1StartDate": null,
+      "term1EndDate": null,
       "term2StartDate": "August 24",
       "term2EndDate": "December 18"
     },
@@ -2905,10 +2873,12 @@
       "credits": "3 UIdaho credits",
       "abbreviation": "UIdaho",
       "registrationMessage": "Registration is now open.",
+      "courseCode1": "INTR3980: INTR3980 (Fall)",
+      "courseCode2": "INTR3980: INTR3980 (Summer)",
       "seasonYear1": "Summer 2026",
       "seasonYear2": "Fall 2026",
-      "term1StartDate": "May 18",
-      "term1EndDate": "August 7",
+      "term1StartDate": null,
+      "term1EndDate": null,
       "term2StartDate": "August 24",
       "term2EndDate": "December 18"
     },
@@ -2974,12 +2944,9 @@
       "abbreviation": "IIT",
       "registrationMessage": "Registration is now open.",
       "courseCode1": "BUS 495",
-      "seasonYear1": "Summer 2026",
-      "seasonYear2": "Fall 2026",
-      "term1StartDate": "May 18",
-      "term1EndDate": "August 8",
-      "term2StartDate": "August 17",
-      "term2EndDate": "December 12"
+      "seasonYear": "Summer 2026",
+      "startDate": "May 18",
+      "endDate": "August 8"
     },
     {
       "item": "coding-for-web",
@@ -2989,12 +2956,9 @@
       "abbreviation": "IIT",
       "registrationMessage": "Registration is now open.",
       "courseCode1": "BUS 495",
-      "seasonYear1": "Summer 2026",
-      "seasonYear2": "Fall 2026",
-      "term1StartDate": "May 18",
-      "term1EndDate": "August 8",
-      "term2StartDate": "August 17",
-      "term2EndDate": "December 12"
+      "seasonYear": "Summer 2026",
+      "startDate": "May 18",
+      "endDate": "August 8"
     },
     {
       "item": "data-analytics",
@@ -3004,12 +2968,9 @@
       "abbreviation": "IIT",
       "registrationMessage": "Registration is now open.",
       "courseCode1": "BUS 495",
-      "seasonYear1": "Summer 2026",
-      "seasonYear2": "Fall 2026",
-      "term1StartDate": "May 18",
-      "term1EndDate": "August 8",
-      "term2StartDate": "August 17",
-      "term2EndDate": "December 12"
+      "seasonYear": "Summer 2026",
+      "startDate": "May 18",
+      "endDate": "August 8"
     },
     {
       "item": "coding-for-data",
@@ -3019,12 +2980,9 @@
       "abbreviation": "IIT",
       "registrationMessage": "Registration is now open.",
       "courseCode1": "BUS 495",
-      "seasonYear1": "Summer 2026",
-      "seasonYear2": "Fall 2026",
-      "term1StartDate": "May 18",
-      "term1EndDate": "August 8",
-      "term2StartDate": "August 17",
-      "term2EndDate": "December 12"
+      "seasonYear": "Summer 2026",
+      "startDate": "May 18",
+      "endDate": "August 8"
     },
     {
       "item": "career-rotation",
@@ -3034,12 +2992,9 @@
       "abbreviation": "IIT",
       "registrationMessage": "Registration is now open.",
       "courseCode1": "BUS 495",
-      "seasonYear1": "Summer 2026",
-      "seasonYear2": "Fall 2026",
-      "term1StartDate": "May 18",
-      "term1EndDate": "August 8",
-      "term2StartDate": "August 17",
-      "term2EndDate": "December 12"
+      "seasonYear": "Summer 2026",
+      "startDate": "May 18",
+      "endDate": "August 8"
     },
     {
       "item": "reserve-a-seat",
@@ -3072,8 +3027,8 @@
       "termsandConditionsPolicy": "http://catalog.illinois.edu/general-information/policy-notes/",
       "registrationMessage": "Registration is now open.",
       "credits": "3 UofI credits",
-      "startDate": "<b style='color:red;'>null<b/>",
-      "endDate": "<b style='color:red;'>null<b/>"
+      "startDate": "May 18",
+      "endDate": "August 7"
     },
     {
       "item": "about",
@@ -3084,9 +3039,9 @@
       "phone": "(217) 688-1644",
       "credits": "3 UofI credits",
       "programFee": null,
-      "seasonYear": null,
-      "term": null,
-      "season": "<b style='color:red;'>null<b/>",
+      "seasonYear": "Summer 2026",
+      "term": "Summer",
+      "season": "Summer",
       "registrationMessage": "Registration is now open."
     },
     {
@@ -3103,12 +3058,9 @@
       "abbreviation": "UofI",
       "registrationMessage": "Registration is now open.",
       "courseCode1": "BUS 199",
-      "seasonYear1": "Summer 2026",
-      "seasonYear2": "Fall 2026",
-      "term1StartDate": null,
-      "term1EndDate": null,
-      "term2StartDate": "<b style='color:red;'>null<b/>",
-      "term2EndDate": "<b style='color:red;'>null<b/>"
+      "seasonYear": "Summer 2026",
+      "startDate": "May 18",
+      "endDate": "August 7"
     },
     {
       "item": "coding-for-web",
@@ -3118,12 +3070,9 @@
       "abbreviation": "UofI",
       "registrationMessage": "Registration is now open.",
       "courseCode1": "BUS 199",
-      "seasonYear1": "Summer 2026",
-      "seasonYear2": "Fall 2026",
-      "term1StartDate": null,
-      "term1EndDate": null,
-      "term2StartDate": "<b style='color:red;'>null<b/>",
-      "term2EndDate": "<b style='color:red;'>null<b/>"
+      "seasonYear": "Summer 2026",
+      "startDate": "May 18",
+      "endDate": "August 7"
     },
     {
       "item": "data-analytics",
@@ -3133,12 +3082,9 @@
       "abbreviation": "UofI",
       "registrationMessage": "Registration is now open.",
       "courseCode1": "BUS 199",
-      "seasonYear1": "Summer 2026",
-      "seasonYear2": "Fall 2026",
-      "term1StartDate": null,
-      "term1EndDate": null,
-      "term2StartDate": "<b style='color:red;'>null<b/>",
-      "term2EndDate": "<b style='color:red;'>null<b/>"
+      "seasonYear": "Summer 2026",
+      "startDate": "May 18",
+      "endDate": "August 7"
     },
     {
       "item": "coding-for-data",
@@ -3148,12 +3094,9 @@
       "abbreviation": "UofI",
       "registrationMessage": "Registration is now open.",
       "courseCode1": "BUS 199",
-      "seasonYear1": "Summer 2026",
-      "seasonYear2": "Fall 2026",
-      "term1StartDate": null,
-      "term1EndDate": null,
-      "term2StartDate": "<b style='color:red;'>null<b/>",
-      "term2EndDate": "<b style='color:red;'>null<b/>"
+      "seasonYear": "Summer 2026",
+      "startDate": "May 18",
+      "endDate": "August 7"
     },
     {
       "item": "career-rotation",
@@ -3163,12 +3106,9 @@
       "abbreviation": "UofI",
       "registrationMessage": "Registration is now open.",
       "courseCode1": "BUS 199",
-      "seasonYear1": "Summer 2026",
-      "seasonYear2": "Fall 2026",
-      "term1StartDate": null,
-      "term1EndDate": null,
-      "term2StartDate": "<b style='color:red;'>null<b/>",
-      "term2EndDate": "<b style='color:red;'>null<b/>"
+      "seasonYear": "Summer 2026",
+      "startDate": "May 18",
+      "endDate": "August 7"
     },
     {
       "item": "reserve-a-seat",
@@ -3329,9 +3269,9 @@
       "programName": "JMU Global Career Accelerator",
       "termsandConditionsPolicy": null,
       "registrationMessage": "Registration is now open.",
-      "credits": "6 JMU credits",
-      "startDate": "May 26",
-      "endDate": "August 14"
+      "credits": "3 or 6 JMU credits",
+      "startDate": "<b style='color:red;'>null<b/>",
+      "endDate": "<b style='color:red;'>null<b/>"
     },
     {
       "item": "about",
@@ -3340,16 +3280,16 @@
       "schoolFullAddress": "Holland Yates Hall,  MSC 5731, 100 East Grace Street, 2nd Floor, Harrisonburg, Virginia 22807",
       "abbreviation": "JMU",
       "phone": "(540) 306-5321",
-      "credits": "6 JMU credits",
+      "credits": "3 or 6 JMU credits",
       "programFee": null,
-      "seasonYear": "Summer 2026",
-      "term": "Summer",
-      "season": "Summer",
+      "seasonYear": null,
+      "term": null,
+      "season": "<b style='color:red;'>null<b/>",
       "registrationMessage": "Registration is now open."
     },
     {
       "item": "explore-tracks",
-      "credits": "6 JMU credits",
+      "credits": "3 or 6 JMU credits",
       "abbreviation": "JMU",
       "registrationMessage": "Registration is now open."
     },
@@ -3357,71 +3297,76 @@
       "item": "ecommerce",
       "schoolname": "James Madison University",
       "trackTitle": "Ecommerce Track",
-      "credits": "6 JMU credits",
+      "credits": "3 or 6 JMU credits",
       "abbreviation": "JMU",
       "registrationMessage": "Registration is now open.",
-      "seasonYear1": "Summer 2026",
-      "seasonYear2": "Fall 2026",
-      "term1StartDate": "May 26",
-      "term1EndDate": "August 14",
-      "term2StartDate": "August 26",
-      "term2EndDate": "December 11"
+      "courseCode1": "UNST-498-0001 (Fall)",
+      "courseCode2": "UNST-498-0001 (Spring)",
+      "courseCode3": "UNST-498-0001 (Summer)",
+      "courseCode4": "UNST-498-0002 (Summer)",
+      "seasonYear": "<b style='color:red;'>null<b/>",
+      "startDate": "<b style='color:red;'>null<b/>",
+      "endDate": "<b style='color:red;'>null<b/>"
     },
     {
       "item": "coding-for-web",
       "schoolname": "James Madison University",
       "trackTitle": "Web Development for Everyone Track",
-      "credits": "6 JMU credits",
+      "credits": "3 or 6 JMU credits",
       "abbreviation": "JMU",
       "registrationMessage": "Registration is now open.",
-      "seasonYear1": "Summer 2026",
-      "seasonYear2": "Fall 2026",
-      "term1StartDate": "May 26",
-      "term1EndDate": "August 14",
-      "term2StartDate": "August 26",
-      "term2EndDate": "December 11"
+      "courseCode1": "UNST-498-0001 (Fall)",
+      "courseCode2": "UNST-498-0001 (Spring)",
+      "courseCode3": "UNST-498-0001 (Summer)",
+      "courseCode4": "UNST-498-0002 (Summer)",
+      "seasonYear": "<b style='color:red;'>null<b/>",
+      "startDate": "<b style='color:red;'>null<b/>",
+      "endDate": "<b style='color:red;'>null<b/>"
     },
     {
       "item": "data-analytics",
       "schoolname": "James Madison University",
       "trackTitle": "Data Analytics Track",
-      "credits": "6 JMU credits",
+      "credits": "3 or 6 JMU credits",
       "abbreviation": "JMU",
       "registrationMessage": "Registration is now open.",
-      "seasonYear1": "Summer 2026",
-      "seasonYear2": "Fall 2026",
-      "term1StartDate": "May 26",
-      "term1EndDate": "August 14",
-      "term2StartDate": "August 26",
-      "term2EndDate": "December 11"
+      "courseCode1": "UNST-498-0001 (Fall)",
+      "courseCode2": "UNST-498-0001 (Spring)",
+      "courseCode3": "UNST-498-0001 (Summer)",
+      "courseCode4": "UNST-498-0002 (Summer)",
+      "seasonYear": "<b style='color:red;'>null<b/>",
+      "startDate": "<b style='color:red;'>null<b/>",
+      "endDate": "<b style='color:red;'>null<b/>"
     },
     {
       "item": "coding-for-data",
       "schoolname": "James Madison University",
       "trackTitle": "Coding for Data Track",
-      "credits": "6 JMU credits",
+      "credits": "3 or 6 JMU credits",
       "abbreviation": "JMU",
       "registrationMessage": "Registration is now open.",
-      "seasonYear1": "Summer 2026",
-      "seasonYear2": "Fall 2026",
-      "term1StartDate": "May 26",
-      "term1EndDate": "August 14",
-      "term2StartDate": "August 26",
-      "term2EndDate": "December 11"
+      "courseCode1": "UNST-498-0001 (Fall)",
+      "courseCode2": "UNST-498-0001 (Spring)",
+      "courseCode3": "UNST-498-0001 (Summer)",
+      "courseCode4": "UNST-498-0002 (Summer)",
+      "seasonYear": "<b style='color:red;'>null<b/>",
+      "startDate": "<b style='color:red;'>null<b/>",
+      "endDate": "<b style='color:red;'>null<b/>"
     },
     {
       "item": "career-rotation",
       "schoolname": "James Madison University",
       "trackTitle": "Career Rotation Track",
-      "credits": "6 JMU credits",
+      "credits": "3 or 6 JMU credits",
       "abbreviation": "JMU",
       "registrationMessage": "Registration is now open.",
-      "seasonYear1": "Summer 2026",
-      "seasonYear2": "Fall 2026",
-      "term1StartDate": "May 26",
-      "term1EndDate": "August 14",
-      "term2StartDate": "August 26",
-      "term2EndDate": "December 11"
+      "courseCode1": "UNST-498-0001 (Fall)",
+      "courseCode2": "UNST-498-0001 (Spring)",
+      "courseCode3": "UNST-498-0001 (Summer)",
+      "courseCode4": "UNST-498-0002 (Summer)",
+      "seasonYear": "<b style='color:red;'>null<b/>",
+      "startDate": "<b style='color:red;'>null<b/>",
+      "endDate": "<b style='color:red;'>null<b/>"
     },
     {
       "item": "reserve-a-seat",
@@ -3432,7 +3377,7 @@
     },
     {
       "item": "begin",
-      "credits": "6 JMU credits",
+      "credits": "3 or 6 JMU credits",
       "abbreviation": "JMU",
       "phone": "(540) 306-5321"
     }
@@ -3616,12 +3561,9 @@
       "courseCode1": "UC10095-001 Special Topics (Summer • CRN: 12284) (Special Topics)",
       "courseCode2": "UC20099-001 Special Topics (Fall • CRN: 18503) (Special Topics)",
       "courseCode3": "UC20099-001 Special Topics (Fall • CRN: 18503) (Special Topics)",
-      "seasonYear1": "Summer 2026",
-      "seasonYear2": "Fall 2026",
-      "term1StartDate": "May 18",
-      "term1EndDate": "August 9",
-      "term2StartDate": "August 24",
-      "term2EndDate": "December 20"
+      "seasonYear": "Summer 2026",
+      "startDate": "May 18",
+      "endDate": "August 9"
     },
     {
       "item": "coding-for-web",
@@ -3633,12 +3575,9 @@
       "courseCode1": "UC10095-001 Special Topics (Summer • CRN: 12284) (Special Topics)",
       "courseCode2": "UC20099-001 Special Topics (Fall • CRN: 18503) (Special Topics)",
       "courseCode3": "UC20099-001 Special Topics (Fall • CRN: 18503) (Special Topics)",
-      "seasonYear1": "Summer 2026",
-      "seasonYear2": "Fall 2026",
-      "term1StartDate": "May 18",
-      "term1EndDate": "August 9",
-      "term2StartDate": "August 24",
-      "term2EndDate": "December 20"
+      "seasonYear": "Summer 2026",
+      "startDate": "May 18",
+      "endDate": "August 9"
     },
     {
       "item": "data-analytics",
@@ -3650,12 +3589,9 @@
       "courseCode1": "UC10095-001 Special Topics (Summer • CRN: 12284) (Special Topics)",
       "courseCode2": "UC20099-001 Special Topics (Fall • CRN: 18503) (Special Topics)",
       "courseCode3": "UC20099-001 Special Topics (Fall • CRN: 18503) (Special Topics)",
-      "seasonYear1": "Summer 2026",
-      "seasonYear2": "Fall 2026",
-      "term1StartDate": "May 18",
-      "term1EndDate": "August 9",
-      "term2StartDate": "August 24",
-      "term2EndDate": "December 20"
+      "seasonYear": "Summer 2026",
+      "startDate": "May 18",
+      "endDate": "August 9"
     },
     {
       "item": "coding-for-data",
@@ -3667,12 +3603,9 @@
       "courseCode1": "UC10095-001 Special Topics (Summer • CRN: 12284) (Special Topics)",
       "courseCode2": "UC20099-001 Special Topics (Fall • CRN: 18503) (Special Topics)",
       "courseCode3": "UC20099-001 Special Topics (Fall • CRN: 18503) (Special Topics)",
-      "seasonYear1": "Summer 2026",
-      "seasonYear2": "Fall 2026",
-      "term1StartDate": "May 18",
-      "term1EndDate": "August 9",
-      "term2StartDate": "August 24",
-      "term2EndDate": "December 20"
+      "seasonYear": "Summer 2026",
+      "startDate": "May 18",
+      "endDate": "August 9"
     },
     {
       "item": "career-rotation",
@@ -3684,12 +3617,9 @@
       "courseCode1": "UC10095-001 Special Topics (Summer • CRN: 12284) (Special Topics)",
       "courseCode2": "UC20099-001 Special Topics (Fall • CRN: 18503) (Special Topics)",
       "courseCode3": "UC20099-001 Special Topics (Fall • CRN: 18503) (Special Topics)",
-      "seasonYear1": "Summer 2026",
-      "seasonYear2": "Fall 2026",
-      "term1StartDate": "May 18",
-      "term1EndDate": "August 9",
-      "term2StartDate": "August 24",
-      "term2EndDate": "December 20"
+      "seasonYear": "Summer 2026",
+      "startDate": "May 18",
+      "endDate": "August 9"
     },
     {
       "item": "reserve-a-seat",
@@ -3734,9 +3664,9 @@
       "phone": "(610) 890-4334",
       "credits": null,
       "programFee": null,
-      "seasonYear": "Summer 2026",
-      "term": "Summer",
-      "season": "Summer",
+      "seasonYear": null,
+      "term": null,
+      "season": "<b style='color:red;'>null<b/>",
       "registrationMessage": "Registration is now open."
     },
     {
@@ -3752,7 +3682,7 @@
       "credits": null,
       "abbreviation": "Lafayette",
       "registrationMessage": "Registration is now open.",
-      "seasonYear": "Summer 2026",
+      "seasonYear": "<b style='color:red;'>null<b/>",
       "startDate": "<b style='color:red;'>null<b/>",
       "endDate": "<b style='color:red;'>null<b/>"
     },
@@ -3763,7 +3693,7 @@
       "credits": null,
       "abbreviation": "Lafayette",
       "registrationMessage": "Registration is now open.",
-      "seasonYear": "Summer 2026",
+      "seasonYear": "<b style='color:red;'>null<b/>",
       "startDate": "<b style='color:red;'>null<b/>",
       "endDate": "<b style='color:red;'>null<b/>"
     },
@@ -3774,7 +3704,7 @@
       "credits": null,
       "abbreviation": "Lafayette",
       "registrationMessage": "Registration is now open.",
-      "seasonYear": "Summer 2026",
+      "seasonYear": "<b style='color:red;'>null<b/>",
       "startDate": "<b style='color:red;'>null<b/>",
       "endDate": "<b style='color:red;'>null<b/>"
     },
@@ -3785,7 +3715,7 @@
       "credits": null,
       "abbreviation": "Lafayette",
       "registrationMessage": "Registration is now open.",
-      "seasonYear": "Summer 2026",
+      "seasonYear": "<b style='color:red;'>null<b/>",
       "startDate": "<b style='color:red;'>null<b/>",
       "endDate": "<b style='color:red;'>null<b/>"
     },
@@ -3796,7 +3726,7 @@
       "credits": null,
       "abbreviation": "Lafayette",
       "registrationMessage": "Registration is now open.",
-      "seasonYear": "Summer 2026",
+      "seasonYear": "<b style='color:red;'>null<b/>",
       "startDate": "<b style='color:red;'>null<b/>",
       "endDate": "<b style='color:red;'>null<b/>"
     },
@@ -4012,9 +3942,12 @@
       "courseCode5": "INT 197",
       "courseCode6": "INT 197",
       "courseCode7": "INT 197",
-      "seasonYear": "Summer 2026",
-      "startDate": "May 11",
-      "endDate": "August 21"
+      "seasonYear1": "Summer 2026",
+      "seasonYear2": "Fall 2026",
+      "term1StartDate": "May 11",
+      "term1EndDate": "August 21",
+      "term2StartDate": "August 31",
+      "term2EndDate": "December 11"
     },
     {
       "item": "coding-for-web",
@@ -4030,9 +3963,12 @@
       "courseCode5": "INT 197",
       "courseCode6": "INT 197",
       "courseCode7": "INT 197",
-      "seasonYear": "Summer 2026",
-      "startDate": "May 11",
-      "endDate": "August 21"
+      "seasonYear1": "Summer 2026",
+      "seasonYear2": "Fall 2026",
+      "term1StartDate": "May 11",
+      "term1EndDate": "August 21",
+      "term2StartDate": "August 31",
+      "term2EndDate": "December 11"
     },
     {
       "item": "data-analytics",
@@ -4048,9 +3984,12 @@
       "courseCode5": "INT 197",
       "courseCode6": "INT 197",
       "courseCode7": "INT 197",
-      "seasonYear": "Summer 2026",
-      "startDate": "May 11",
-      "endDate": "August 21"
+      "seasonYear1": "Summer 2026",
+      "seasonYear2": "Fall 2026",
+      "term1StartDate": "May 11",
+      "term1EndDate": "August 21",
+      "term2StartDate": "August 31",
+      "term2EndDate": "December 11"
     },
     {
       "item": "coding-for-data",
@@ -4066,9 +4005,12 @@
       "courseCode5": "INT 197",
       "courseCode6": "INT 197",
       "courseCode7": "INT 197",
-      "seasonYear": "Summer 2026",
-      "startDate": "May 11",
-      "endDate": "August 21"
+      "seasonYear1": "Summer 2026",
+      "seasonYear2": "Fall 2026",
+      "term1StartDate": "May 11",
+      "term1EndDate": "August 21",
+      "term2StartDate": "August 31",
+      "term2EndDate": "December 11"
     },
     {
       "item": "career-rotation",
@@ -4084,9 +4026,12 @@
       "courseCode5": "INT 197",
       "courseCode6": "INT 197",
       "courseCode7": "INT 197",
-      "seasonYear": "Summer 2026",
-      "startDate": "May 11",
-      "endDate": "August 21"
+      "seasonYear1": "Summer 2026",
+      "seasonYear2": "Fall 2026",
+      "term1StartDate": "May 11",
+      "term1EndDate": "August 21",
+      "term2StartDate": "August 31",
+      "term2EndDate": "December 11"
     },
     {
       "item": "reserve-a-seat",
@@ -4392,6 +4337,8 @@
       "credits": "6 Montana credits",
       "abbreviation": "Montana",
       "registrationMessage": "Registration is now open.",
+      "courseCode1": "BGEN 291 (CRN: 50620)",
+      "courseCode2": "GBLD 398 (CRN: 50533) (Experiential)",
       "seasonYear": "Summer 2026",
       "startDate": "May 18",
       "endDate": "July 24"
@@ -4403,6 +4350,8 @@
       "credits": "6 Montana credits",
       "abbreviation": "Montana",
       "registrationMessage": "Registration is now open.",
+      "courseCode1": "BGEN 291 (CRN: 50620)",
+      "courseCode2": "GBLD 398 (CRN: 50533) (Experiential)",
       "seasonYear": "Summer 2026",
       "startDate": "May 18",
       "endDate": "July 24"
@@ -4414,6 +4363,8 @@
       "credits": "6 Montana credits",
       "abbreviation": "Montana",
       "registrationMessage": "Registration is now open.",
+      "courseCode1": "BGEN 291 (CRN: 50620)",
+      "courseCode2": "GBLD 398 (CRN: 50533) (Experiential)",
       "seasonYear": "Summer 2026",
       "startDate": "May 18",
       "endDate": "July 24"
@@ -4425,6 +4376,8 @@
       "credits": "6 Montana credits",
       "abbreviation": "Montana",
       "registrationMessage": "Registration is now open.",
+      "courseCode1": "BGEN 291 (CRN: 50620)",
+      "courseCode2": "GBLD 398 (CRN: 50533) (Experiential)",
       "seasonYear": "Summer 2026",
       "startDate": "May 18",
       "endDate": "July 24"
@@ -4436,6 +4389,8 @@
       "credits": "6 Montana credits",
       "abbreviation": "Montana",
       "registrationMessage": "Registration is now open.",
+      "courseCode1": "BGEN 291 (CRN: 50620)",
+      "courseCode2": "GBLD 398 (CRN: 50533) (Experiential)",
       "seasonYear": "Summer 2026",
       "startDate": "May 18",
       "endDate": "July 24"
@@ -4509,9 +4464,12 @@
       "courseCode6": "MGT 400-899 (Summer • CRN: 38960)",
       "courseCode7": "MKT 497-897 (Fall • CRN: 62585)",
       "courseCode8": "MKT 497-897 (Summer • CRN: 38963)",
-      "seasonYear": "Summer 2026",
-      "startDate": "June 8",
-      "endDate": "August 2"
+      "seasonYear1": "Summer 2026",
+      "seasonYear2": "Fall 2026",
+      "term1StartDate": "June 8",
+      "term1EndDate": "August 2",
+      "term2StartDate": "August 17",
+      "term2EndDate": "December 3"
     },
     {
       "item": "coding-for-web",
@@ -4528,9 +4486,12 @@
       "courseCode6": "MGT 400-899 (Summer • CRN: 38960)",
       "courseCode7": "MKT 497-897 (Fall • CRN: 62585)",
       "courseCode8": "MKT 497-897 (Summer • CRN: 38963)",
-      "seasonYear": "Summer 2026",
-      "startDate": "June 8",
-      "endDate": "August 2"
+      "seasonYear1": "Summer 2026",
+      "seasonYear2": "Fall 2026",
+      "term1StartDate": "June 8",
+      "term1EndDate": "August 2",
+      "term2StartDate": "August 17",
+      "term2EndDate": "December 3"
     },
     {
       "item": "data-analytics",
@@ -4547,9 +4508,12 @@
       "courseCode6": "MGT 400-899 (Summer • CRN: 38960)",
       "courseCode7": "MKT 497-897 (Fall • CRN: 62585)",
       "courseCode8": "MKT 497-897 (Summer • CRN: 38963)",
-      "seasonYear": "Summer 2026",
-      "startDate": "June 8",
-      "endDate": "August 2"
+      "seasonYear1": "Summer 2026",
+      "seasonYear2": "Fall 2026",
+      "term1StartDate": "June 8",
+      "term1EndDate": "August 2",
+      "term2StartDate": "August 17",
+      "term2EndDate": "December 3"
     },
     {
       "item": "coding-for-data",
@@ -4566,9 +4530,12 @@
       "courseCode6": "MGT 400-899 (Summer • CRN: 38960)",
       "courseCode7": "MKT 497-897 (Fall • CRN: 62585)",
       "courseCode8": "MKT 497-897 (Summer • CRN: 38963)",
-      "seasonYear": "Summer 2026",
-      "startDate": "June 8",
-      "endDate": "August 2"
+      "seasonYear1": "Summer 2026",
+      "seasonYear2": "Fall 2026",
+      "term1StartDate": "June 8",
+      "term1EndDate": "August 2",
+      "term2StartDate": "August 17",
+      "term2EndDate": "December 3"
     },
     {
       "item": "career-rotation",
@@ -4585,9 +4552,12 @@
       "courseCode6": "MGT 400-899 (Summer • CRN: 38960)",
       "courseCode7": "MKT 497-897 (Fall • CRN: 62585)",
       "courseCode8": "MKT 497-897 (Summer • CRN: 38963)",
-      "seasonYear": "Summer 2026",
-      "startDate": "June 8",
-      "endDate": "August 2"
+      "seasonYear1": "Summer 2026",
+      "seasonYear2": "Fall 2026",
+      "term1StartDate": "June 8",
+      "term1EndDate": "August 2",
+      "term2StartDate": "August 17",
+      "term2EndDate": "December 3"
     },
     {
       "item": "reserve-a-seat",
@@ -4620,8 +4590,8 @@
       "termsandConditionsPolicy": "https://reg.msu.edu/privacy.aspx",
       "registrationMessage": "Registration is now open.",
       "credits": "6 Mich State credits",
-      "startDate": "May 11",
-      "endDate": "August 14"
+      "startDate": "<b style='color:red;'>null<b/>",
+      "endDate": "<b style='color:red;'>null<b/>"
     },
     {
       "item": "about",
@@ -4632,9 +4602,9 @@
       "phone": "(517) 300 2237",
       "credits": "6 Mich State credits",
       "programFee": null,
-      "seasonYear": "Summer 2026",
-      "term": "Summer",
-      "season": "Summer",
+      "seasonYear": null,
+      "term": null,
+      "season": "<b style='color:red;'>null<b/>",
       "registrationMessage": "Registration is now open."
     },
     {
@@ -4650,9 +4620,13 @@
       "credits": "6 Mich State credits",
       "abbreviation": "Mich State",
       "registrationMessage": "Registration is now open.",
-      "seasonYear": "Summer 2026",
-      "startDate": "May 11",
-      "endDate": "August 14"
+      "courseCode1": "UGS 350: Special Topics in Global Technology I / UGS 351: Special Topics in Global Technology II",
+      "seasonYear1": "Summer 2026",
+      "seasonYear2": "Fall 2026",
+      "term1StartDate": null,
+      "term1EndDate": null,
+      "term2StartDate": "August 31",
+      "term2EndDate": "December 18"
     },
     {
       "item": "coding-for-web",
@@ -4661,9 +4635,13 @@
       "credits": "6 Mich State credits",
       "abbreviation": "Mich State",
       "registrationMessage": "Registration is now open.",
-      "seasonYear": "Summer 2026",
-      "startDate": "May 11",
-      "endDate": "August 14"
+      "courseCode1": "UGS 350: Special Topics in Global Technology I / UGS 351: Special Topics in Global Technology II",
+      "seasonYear1": "Summer 2026",
+      "seasonYear2": "Fall 2026",
+      "term1StartDate": null,
+      "term1EndDate": null,
+      "term2StartDate": "August 31",
+      "term2EndDate": "December 18"
     },
     {
       "item": "data-analytics",
@@ -4672,9 +4650,13 @@
       "credits": "6 Mich State credits",
       "abbreviation": "Mich State",
       "registrationMessage": "Registration is now open.",
-      "seasonYear": "Summer 2026",
-      "startDate": "May 11",
-      "endDate": "August 14"
+      "courseCode1": "UGS 350: Special Topics in Global Technology I / UGS 351: Special Topics in Global Technology II",
+      "seasonYear1": "Summer 2026",
+      "seasonYear2": "Fall 2026",
+      "term1StartDate": null,
+      "term1EndDate": null,
+      "term2StartDate": "August 31",
+      "term2EndDate": "December 18"
     },
     {
       "item": "coding-for-data",
@@ -4683,9 +4665,13 @@
       "credits": "6 Mich State credits",
       "abbreviation": "Mich State",
       "registrationMessage": "Registration is now open.",
-      "seasonYear": "Summer 2026",
-      "startDate": "May 11",
-      "endDate": "August 14"
+      "courseCode1": "UGS 350: Special Topics in Global Technology I / UGS 351: Special Topics in Global Technology II",
+      "seasonYear1": "Summer 2026",
+      "seasonYear2": "Fall 2026",
+      "term1StartDate": null,
+      "term1EndDate": null,
+      "term2StartDate": "August 31",
+      "term2EndDate": "December 18"
     },
     {
       "item": "career-rotation",
@@ -4694,9 +4680,13 @@
       "credits": "6 Mich State credits",
       "abbreviation": "Mich State",
       "registrationMessage": "Registration is now open.",
-      "seasonYear": "Summer 2026",
-      "startDate": "May 11",
-      "endDate": "August 14"
+      "courseCode1": "UGS 350: Special Topics in Global Technology I / UGS 351: Special Topics in Global Technology II",
+      "seasonYear1": "Summer 2026",
+      "seasonYear2": "Fall 2026",
+      "term1StartDate": null,
+      "term1EndDate": null,
+      "term2StartDate": "August 31",
+      "term2EndDate": "December 18"
     },
     {
       "item": "reserve-a-seat",
@@ -4873,6 +4863,11 @@
       "credits": "6 NAU credits",
       "abbreviation": "NAU",
       "registrationMessage": "Registration is now open.",
+      "courseCode1": "CS 200TR or SA 204 (Science and Applied Science)",
+      "courseCode2": "ISM 399 or SA 304 (Science and Applied Science)",
+      "courseCode3": "ISM 399 or SA 304 (Science and Applied Science)",
+      "courseCode4": "MKT 299 or SA 201 (Cultural Understanding)",
+      "courseCode5": "SA 301",
       "seasonYear": "Summer 2026",
       "startDate": "May 11",
       "endDate": "August 4"
@@ -4884,6 +4879,11 @@
       "credits": "6 NAU credits",
       "abbreviation": "NAU",
       "registrationMessage": "Registration is now open.",
+      "courseCode1": "CS 200TR or SA 204 (Science and Applied Science)",
+      "courseCode2": "ISM 399 or SA 304 (Science and Applied Science)",
+      "courseCode3": "ISM 399 or SA 304 (Science and Applied Science)",
+      "courseCode4": "MKT 299 or SA 201 (Cultural Understanding)",
+      "courseCode5": "SA 301",
       "seasonYear": "Summer 2026",
       "startDate": "May 11",
       "endDate": "August 4"
@@ -4895,6 +4895,11 @@
       "credits": "6 NAU credits",
       "abbreviation": "NAU",
       "registrationMessage": "Registration is now open.",
+      "courseCode1": "CS 200TR or SA 204 (Science and Applied Science)",
+      "courseCode2": "ISM 399 or SA 304 (Science and Applied Science)",
+      "courseCode3": "ISM 399 or SA 304 (Science and Applied Science)",
+      "courseCode4": "MKT 299 or SA 201 (Cultural Understanding)",
+      "courseCode5": "SA 301",
       "seasonYear": "Summer 2026",
       "startDate": "May 11",
       "endDate": "August 4"
@@ -4906,6 +4911,11 @@
       "credits": "6 NAU credits",
       "abbreviation": "NAU",
       "registrationMessage": "Registration is now open.",
+      "courseCode1": "CS 200TR or SA 204 (Science and Applied Science)",
+      "courseCode2": "ISM 399 or SA 304 (Science and Applied Science)",
+      "courseCode3": "ISM 399 or SA 304 (Science and Applied Science)",
+      "courseCode4": "MKT 299 or SA 201 (Cultural Understanding)",
+      "courseCode5": "SA 301",
       "seasonYear": "Summer 2026",
       "startDate": "May 11",
       "endDate": "August 4"
@@ -4917,6 +4927,11 @@
       "credits": "6 NAU credits",
       "abbreviation": "NAU",
       "registrationMessage": "Registration is now open.",
+      "courseCode1": "CS 200TR or SA 204 (Science and Applied Science)",
+      "courseCode2": "ISM 399 or SA 304 (Science and Applied Science)",
+      "courseCode3": "ISM 399 or SA 304 (Science and Applied Science)",
+      "courseCode4": "MKT 299 or SA 201 (Cultural Understanding)",
+      "courseCode5": "SA 301",
       "seasonYear": "Summer 2026",
       "startDate": "May 11",
       "endDate": "August 4"
@@ -5075,9 +5090,9 @@
       "programName": "UO Global Career Accelerator",
       "termsandConditionsPolicy": null,
       "registrationMessage": "Registration is now open.",
-      "credits": null,
-      "startDate": "<b style='color:red;'>null<b/>",
-      "endDate": "<b style='color:red;'>null<b/>"
+      "credits": "4 UO credits",
+      "startDate": "June 22",
+      "endDate": "September 11"
     },
     {
       "item": "about",
@@ -5086,16 +5101,16 @@
       "schoolFullAddress": null,
       "abbreviation": "UO",
       "phone": "(541) 348-8201",
-      "credits": null,
+      "credits": "4 UO credits",
       "programFee": null,
-      "seasonYear": null,
-      "term": null,
-      "season": "<b style='color:red;'>null<b/>",
+      "seasonYear": "Summer 2026",
+      "term": "Summer",
+      "season": "Summer",
       "registrationMessage": "Registration is now open."
     },
     {
       "item": "explore-tracks",
-      "credits": null,
+      "credits": "4 UO credits",
       "abbreviation": "UO",
       "registrationMessage": "Registration is now open."
     },
@@ -5103,56 +5118,56 @@
       "item": "digital-marketing",
       "schoolname": "University of Oregon",
       "trackTitle": "N/A Track",
-      "credits": null,
+      "credits": "4 UO credits",
       "abbreviation": "UO",
       "registrationMessage": "Registration is now open.",
-      "seasonYear": "<b style='color:red;'>null<b/>",
-      "startDate": "<b style='color:red;'>null<b/>",
-      "endDate": "<b style='color:red;'>null<b/>"
+      "seasonYear": "Summer 2026",
+      "startDate": "June 22",
+      "endDate": "September 11"
     },
     {
       "item": "coding-for-web",
       "schoolname": "University of Oregon",
       "trackTitle": "N/A Track",
-      "credits": null,
+      "credits": "4 UO credits",
       "abbreviation": "UO",
       "registrationMessage": "Registration is now open.",
-      "seasonYear": "<b style='color:red;'>null<b/>",
-      "startDate": "<b style='color:red;'>null<b/>",
-      "endDate": "<b style='color:red;'>null<b/>"
+      "seasonYear": "Summer 2026",
+      "startDate": "June 22",
+      "endDate": "September 11"
     },
     {
       "item": "data-analytics",
       "schoolname": "University of Oregon",
       "trackTitle": "N/A Track",
-      "credits": null,
+      "credits": "4 UO credits",
       "abbreviation": "UO",
       "registrationMessage": "Registration is now open.",
-      "seasonYear": "<b style='color:red;'>null<b/>",
-      "startDate": "<b style='color:red;'>null<b/>",
-      "endDate": "<b style='color:red;'>null<b/>"
+      "seasonYear": "Summer 2026",
+      "startDate": "June 22",
+      "endDate": "September 11"
     },
     {
       "item": "coding-for-data",
       "schoolname": "University of Oregon",
       "trackTitle": "N/A Track",
-      "credits": null,
+      "credits": "4 UO credits",
       "abbreviation": "UO",
       "registrationMessage": "Registration is now open.",
-      "seasonYear": "<b style='color:red;'>null<b/>",
-      "startDate": "<b style='color:red;'>null<b/>",
-      "endDate": "<b style='color:red;'>null<b/>"
+      "seasonYear": "Summer 2026",
+      "startDate": "June 22",
+      "endDate": "September 11"
     },
     {
       "item": "career-rotation",
       "schoolname": "University of Oregon",
       "trackTitle": "Career Rotation Track",
-      "credits": null,
+      "credits": "4 UO credits",
       "abbreviation": "UO",
       "registrationMessage": "Registration is now open.",
-      "seasonYear": "<b style='color:red;'>null<b/>",
-      "startDate": "<b style='color:red;'>null<b/>",
-      "endDate": "<b style='color:red;'>null<b/>"
+      "seasonYear": "Summer 2026",
+      "startDate": "June 22",
+      "endDate": "September 11"
     },
     {
       "item": "reserve-a-seat",
@@ -5163,7 +5178,7 @@
     },
     {
       "item": "begin",
-      "credits": null,
+      "credits": "4 UO credits",
       "abbreviation": "UO",
       "phone": "(541) 348-8201"
     }
@@ -5185,8 +5200,8 @@
       "termsandConditionsPolicy": "https://sites.rowan.edu/consumer-disclosures/",
       "registrationMessage": "Registration is now open.",
       "credits": "6 Rowan credits",
-      "startDate": "<b style='color:red;'>null<b/>",
-      "endDate": "<b style='color:red;'>null<b/>"
+      "startDate": "May 12",
+      "endDate": "August 31"
     },
     {
       "item": "about",
@@ -5197,9 +5212,9 @@
       "phone": "(856) 259-1313",
       "credits": "6 Rowan credits",
       "programFee": null,
-      "seasonYear": null,
-      "term": null,
-      "season": "<b style='color:red;'>null<b/>",
+      "seasonYear": "Summer 2026",
+      "term": "Summer",
+      "season": "Summer",
       "registrationMessage": "Registration is now open."
     },
     {
@@ -5216,12 +5231,9 @@
       "abbreviation": "Rowan",
       "registrationMessage": "Registration is now open.",
       "courseCode1": "CHSS 20399 (Section 6): INTR: Podium Global Tech Exp",
-      "seasonYear1": "Summer 2026",
-      "seasonYear2": "Fall 2026",
-      "term1StartDate": null,
-      "term1EndDate": null,
-      "term2StartDate": "September 7",
-      "term2EndDate": "December 18"
+      "seasonYear": "Summer 2026",
+      "startDate": "May 12",
+      "endDate": "August 31"
     },
     {
       "item": "coding-for-web",
@@ -5231,12 +5243,9 @@
       "abbreviation": "Rowan",
       "registrationMessage": "Registration is now open.",
       "courseCode1": "CHSS 20399 (Section 6): INTR: Podium Global Tech Exp",
-      "seasonYear1": "Summer 2026",
-      "seasonYear2": "Fall 2026",
-      "term1StartDate": null,
-      "term1EndDate": null,
-      "term2StartDate": "September 7",
-      "term2EndDate": "December 18"
+      "seasonYear": "Summer 2026",
+      "startDate": "May 12",
+      "endDate": "August 31"
     },
     {
       "item": "data-analytics",
@@ -5246,12 +5255,9 @@
       "abbreviation": "Rowan",
       "registrationMessage": "Registration is now open.",
       "courseCode1": "CHSS 20399 (Section 6): INTR: Podium Global Tech Exp",
-      "seasonYear1": "Summer 2026",
-      "seasonYear2": "Fall 2026",
-      "term1StartDate": null,
-      "term1EndDate": null,
-      "term2StartDate": "September 7",
-      "term2EndDate": "December 18"
+      "seasonYear": "Summer 2026",
+      "startDate": "May 12",
+      "endDate": "August 31"
     },
     {
       "item": "coding-for-data",
@@ -5261,12 +5267,9 @@
       "abbreviation": "Rowan",
       "registrationMessage": "Registration is now open.",
       "courseCode1": "CHSS 20399 (Section 6): INTR: Podium Global Tech Exp",
-      "seasonYear1": "Summer 2026",
-      "seasonYear2": "Fall 2026",
-      "term1StartDate": null,
-      "term1EndDate": null,
-      "term2StartDate": "September 7",
-      "term2EndDate": "December 18"
+      "seasonYear": "Summer 2026",
+      "startDate": "May 12",
+      "endDate": "August 31"
     },
     {
       "item": "career-rotation",
@@ -5276,12 +5279,9 @@
       "abbreviation": "Rowan",
       "registrationMessage": "Registration is now open.",
       "courseCode1": "CHSS 20399 (Section 6): INTR: Podium Global Tech Exp",
-      "seasonYear1": "Summer 2026",
-      "seasonYear2": "Fall 2026",
-      "term1StartDate": null,
-      "term1EndDate": null,
-      "term2StartDate": "September 7",
-      "term2EndDate": "December 18"
+      "seasonYear": "Summer 2026",
+      "startDate": "May 12",
+      "endDate": "August 31"
     },
     {
       "item": "reserve-a-seat",
@@ -5314,8 +5314,8 @@
       "termsandConditionsPolicy": "https://www.sdsu.edu/digital-privacy?utm_source=www&utm_medium=redirect&utm_campaign=digitalprivacy",
       "registrationMessage": "Registration is now open.",
       "credits": "3 SanDiegoSt credits",
-      "startDate": "June 1",
-      "endDate": "August 9"
+      "startDate": "<b style='color:red;'>null<b/>",
+      "endDate": "<b style='color:red;'>null<b/>"
     },
     {
       "item": "about",
@@ -5325,10 +5325,10 @@
       "abbreviation": "SanDiegoSt",
       "phone": "(619) 597-1681",
       "credits": "3 SanDiegoSt credits",
-      "programFee": "+ 900",
-      "seasonYear": "Summer 2026",
-      "term": "Summer",
-      "season": "Summer",
+      "programFee": null,
+      "seasonYear": null,
+      "term": null,
+      "season": "<b style='color:red;'>null<b/>",
       "registrationMessage": "Registration is now open."
     },
     {
@@ -5351,8 +5351,8 @@
       "courseCode5": "MKTG 498",
       "seasonYear1": "Summer 2026",
       "seasonYear2": "Fall 2026",
-      "term1StartDate": "June 1",
-      "term1EndDate": "August 9",
+      "term1StartDate": null,
+      "term1EndDate": null,
       "term2StartDate": "August 19",
       "term2EndDate": "December 18"
     },
@@ -5370,8 +5370,8 @@
       "courseCode5": "MKTG 498",
       "seasonYear1": "Summer 2026",
       "seasonYear2": "Fall 2026",
-      "term1StartDate": "June 1",
-      "term1EndDate": "August 9",
+      "term1StartDate": null,
+      "term1EndDate": null,
       "term2StartDate": "August 19",
       "term2EndDate": "December 18"
     },
@@ -5389,8 +5389,8 @@
       "courseCode5": "MKTG 498",
       "seasonYear1": "Summer 2026",
       "seasonYear2": "Fall 2026",
-      "term1StartDate": "June 1",
-      "term1EndDate": "August 9",
+      "term1StartDate": null,
+      "term1EndDate": null,
       "term2StartDate": "August 19",
       "term2EndDate": "December 18"
     },
@@ -5408,8 +5408,8 @@
       "courseCode5": "MKTG 498",
       "seasonYear1": "Summer 2026",
       "seasonYear2": "Fall 2026",
-      "term1StartDate": "June 1",
-      "term1EndDate": "August 9",
+      "term1StartDate": null,
+      "term1EndDate": null,
       "term2StartDate": "August 19",
       "term2EndDate": "December 18"
     },
@@ -5427,8 +5427,8 @@
       "courseCode5": "MKTG 498",
       "seasonYear1": "Summer 2026",
       "seasonYear2": "Fall 2026",
-      "term1StartDate": "June 1",
-      "term1EndDate": "August 9",
+      "term1StartDate": null,
+      "term1EndDate": null,
       "term2StartDate": "August 19",
       "term2EndDate": "December 18"
     },
@@ -5592,8 +5592,8 @@
       "termsandConditionsPolicy": null,
       "registrationMessage": "Registration is now open.",
       "credits": "3 SHSU credits",
-      "startDate": "May 28",
-      "endDate": "July 30"
+      "startDate": "<b style='color:red;'>null<b/>",
+      "endDate": "<b style='color:red;'>null<b/>"
     },
     {
       "item": "about",
@@ -5603,10 +5603,10 @@
       "abbreviation": "SHSU",
       "phone": "(936) 299-6739",
       "credits": "3 SHSU credits",
-      "programFee": "+ 1,500",
-      "seasonYear": "Summer 2026",
-      "term": "Summer",
-      "season": "Summer",
+      "programFee": null,
+      "seasonYear": null,
+      "term": null,
+      "season": "<b style='color:red;'>null<b/>",
       "registrationMessage": "Registration is now open."
     },
     {
@@ -5622,10 +5622,11 @@
       "credits": "3 SHSU credits",
       "abbreviation": "SHSU",
       "registrationMessage": "Registration is now open.",
+      "courseCode1": "UGR 270 (CRN: 71988)",
       "seasonYear1": "Summer 2026",
       "seasonYear2": "Fall 2026",
-      "term1StartDate": "May 28",
-      "term1EndDate": "July 30",
+      "term1StartDate": null,
+      "term1EndDate": null,
       "term2StartDate": "August 19",
       "term2EndDate": "December 10"
     },
@@ -5636,10 +5637,11 @@
       "credits": "3 SHSU credits",
       "abbreviation": "SHSU",
       "registrationMessage": "Registration is now open.",
+      "courseCode1": "UGR 270 (CRN: 71988)",
       "seasonYear1": "Summer 2026",
       "seasonYear2": "Fall 2026",
-      "term1StartDate": "May 28",
-      "term1EndDate": "July 30",
+      "term1StartDate": null,
+      "term1EndDate": null,
       "term2StartDate": "August 19",
       "term2EndDate": "December 10"
     },
@@ -5650,10 +5652,11 @@
       "credits": "3 SHSU credits",
       "abbreviation": "SHSU",
       "registrationMessage": "Registration is now open.",
+      "courseCode1": "UGR 270 (CRN: 71988)",
       "seasonYear1": "Summer 2026",
       "seasonYear2": "Fall 2026",
-      "term1StartDate": "May 28",
-      "term1EndDate": "July 30",
+      "term1StartDate": null,
+      "term1EndDate": null,
       "term2StartDate": "August 19",
       "term2EndDate": "December 10"
     },
@@ -5664,10 +5667,11 @@
       "credits": "3 SHSU credits",
       "abbreviation": "SHSU",
       "registrationMessage": "Registration is now open.",
+      "courseCode1": "UGR 270 (CRN: 71988)",
       "seasonYear1": "Summer 2026",
       "seasonYear2": "Fall 2026",
-      "term1StartDate": "May 28",
-      "term1EndDate": "July 30",
+      "term1StartDate": null,
+      "term1EndDate": null,
       "term2StartDate": "August 19",
       "term2EndDate": "December 10"
     },
@@ -5678,10 +5682,11 @@
       "credits": "3 SHSU credits",
       "abbreviation": "SHSU",
       "registrationMessage": "Registration is now open.",
+      "courseCode1": "UGR 270 (CRN: 71988)",
       "seasonYear1": "Summer 2026",
       "seasonYear2": "Fall 2026",
-      "term1StartDate": "May 28",
-      "term1EndDate": "July 30",
+      "term1StartDate": null,
+      "term1EndDate": null,
       "term2StartDate": "August 19",
       "term2EndDate": "December 10"
     },
@@ -5855,9 +5860,14 @@
       "credits": "3 TAMU credits",
       "abbreviation": "TAMU",
       "registrationMessage": "Registration is now open.",
-      "seasonYear": "Summer 2026",
-      "startDate": "May 26",
-      "endDate": "August 6"
+      "courseCode1": "UGST 484-300 (Fall • CRN: 61299)",
+      "courseCode2": "UGST 484-300 (Summer • CRN: 36094)",
+      "seasonYear1": "Summer 2026",
+      "seasonYear2": "Fall 2026",
+      "term1StartDate": "May 26",
+      "term1EndDate": "August 6",
+      "term2StartDate": "August 24",
+      "term2EndDate": "December 10"
     },
     {
       "item": "coding-for-web",
@@ -5866,9 +5876,14 @@
       "credits": "3 TAMU credits",
       "abbreviation": "TAMU",
       "registrationMessage": "Registration is now open.",
-      "seasonYear": "Summer 2026",
-      "startDate": "May 26",
-      "endDate": "August 6"
+      "courseCode1": "UGST 484-300 (Fall • CRN: 61299)",
+      "courseCode2": "UGST 484-300 (Summer • CRN: 36094)",
+      "seasonYear1": "Summer 2026",
+      "seasonYear2": "Fall 2026",
+      "term1StartDate": "May 26",
+      "term1EndDate": "August 6",
+      "term2StartDate": "August 24",
+      "term2EndDate": "December 10"
     },
     {
       "item": "data-analytics",
@@ -5877,9 +5892,14 @@
       "credits": "3 TAMU credits",
       "abbreviation": "TAMU",
       "registrationMessage": "Registration is now open.",
-      "seasonYear": "Summer 2026",
-      "startDate": "May 26",
-      "endDate": "August 6"
+      "courseCode1": "UGST 484-300 (Fall • CRN: 61299)",
+      "courseCode2": "UGST 484-300 (Summer • CRN: 36094)",
+      "seasonYear1": "Summer 2026",
+      "seasonYear2": "Fall 2026",
+      "term1StartDate": "May 26",
+      "term1EndDate": "August 6",
+      "term2StartDate": "August 24",
+      "term2EndDate": "December 10"
     },
     {
       "item": "coding-for-data",
@@ -5888,9 +5908,14 @@
       "credits": "3 TAMU credits",
       "abbreviation": "TAMU",
       "registrationMessage": "Registration is now open.",
-      "seasonYear": "Summer 2026",
-      "startDate": "May 26",
-      "endDate": "August 6"
+      "courseCode1": "UGST 484-300 (Fall • CRN: 61299)",
+      "courseCode2": "UGST 484-300 (Summer • CRN: 36094)",
+      "seasonYear1": "Summer 2026",
+      "seasonYear2": "Fall 2026",
+      "term1StartDate": "May 26",
+      "term1EndDate": "August 6",
+      "term2StartDate": "August 24",
+      "term2EndDate": "December 10"
     },
     {
       "item": "career-rotation",
@@ -5899,9 +5924,14 @@
       "credits": "3 TAMU credits",
       "abbreviation": "TAMU",
       "registrationMessage": "Registration is now open.",
-      "seasonYear": "Summer 2026",
-      "startDate": "May 26",
-      "endDate": "August 6"
+      "courseCode1": "UGST 484-300 (Fall • CRN: 61299)",
+      "courseCode2": "UGST 484-300 (Summer • CRN: 36094)",
+      "seasonYear1": "Summer 2026",
+      "seasonYear2": "Fall 2026",
+      "term1StartDate": "May 26",
+      "term1EndDate": "August 6",
+      "term2StartDate": "August 24",
+      "term2EndDate": "December 10"
     },
     {
       "item": "reserve-a-seat",
@@ -5965,12 +5995,9 @@
       "abbreviation": "TAMUCC",
       "registrationMessage": "Registration is now open.",
       "courseCode1": "INTE 3398",
-      "seasonYear1": "Summer 2026",
-      "seasonYear2": "Fall 2026",
-      "term1StartDate": "June 1",
-      "term1EndDate": "August 7",
-      "term2StartDate": "August 24",
-      "term2EndDate": "December 10"
+      "seasonYear": "Summer 2026",
+      "startDate": "June 1",
+      "endDate": "August 7"
     },
     {
       "item": "coding-for-web",
@@ -5980,12 +6007,9 @@
       "abbreviation": "TAMUCC",
       "registrationMessage": "Registration is now open.",
       "courseCode1": "INTE 3398",
-      "seasonYear1": "Summer 2026",
-      "seasonYear2": "Fall 2026",
-      "term1StartDate": "June 1",
-      "term1EndDate": "August 7",
-      "term2StartDate": "August 24",
-      "term2EndDate": "December 10"
+      "seasonYear": "Summer 2026",
+      "startDate": "June 1",
+      "endDate": "August 7"
     },
     {
       "item": "data-analytics",
@@ -5995,12 +6019,9 @@
       "abbreviation": "TAMUCC",
       "registrationMessage": "Registration is now open.",
       "courseCode1": "INTE 3398",
-      "seasonYear1": "Summer 2026",
-      "seasonYear2": "Fall 2026",
-      "term1StartDate": "June 1",
-      "term1EndDate": "August 7",
-      "term2StartDate": "August 24",
-      "term2EndDate": "December 10"
+      "seasonYear": "Summer 2026",
+      "startDate": "June 1",
+      "endDate": "August 7"
     },
     {
       "item": "coding-for-data",
@@ -6010,12 +6031,9 @@
       "abbreviation": "TAMUCC",
       "registrationMessage": "Registration is now open.",
       "courseCode1": "INTE 3398",
-      "seasonYear1": "Summer 2026",
-      "seasonYear2": "Fall 2026",
-      "term1StartDate": "June 1",
-      "term1EndDate": "August 7",
-      "term2StartDate": "August 24",
-      "term2EndDate": "December 10"
+      "seasonYear": "Summer 2026",
+      "startDate": "June 1",
+      "endDate": "August 7"
     },
     {
       "item": "career-rotation",
@@ -6025,12 +6043,9 @@
       "abbreviation": "TAMUCC",
       "registrationMessage": "Registration is now open.",
       "courseCode1": "INTE 3398",
-      "seasonYear1": "Summer 2026",
-      "seasonYear2": "Fall 2026",
-      "term1StartDate": "June 1",
-      "term1EndDate": "August 7",
-      "term2StartDate": "August 24",
-      "term2EndDate": "December 10"
+      "seasonYear": "Summer 2026",
+      "startDate": "June 1",
+      "endDate": "August 7"
     },
     {
       "item": "reserve-a-seat",
@@ -6326,6 +6341,19 @@
       "credits": "3 TXST credits",
       "abbreviation": "TXST",
       "registrationMessage": "Registration is now open.",
+      "courseCode1": "ARTC 4314W (Summer • CRN: 53045)",
+      "courseCode2": "BA 4300 Section D01 (Fall • CRN: 21599)",
+      "courseCode3": "BA 4300 Section D01 (Summer • CRN: 53046)",
+      "courseCode4": "CJ 4363 (Summer • CRN: 53043)",
+      "courseCode5": "ENG 3312 (Fall • CRN: 21320)",
+      "courseCode6": "ENG 3312 (Summer)",
+      "courseCode7": "ESS 4337 (Summer • CRN: 53044)",
+      "courseCode8": "MC 5335 (Summer • CRN: 53047)",
+      "courseCode9": "MC4336J (Fall • CRN: 21332)",
+      "courseCode10": "MC4336J (Summer • CRN: 53048)",
+      "courseCode11": "PHYS 4321 (Summer • CRN: 53095)",
+      "courseCode12": "PSY 4396 Section D01 (Fall • CRN: 21615)",
+      "courseCode13": "PSY 4396 Section D01 (Summer • CRN: 53049)",
       "seasonYear1": "Summer 2026",
       "seasonYear2": "Fall 2026",
       "term1StartDate": "May 26",
@@ -6340,6 +6368,19 @@
       "credits": "3 TXST credits",
       "abbreviation": "TXST",
       "registrationMessage": "Registration is now open.",
+      "courseCode1": "ARTC 4314W (Summer • CRN: 53045)",
+      "courseCode2": "BA 4300 Section D01 (Fall • CRN: 21599)",
+      "courseCode3": "BA 4300 Section D01 (Summer • CRN: 53046)",
+      "courseCode4": "CJ 4363 (Summer • CRN: 53043)",
+      "courseCode5": "ENG 3312 (Fall • CRN: 21320)",
+      "courseCode6": "ENG 3312 (Summer)",
+      "courseCode7": "ESS 4337 (Summer • CRN: 53044)",
+      "courseCode8": "MC 5335 (Summer • CRN: 53047)",
+      "courseCode9": "MC4336J (Fall • CRN: 21332)",
+      "courseCode10": "MC4336J (Summer • CRN: 53048)",
+      "courseCode11": "PHYS 4321 (Summer • CRN: 53095)",
+      "courseCode12": "PSY 4396 Section D01 (Fall • CRN: 21615)",
+      "courseCode13": "PSY 4396 Section D01 (Summer • CRN: 53049)",
       "seasonYear1": "Summer 2026",
       "seasonYear2": "Fall 2026",
       "term1StartDate": "May 26",
@@ -6354,6 +6395,19 @@
       "credits": "3 TXST credits",
       "abbreviation": "TXST",
       "registrationMessage": "Registration is now open.",
+      "courseCode1": "ARTC 4314W (Summer • CRN: 53045)",
+      "courseCode2": "BA 4300 Section D01 (Fall • CRN: 21599)",
+      "courseCode3": "BA 4300 Section D01 (Summer • CRN: 53046)",
+      "courseCode4": "CJ 4363 (Summer • CRN: 53043)",
+      "courseCode5": "ENG 3312 (Fall • CRN: 21320)",
+      "courseCode6": "ENG 3312 (Summer)",
+      "courseCode7": "ESS 4337 (Summer • CRN: 53044)",
+      "courseCode8": "MC 5335 (Summer • CRN: 53047)",
+      "courseCode9": "MC4336J (Fall • CRN: 21332)",
+      "courseCode10": "MC4336J (Summer • CRN: 53048)",
+      "courseCode11": "PHYS 4321 (Summer • CRN: 53095)",
+      "courseCode12": "PSY 4396 Section D01 (Fall • CRN: 21615)",
+      "courseCode13": "PSY 4396 Section D01 (Summer • CRN: 53049)",
       "seasonYear1": "Summer 2026",
       "seasonYear2": "Fall 2026",
       "term1StartDate": "May 26",
@@ -6368,6 +6422,19 @@
       "credits": "3 TXST credits",
       "abbreviation": "TXST",
       "registrationMessage": "Registration is now open.",
+      "courseCode1": "ARTC 4314W (Summer • CRN: 53045)",
+      "courseCode2": "BA 4300 Section D01 (Fall • CRN: 21599)",
+      "courseCode3": "BA 4300 Section D01 (Summer • CRN: 53046)",
+      "courseCode4": "CJ 4363 (Summer • CRN: 53043)",
+      "courseCode5": "ENG 3312 (Fall • CRN: 21320)",
+      "courseCode6": "ENG 3312 (Summer)",
+      "courseCode7": "ESS 4337 (Summer • CRN: 53044)",
+      "courseCode8": "MC 5335 (Summer • CRN: 53047)",
+      "courseCode9": "MC4336J (Fall • CRN: 21332)",
+      "courseCode10": "MC4336J (Summer • CRN: 53048)",
+      "courseCode11": "PHYS 4321 (Summer • CRN: 53095)",
+      "courseCode12": "PSY 4396 Section D01 (Fall • CRN: 21615)",
+      "courseCode13": "PSY 4396 Section D01 (Summer • CRN: 53049)",
       "seasonYear1": "Summer 2026",
       "seasonYear2": "Fall 2026",
       "term1StartDate": "May 26",
@@ -6382,6 +6449,19 @@
       "credits": "3 TXST credits",
       "abbreviation": "TXST",
       "registrationMessage": "Registration is now open.",
+      "courseCode1": "ARTC 4314W (Summer • CRN: 53045)",
+      "courseCode2": "BA 4300 Section D01 (Fall • CRN: 21599)",
+      "courseCode3": "BA 4300 Section D01 (Summer • CRN: 53046)",
+      "courseCode4": "CJ 4363 (Summer • CRN: 53043)",
+      "courseCode5": "ENG 3312 (Fall • CRN: 21320)",
+      "courseCode6": "ENG 3312 (Summer)",
+      "courseCode7": "ESS 4337 (Summer • CRN: 53044)",
+      "courseCode8": "MC 5335 (Summer • CRN: 53047)",
+      "courseCode9": "MC4336J (Fall • CRN: 21332)",
+      "courseCode10": "MC4336J (Summer • CRN: 53048)",
+      "courseCode11": "PHYS 4321 (Summer • CRN: 53095)",
+      "courseCode12": "PSY 4396 Section D01 (Fall • CRN: 21615)",
+      "courseCode13": "PSY 4396 Section D01 (Summer • CRN: 53049)",
       "seasonYear1": "Summer 2026",
       "seasonYear2": "Fall 2026",
       "term1StartDate": "May 26",
@@ -6772,8 +6852,8 @@
       "termsandConditionsPolicy": "https://www.vpaa.uillinois.edu/resources/web_privacy",
       "registrationMessage": "Registration is now open.",
       "credits": "3 UIC credits",
-      "startDate": "<b style='color:red;'>null<b/>",
-      "endDate": "<b style='color:red;'>null<b/>"
+      "startDate": "May 18",
+      "endDate": "August 7"
     },
     {
       "item": "about",
@@ -6783,10 +6863,10 @@
       "abbreviation": "UIC",
       "phone": "(773) 917-0403",
       "credits": "3 UIC credits",
-      "programFee": null,
-      "seasonYear": null,
-      "term": null,
-      "season": "<b style='color:red;'>null<b/>",
+      "programFee": "+ 1,500",
+      "seasonYear": "Summer 2026",
+      "term": "Summer",
+      "season": "Summer",
       "registrationMessage": "Registration is now open."
     },
     {
@@ -6802,15 +6882,9 @@
       "credits": "3 UIC credits",
       "abbreviation": "UIC",
       "registrationMessage": "Registration is now open.",
-      "courseCode1": "BA 194 (Fall • CRN: 50519)",
-      "courseCode2": "BA 194 (Spring • CRN: 49019)",
-      "courseCode3": "BA 194 (Summer • CRN: 25532)",
-      "seasonYear1": "Summer 2026",
-      "seasonYear2": "Fall 2026",
-      "term1StartDate": null,
-      "term1EndDate": null,
-      "term2StartDate": "August 24",
-      "term2EndDate": "December 11"
+      "seasonYear": "Summer 2026",
+      "startDate": "May 18",
+      "endDate": "August 7"
     },
     {
       "item": "coding-for-web",
@@ -6819,15 +6893,9 @@
       "credits": "3 UIC credits",
       "abbreviation": "UIC",
       "registrationMessage": "Registration is now open.",
-      "courseCode1": "BA 194 (Fall • CRN: 50519)",
-      "courseCode2": "BA 194 (Spring • CRN: 49019)",
-      "courseCode3": "BA 194 (Summer • CRN: 25532)",
-      "seasonYear1": "Summer 2026",
-      "seasonYear2": "Fall 2026",
-      "term1StartDate": null,
-      "term1EndDate": null,
-      "term2StartDate": "August 24",
-      "term2EndDate": "December 11"
+      "seasonYear": "Summer 2026",
+      "startDate": "May 18",
+      "endDate": "August 7"
     },
     {
       "item": "data-analytics",
@@ -6836,15 +6904,9 @@
       "credits": "3 UIC credits",
       "abbreviation": "UIC",
       "registrationMessage": "Registration is now open.",
-      "courseCode1": "BA 194 (Fall • CRN: 50519)",
-      "courseCode2": "BA 194 (Spring • CRN: 49019)",
-      "courseCode3": "BA 194 (Summer • CRN: 25532)",
-      "seasonYear1": "Summer 2026",
-      "seasonYear2": "Fall 2026",
-      "term1StartDate": null,
-      "term1EndDate": null,
-      "term2StartDate": "August 24",
-      "term2EndDate": "December 11"
+      "seasonYear": "Summer 2026",
+      "startDate": "May 18",
+      "endDate": "August 7"
     },
     {
       "item": "coding-for-data",
@@ -6853,15 +6915,9 @@
       "credits": "3 UIC credits",
       "abbreviation": "UIC",
       "registrationMessage": "Registration is now open.",
-      "courseCode1": "BA 194 (Fall • CRN: 50519)",
-      "courseCode2": "BA 194 (Spring • CRN: 49019)",
-      "courseCode3": "BA 194 (Summer • CRN: 25532)",
-      "seasonYear1": "Summer 2026",
-      "seasonYear2": "Fall 2026",
-      "term1StartDate": null,
-      "term1EndDate": null,
-      "term2StartDate": "August 24",
-      "term2EndDate": "December 11"
+      "seasonYear": "Summer 2026",
+      "startDate": "May 18",
+      "endDate": "August 7"
     },
     {
       "item": "career-rotation",
@@ -6870,15 +6926,9 @@
       "credits": "3 UIC credits",
       "abbreviation": "UIC",
       "registrationMessage": "Registration is now open.",
-      "courseCode1": "BA 194 (Fall • CRN: 50519)",
-      "courseCode2": "BA 194 (Spring • CRN: 49019)",
-      "courseCode3": "BA 194 (Summer • CRN: 25532)",
-      "seasonYear1": "Summer 2026",
-      "seasonYear2": "Fall 2026",
-      "term1StartDate": null,
-      "term1EndDate": null,
-      "term2StartDate": "August 24",
-      "term2EndDate": "December 11"
+      "seasonYear": "Summer 2026",
+      "startDate": "May 18",
+      "endDate": "August 7"
     },
     {
       "item": "reserve-a-seat",
@@ -6910,7 +6960,7 @@
       "programName": "UK Global Career Accelerator",
       "termsandConditionsPolicy": "https://www.uky.edu/privacy/",
       "registrationMessage": "Registration is now open.",
-      "credits": "4 UK credits",
+      "credits": "3 UK credits",
       "startDate": "May 18",
       "endDate": "August 12"
     },
@@ -6921,7 +6971,7 @@
       "schoolFullAddress": "410 Administration Dr, Lexington, KY 40506-0032",
       "abbreviation": "UK",
       "phone": "(859) 251-3444",
-      "credits": "4 UK credits",
+      "credits": "3 UK credits",
       "programFee": "+ 2,150",
       "seasonYear": "Summer 2026",
       "term": "Summer",
@@ -6930,7 +6980,7 @@
     },
     {
       "item": "explore-tracks",
-      "credits": "4 UK credits",
+      "credits": "3 UK credits",
       "abbreviation": "UK",
       "registrationMessage": "Registration is now open."
     },
@@ -6938,9 +6988,22 @@
       "item": "digital-marketing",
       "schoolname": "University of Kentucky",
       "trackTitle": "Digital Marketing Track",
-      "credits": "4 UK credits",
+      "credits": "3 UK credits",
       "abbreviation": "UK",
       "registrationMessage": "Registration is now open.",
+      "courseCode1": "ARTC 4314W (Summer • CRN: 53045)",
+      "courseCode2": "BA 4300 Section D01 (Fall • CRN: 21599)",
+      "courseCode3": "BA 4300 Section D01 (Summer • CRN: 53046)",
+      "courseCode4": "CJ 4363 (Summer • CRN: 53043)",
+      "courseCode5": "ENG 3312 (Fall • CRN: 21320)",
+      "courseCode6": "ENG 3312 (Summer)",
+      "courseCode7": "ESS 4337 (Summer • CRN: 53044)",
+      "courseCode8": "MC 5335 (Summer • CRN: 53047)",
+      "courseCode9": "MC4336J (Fall • CRN: 21332)",
+      "courseCode10": "MC4336J (Summer • CRN: 53048)",
+      "courseCode11": "PHYS 4321 (Summer • CRN: 53095)",
+      "courseCode12": "PSY 4396 Section D01 (Fall • CRN: 21615)",
+      "courseCode13": "PSY 4396 Section D01 (Summer • CRN: 53049)",
       "seasonYear": "Summer 2026",
       "startDate": "May 18",
       "endDate": "August 12"
@@ -6949,9 +7012,22 @@
       "item": "coding-for-web",
       "schoolname": "University of Kentucky",
       "trackTitle": "Web Development for Everyone Track",
-      "credits": "4 UK credits",
+      "credits": "3 UK credits",
       "abbreviation": "UK",
       "registrationMessage": "Registration is now open.",
+      "courseCode1": "ARTC 4314W (Summer • CRN: 53045)",
+      "courseCode2": "BA 4300 Section D01 (Fall • CRN: 21599)",
+      "courseCode3": "BA 4300 Section D01 (Summer • CRN: 53046)",
+      "courseCode4": "CJ 4363 (Summer • CRN: 53043)",
+      "courseCode5": "ENG 3312 (Fall • CRN: 21320)",
+      "courseCode6": "ENG 3312 (Summer)",
+      "courseCode7": "ESS 4337 (Summer • CRN: 53044)",
+      "courseCode8": "MC 5335 (Summer • CRN: 53047)",
+      "courseCode9": "MC4336J (Fall • CRN: 21332)",
+      "courseCode10": "MC4336J (Summer • CRN: 53048)",
+      "courseCode11": "PHYS 4321 (Summer • CRN: 53095)",
+      "courseCode12": "PSY 4396 Section D01 (Fall • CRN: 21615)",
+      "courseCode13": "PSY 4396 Section D01 (Summer • CRN: 53049)",
       "seasonYear": "Summer 2026",
       "startDate": "May 18",
       "endDate": "August 12"
@@ -6960,9 +7036,22 @@
       "item": "data-analytics",
       "schoolname": "University of Kentucky",
       "trackTitle": "Data Analytics Track",
-      "credits": "4 UK credits",
+      "credits": "3 UK credits",
       "abbreviation": "UK",
       "registrationMessage": "Registration is now open.",
+      "courseCode1": "ARTC 4314W (Summer • CRN: 53045)",
+      "courseCode2": "BA 4300 Section D01 (Fall • CRN: 21599)",
+      "courseCode3": "BA 4300 Section D01 (Summer • CRN: 53046)",
+      "courseCode4": "CJ 4363 (Summer • CRN: 53043)",
+      "courseCode5": "ENG 3312 (Fall • CRN: 21320)",
+      "courseCode6": "ENG 3312 (Summer)",
+      "courseCode7": "ESS 4337 (Summer • CRN: 53044)",
+      "courseCode8": "MC 5335 (Summer • CRN: 53047)",
+      "courseCode9": "MC4336J (Fall • CRN: 21332)",
+      "courseCode10": "MC4336J (Summer • CRN: 53048)",
+      "courseCode11": "PHYS 4321 (Summer • CRN: 53095)",
+      "courseCode12": "PSY 4396 Section D01 (Fall • CRN: 21615)",
+      "courseCode13": "PSY 4396 Section D01 (Summer • CRN: 53049)",
       "seasonYear": "Summer 2026",
       "startDate": "May 18",
       "endDate": "August 12"
@@ -6971,9 +7060,22 @@
       "item": "coding-for-data",
       "schoolname": "University of Kentucky",
       "trackTitle": "Coding for Data Track",
-      "credits": "4 UK credits",
+      "credits": "3 UK credits",
       "abbreviation": "UK",
       "registrationMessage": "Registration is now open.",
+      "courseCode1": "ARTC 4314W (Summer • CRN: 53045)",
+      "courseCode2": "BA 4300 Section D01 (Fall • CRN: 21599)",
+      "courseCode3": "BA 4300 Section D01 (Summer • CRN: 53046)",
+      "courseCode4": "CJ 4363 (Summer • CRN: 53043)",
+      "courseCode5": "ENG 3312 (Fall • CRN: 21320)",
+      "courseCode6": "ENG 3312 (Summer)",
+      "courseCode7": "ESS 4337 (Summer • CRN: 53044)",
+      "courseCode8": "MC 5335 (Summer • CRN: 53047)",
+      "courseCode9": "MC4336J (Fall • CRN: 21332)",
+      "courseCode10": "MC4336J (Summer • CRN: 53048)",
+      "courseCode11": "PHYS 4321 (Summer • CRN: 53095)",
+      "courseCode12": "PSY 4396 Section D01 (Fall • CRN: 21615)",
+      "courseCode13": "PSY 4396 Section D01 (Summer • CRN: 53049)",
       "seasonYear": "Summer 2026",
       "startDate": "May 18",
       "endDate": "August 12"
@@ -6982,9 +7084,22 @@
       "item": "career-rotation",
       "schoolname": "University of Kentucky",
       "trackTitle": "Career Rotation Track",
-      "credits": "4 UK credits",
+      "credits": "3 UK credits",
       "abbreviation": "UK",
       "registrationMessage": "Registration is now open.",
+      "courseCode1": "ARTC 4314W (Summer • CRN: 53045)",
+      "courseCode2": "BA 4300 Section D01 (Fall • CRN: 21599)",
+      "courseCode3": "BA 4300 Section D01 (Summer • CRN: 53046)",
+      "courseCode4": "CJ 4363 (Summer • CRN: 53043)",
+      "courseCode5": "ENG 3312 (Fall • CRN: 21320)",
+      "courseCode6": "ENG 3312 (Summer)",
+      "courseCode7": "ESS 4337 (Summer • CRN: 53044)",
+      "courseCode8": "MC 5335 (Summer • CRN: 53047)",
+      "courseCode9": "MC4336J (Fall • CRN: 21332)",
+      "courseCode10": "MC4336J (Summer • CRN: 53048)",
+      "courseCode11": "PHYS 4321 (Summer • CRN: 53095)",
+      "courseCode12": "PSY 4396 Section D01 (Fall • CRN: 21615)",
+      "courseCode13": "PSY 4396 Section D01 (Summer • CRN: 53049)",
       "seasonYear": "Summer 2026",
       "startDate": "May 18",
       "endDate": "August 12"
@@ -6998,7 +7113,7 @@
     },
     {
       "item": "begin",
-      "credits": "4 UK credits",
+      "credits": "3 UK credits",
       "abbreviation": "UK",
       "phone": "(859) 251-3444"
     }
@@ -7263,8 +7378,8 @@
       "termsandConditionsPolicy": "https://its.unl.edu/unlprivacypolicy/",
       "registrationMessage": "Registration is now open.",
       "credits": "3 UNL credits",
-      "startDate": "May 18",
-      "endDate": "August 13"
+      "startDate": "<b style='color:red;'>null<b/>",
+      "endDate": "<b style='color:red;'>null<b/>"
     },
     {
       "item": "about",
@@ -7274,10 +7389,10 @@
       "abbreviation": "UNL",
       "phone": "(402) 407-2251",
       "credits": "3 UNL credits",
-      "programFee": "+ 1,800",
-      "seasonYear": "Summer 2026",
-      "term": "Summer",
-      "season": "Summer",
+      "programFee": null,
+      "seasonYear": null,
+      "term": null,
+      "season": "<b style='color:red;'>null<b/>",
       "registrationMessage": "Registration is now open."
     },
     {
@@ -7294,9 +7409,12 @@
       "abbreviation": "UNL",
       "registrationMessage": "Registration is now open.",
       "courseCode1": "BSAD 391",
-      "seasonYear": "Summer 2026",
-      "startDate": "May 18",
-      "endDate": "August 13"
+      "seasonYear1": "Summer 2026",
+      "seasonYear2": "Fall 2026",
+      "term1StartDate": null,
+      "term1EndDate": null,
+      "term2StartDate": "August 24",
+      "term2EndDate": "December 12"
     },
     {
       "item": "coding-for-web",
@@ -7306,9 +7424,12 @@
       "abbreviation": "UNL",
       "registrationMessage": "Registration is now open.",
       "courseCode1": "BSAD 391",
-      "seasonYear": "Summer 2026",
-      "startDate": "May 18",
-      "endDate": "August 13"
+      "seasonYear1": "Summer 2026",
+      "seasonYear2": "Fall 2026",
+      "term1StartDate": null,
+      "term1EndDate": null,
+      "term2StartDate": "August 24",
+      "term2EndDate": "December 12"
     },
     {
       "item": "data-analytics",
@@ -7318,9 +7439,12 @@
       "abbreviation": "UNL",
       "registrationMessage": "Registration is now open.",
       "courseCode1": "BSAD 391",
-      "seasonYear": "Summer 2026",
-      "startDate": "May 18",
-      "endDate": "August 13"
+      "seasonYear1": "Summer 2026",
+      "seasonYear2": "Fall 2026",
+      "term1StartDate": null,
+      "term1EndDate": null,
+      "term2StartDate": "August 24",
+      "term2EndDate": "December 12"
     },
     {
       "item": "coding-for-data",
@@ -7330,9 +7454,12 @@
       "abbreviation": "UNL",
       "registrationMessage": "Registration is now open.",
       "courseCode1": "BSAD 391",
-      "seasonYear": "Summer 2026",
-      "startDate": "May 18",
-      "endDate": "August 13"
+      "seasonYear1": "Summer 2026",
+      "seasonYear2": "Fall 2026",
+      "term1StartDate": null,
+      "term1EndDate": null,
+      "term2StartDate": "August 24",
+      "term2EndDate": "December 12"
     },
     {
       "item": "career-rotation",
@@ -7342,9 +7469,12 @@
       "abbreviation": "UNL",
       "registrationMessage": "Registration is now open.",
       "courseCode1": "BSAD 391",
-      "seasonYear": "Summer 2026",
-      "startDate": "May 18",
-      "endDate": "August 13"
+      "seasonYear1": "Summer 2026",
+      "seasonYear2": "Fall 2026",
+      "term1StartDate": null,
+      "term1EndDate": null,
+      "term2StartDate": "August 24",
+      "term2EndDate": "December 12"
     },
     {
       "item": "reserve-a-seat",
@@ -7377,8 +7507,8 @@
       "termsandConditionsPolicy": "https://www.unlv.edu/about/website-privacy",
       "registrationMessage": "Registration is now open.",
       "credits": "3 UNLV credits",
-      "startDate": "June 8",
-      "endDate": "August 14"
+      "startDate": "<b style='color:red;'>null<b/>",
+      "endDate": "<b style='color:red;'>null<b/>"
     },
     {
       "item": "about",
@@ -7388,10 +7518,10 @@
       "abbreviation": "UNLV",
       "phone": "(702) 748-8173",
       "credits": "3 UNLV credits",
-      "programFee": "+ 1,800",
-      "seasonYear": "Summer 2026",
-      "term": "Summer",
-      "season": "Summer",
+      "programFee": null,
+      "seasonYear": null,
+      "term": null,
+      "season": "<b style='color:red;'>null<b/>",
       "registrationMessage": "Registration is now open."
     },
     {
@@ -7408,12 +7538,9 @@
       "abbreviation": "UNLV",
       "registrationMessage": "Registration is now open.",
       "courseCode1": "BUS 281",
-      "seasonYear1": "Summer 2026",
-      "seasonYear2": "Fall 2026",
-      "term1StartDate": "June 8",
-      "term1EndDate": "August 14",
-      "term2StartDate": "August 24",
-      "term2EndDate": "December 12"
+      "seasonYear": "<b style='color:red;'>null<b/>",
+      "startDate": "<b style='color:red;'>null<b/>",
+      "endDate": "<b style='color:red;'>null<b/>"
     },
     {
       "item": "coding-for-web",
@@ -7423,12 +7550,9 @@
       "abbreviation": "UNLV",
       "registrationMessage": "Registration is now open.",
       "courseCode1": "BUS 281",
-      "seasonYear1": "Summer 2026",
-      "seasonYear2": "Fall 2026",
-      "term1StartDate": "June 8",
-      "term1EndDate": "August 14",
-      "term2StartDate": "August 24",
-      "term2EndDate": "December 12"
+      "seasonYear": "<b style='color:red;'>null<b/>",
+      "startDate": "<b style='color:red;'>null<b/>",
+      "endDate": "<b style='color:red;'>null<b/>"
     },
     {
       "item": "data-analytics",
@@ -7438,12 +7562,9 @@
       "abbreviation": "UNLV",
       "registrationMessage": "Registration is now open.",
       "courseCode1": "BUS 281",
-      "seasonYear1": "Summer 2026",
-      "seasonYear2": "Fall 2026",
-      "term1StartDate": "June 8",
-      "term1EndDate": "August 14",
-      "term2StartDate": "August 24",
-      "term2EndDate": "December 12"
+      "seasonYear": "<b style='color:red;'>null<b/>",
+      "startDate": "<b style='color:red;'>null<b/>",
+      "endDate": "<b style='color:red;'>null<b/>"
     },
     {
       "item": "coding-for-data",
@@ -7453,12 +7574,9 @@
       "abbreviation": "UNLV",
       "registrationMessage": "Registration is now open.",
       "courseCode1": "BUS 281",
-      "seasonYear1": "Summer 2026",
-      "seasonYear2": "Fall 2026",
-      "term1StartDate": "June 8",
-      "term1EndDate": "August 14",
-      "term2StartDate": "August 24",
-      "term2EndDate": "December 12"
+      "seasonYear": "<b style='color:red;'>null<b/>",
+      "startDate": "<b style='color:red;'>null<b/>",
+      "endDate": "<b style='color:red;'>null<b/>"
     },
     {
       "item": "career-rotation",
@@ -7468,12 +7586,9 @@
       "abbreviation": "UNLV",
       "registrationMessage": "Registration is now open.",
       "courseCode1": "BUS 281",
-      "seasonYear1": "Summer 2026",
-      "seasonYear2": "Fall 2026",
-      "term1StartDate": "June 8",
-      "term1EndDate": "August 14",
-      "term2StartDate": "August 24",
-      "term2EndDate": "December 12"
+      "seasonYear": "<b style='color:red;'>null<b/>",
+      "startDate": "<b style='color:red;'>null<b/>",
+      "endDate": "<b style='color:red;'>null<b/>"
     },
     {
       "item": "reserve-a-seat",
@@ -7505,7 +7620,7 @@
       "programName": "UNO Global Career Accelerator",
       "termsandConditionsPolicy": null,
       "registrationMessage": "Registration is now open.",
-      "credits": "6 UNO credits",
+      "credits": "3 to 6 UNO credits",
       "startDate": "May 26",
       "endDate": "July 31"
     },
@@ -7516,7 +7631,7 @@
       "schoolFullAddress": "6001 Dodge St, Omaha, NE 68182",
       "abbreviation": "UNO",
       "phone": "(402) 552-8675",
-      "credits": "6 UNO credits",
+      "credits": "3 to 6 UNO credits",
       "programFee": "+ 1,000",
       "seasonYear": "Summer 2026",
       "term": "Summer",
@@ -7525,7 +7640,7 @@
     },
     {
       "item": "explore-tracks",
-      "credits": "6 UNO credits",
+      "credits": "3 to 6 UNO credits",
       "abbreviation": "UNO",
       "registrationMessage": "Registration is now open."
     },
@@ -7533,9 +7648,13 @@
       "item": "digital-marketing",
       "schoolname": "University of Nebraska Omaha",
       "trackTitle": "Digital Marketing Track",
-      "credits": "6 UNO credits",
+      "credits": "3 to 6 UNO credits",
       "abbreviation": "UNO",
       "registrationMessage": "Registration is now open.",
+      "courseCode1": "SSCI 4900",
+      "courseCode2": "SSCI 4900",
+      "courseCode3": "SSCI 4900",
+      "courseCode4": "SSCI 4900",
       "seasonYear1": "Summer 2026",
       "seasonYear2": "Fall 2026",
       "term1StartDate": "May 26",
@@ -7547,9 +7666,13 @@
       "item": "coding-for-web",
       "schoolname": "University of Nebraska Omaha",
       "trackTitle": "Web Development for Everyone Track",
-      "credits": "6 UNO credits",
+      "credits": "3 to 6 UNO credits",
       "abbreviation": "UNO",
       "registrationMessage": "Registration is now open.",
+      "courseCode1": "SSCI 4900",
+      "courseCode2": "SSCI 4900",
+      "courseCode3": "SSCI 4900",
+      "courseCode4": "SSCI 4900",
       "seasonYear1": "Summer 2026",
       "seasonYear2": "Fall 2026",
       "term1StartDate": "May 26",
@@ -7561,9 +7684,13 @@
       "item": "data-analytics",
       "schoolname": "University of Nebraska Omaha",
       "trackTitle": "Data Analytics Track",
-      "credits": "6 UNO credits",
+      "credits": "3 to 6 UNO credits",
       "abbreviation": "UNO",
       "registrationMessage": "Registration is now open.",
+      "courseCode1": "SSCI 4900",
+      "courseCode2": "SSCI 4900",
+      "courseCode3": "SSCI 4900",
+      "courseCode4": "SSCI 4900",
       "seasonYear1": "Summer 2026",
       "seasonYear2": "Fall 2026",
       "term1StartDate": "May 26",
@@ -7575,9 +7702,13 @@
       "item": "coding-for-data",
       "schoolname": "University of Nebraska Omaha",
       "trackTitle": "Coding for Data Track",
-      "credits": "6 UNO credits",
+      "credits": "3 to 6 UNO credits",
       "abbreviation": "UNO",
       "registrationMessage": "Registration is now open.",
+      "courseCode1": "SSCI 4900",
+      "courseCode2": "SSCI 4900",
+      "courseCode3": "SSCI 4900",
+      "courseCode4": "SSCI 4900",
       "seasonYear1": "Summer 2026",
       "seasonYear2": "Fall 2026",
       "term1StartDate": "May 26",
@@ -7589,9 +7720,13 @@
       "item": "career-rotation",
       "schoolname": "University of Nebraska Omaha",
       "trackTitle": "Career Rotation Track",
-      "credits": "6 UNO credits",
+      "credits": "3 to 6 UNO credits",
       "abbreviation": "UNO",
       "registrationMessage": "Registration is now open.",
+      "courseCode1": "SSCI 4900",
+      "courseCode2": "SSCI 4900",
+      "courseCode3": "SSCI 4900",
+      "courseCode4": "SSCI 4900",
       "seasonYear1": "Summer 2026",
       "seasonYear2": "Fall 2026",
       "term1StartDate": "May 26",
@@ -7608,7 +7743,7 @@
     },
     {
       "item": "begin",
-      "credits": "6 UNO credits",
+      "credits": "3 to 6 UNO credits",
       "abbreviation": "UNO",
       "phone": "(402) 552-8675"
     }
@@ -7630,8 +7765,8 @@
       "termsandConditionsPolicy": "https://www.unt.edu/privacy",
       "registrationMessage": "Registration is now open.",
       "credits": "6 UNT credits",
-      "startDate": "May 18",
-      "endDate": "July 24"
+      "startDate": "<b style='color:red;'>null<b/>",
+      "endDate": "<b style='color:red;'>null<b/>"
     },
     {
       "item": "about",
@@ -7642,9 +7777,9 @@
       "phone": "(817) 730-5823",
       "credits": "6 UNT credits",
       "programFee": null,
-      "seasonYear": "Summer 2026",
-      "term": "Summer",
-      "season": "Summer",
+      "seasonYear": null,
+      "term": null,
+      "season": "<b style='color:red;'>null<b/>",
       "registrationMessage": "Registration is now open."
     },
     {
@@ -7661,9 +7796,9 @@
       "abbreviation": "UNT",
       "registrationMessage": "Registration is now open.",
       "courseCode1": "UCRS 4800.400: College of Liberal Arts and Social Sciences Internship",
-      "seasonYear": "Summer 2026",
-      "startDate": "May 18",
-      "endDate": "July 24"
+      "seasonYear": "<b style='color:red;'>null<b/>",
+      "startDate": "<b style='color:red;'>null<b/>",
+      "endDate": "<b style='color:red;'>null<b/>"
     },
     {
       "item": "coding-for-web",
@@ -7673,9 +7808,9 @@
       "abbreviation": "UNT",
       "registrationMessage": "Registration is now open.",
       "courseCode1": "UCRS 4800.400: College of Liberal Arts and Social Sciences Internship",
-      "seasonYear": "Summer 2026",
-      "startDate": "May 18",
-      "endDate": "July 24"
+      "seasonYear": "<b style='color:red;'>null<b/>",
+      "startDate": "<b style='color:red;'>null<b/>",
+      "endDate": "<b style='color:red;'>null<b/>"
     },
     {
       "item": "data-analytics",
@@ -7685,9 +7820,9 @@
       "abbreviation": "UNT",
       "registrationMessage": "Registration is now open.",
       "courseCode1": "UCRS 4800.400: College of Liberal Arts and Social Sciences Internship",
-      "seasonYear": "Summer 2026",
-      "startDate": "May 18",
-      "endDate": "July 24"
+      "seasonYear": "<b style='color:red;'>null<b/>",
+      "startDate": "<b style='color:red;'>null<b/>",
+      "endDate": "<b style='color:red;'>null<b/>"
     },
     {
       "item": "coding-for-data",
@@ -7697,9 +7832,9 @@
       "abbreviation": "UNT",
       "registrationMessage": "Registration is now open.",
       "courseCode1": "UCRS 4800.400: College of Liberal Arts and Social Sciences Internship",
-      "seasonYear": "Summer 2026",
-      "startDate": "May 18",
-      "endDate": "July 24"
+      "seasonYear": "<b style='color:red;'>null<b/>",
+      "startDate": "<b style='color:red;'>null<b/>",
+      "endDate": "<b style='color:red;'>null<b/>"
     },
     {
       "item": "career-rotation",
@@ -7709,9 +7844,9 @@
       "abbreviation": "UNT",
       "registrationMessage": "Registration is now open.",
       "courseCode1": "UCRS 4800.400: College of Liberal Arts and Social Sciences Internship",
-      "seasonYear": "Summer 2026",
-      "startDate": "May 18",
-      "endDate": "July 24"
+      "seasonYear": "<b style='color:red;'>null<b/>",
+      "startDate": "<b style='color:red;'>null<b/>",
+      "endDate": "<b style='color:red;'>null<b/>"
     },
     {
       "item": "reserve-a-seat",
@@ -7997,8 +8132,8 @@
       "termsandConditionsPolicy": null,
       "registrationMessage": "Registration is now open.",
       "credits": "3 USF credits",
-      "startDate": "May 18",
-      "endDate": "August 7"
+      "startDate": "<b style='color:red;'>null<b/>",
+      "endDate": "<b style='color:red;'>null<b/>"
     },
     {
       "item": "about",
@@ -8008,10 +8143,10 @@
       "abbreviation": "USF",
       "phone": "(813) 981-7254",
       "credits": "3 USF credits",
-      "programFee": "+ 500",
-      "seasonYear": "Summer 2026",
-      "term": "Summer",
-      "season": "Summer",
+      "programFee": null,
+      "seasonYear": null,
+      "term": null,
+      "season": "<b style='color:red;'>null<b/>",
       "registrationMessage": "Registration is now open."
     },
     {
@@ -8031,8 +8166,8 @@
       "courseCode2": "IDS3947 (Summer • CRN: 53865) (Internship)",
       "seasonYear1": "Summer 2026",
       "seasonYear2": "Fall 2026",
-      "term1StartDate": "May 18",
-      "term1EndDate": "August 7",
+      "term1StartDate": null,
+      "term1EndDate": null,
       "term2StartDate": "August 24",
       "term2EndDate": "December 10"
     },
@@ -8047,8 +8182,8 @@
       "courseCode2": "IDS3947 (Summer • CRN: 53865) (Internship)",
       "seasonYear1": "Summer 2026",
       "seasonYear2": "Fall 2026",
-      "term1StartDate": "May 18",
-      "term1EndDate": "August 7",
+      "term1StartDate": null,
+      "term1EndDate": null,
       "term2StartDate": "August 24",
       "term2EndDate": "December 10"
     },
@@ -8063,8 +8198,8 @@
       "courseCode2": "IDS3947 (Summer • CRN: 53865) (Internship)",
       "seasonYear1": "Summer 2026",
       "seasonYear2": "Fall 2026",
-      "term1StartDate": "May 18",
-      "term1EndDate": "August 7",
+      "term1StartDate": null,
+      "term1EndDate": null,
       "term2StartDate": "August 24",
       "term2EndDate": "December 10"
     },
@@ -8079,8 +8214,8 @@
       "courseCode2": "IDS3947 (Summer • CRN: 53865) (Internship)",
       "seasonYear1": "Summer 2026",
       "seasonYear2": "Fall 2026",
-      "term1StartDate": "May 18",
-      "term1EndDate": "August 7",
+      "term1StartDate": null,
+      "term1EndDate": null,
       "term2StartDate": "August 24",
       "term2EndDate": "December 10"
     },
@@ -8095,8 +8230,8 @@
       "courseCode2": "IDS3947 (Summer • CRN: 53865) (Internship)",
       "seasonYear1": "Summer 2026",
       "seasonYear2": "Fall 2026",
-      "term1StartDate": "May 18",
-      "term1EndDate": "August 7",
+      "term1StartDate": null,
+      "term1EndDate": null,
       "term2StartDate": "August 24",
       "term2EndDate": "December 10"
     },
@@ -8131,8 +8266,8 @@
       "termsandConditionsPolicy": null,
       "registrationMessage": "Registration is now open.",
       "credits": "3 or 6 UniUtah credits",
-      "startDate": "May 20",
-      "endDate": "August 6"
+      "startDate": "<b style='color:red;'>null<b/>",
+      "endDate": "<b style='color:red;'>null<b/>"
     },
     {
       "item": "about",
@@ -8143,9 +8278,9 @@
       "phone": "(801) 876-1581",
       "credits": "3 or 6 UniUtah credits",
       "programFee": null,
-      "seasonYear": "Summer 2026",
-      "term": "Summer",
-      "season": "Summer",
+      "seasonYear": null,
+      "term": null,
+      "season": "<b style='color:red;'>null<b/>",
       "registrationMessage": "Registration is now open."
     },
     {
@@ -8167,8 +8302,8 @@
       "courseCode4": "HNKLY 4903-002 (Summer • CRN: 3896)",
       "seasonYear1": "Summer 2026",
       "seasonYear2": "Fall 2026",
-      "term1StartDate": "May 20",
-      "term1EndDate": "August 6",
+      "term1StartDate": null,
+      "term1EndDate": null,
       "term2StartDate": "August 24",
       "term2EndDate": "December 10"
     },
@@ -8185,8 +8320,8 @@
       "courseCode4": "HNKLY 4903-002 (Summer • CRN: 3896)",
       "seasonYear1": "Summer 2026",
       "seasonYear2": "Fall 2026",
-      "term1StartDate": "May 20",
-      "term1EndDate": "August 6",
+      "term1StartDate": null,
+      "term1EndDate": null,
       "term2StartDate": "August 24",
       "term2EndDate": "December 10"
     },
@@ -8203,8 +8338,8 @@
       "courseCode4": "HNKLY 4903-002 (Summer • CRN: 3896)",
       "seasonYear1": "Summer 2026",
       "seasonYear2": "Fall 2026",
-      "term1StartDate": "May 20",
-      "term1EndDate": "August 6",
+      "term1StartDate": null,
+      "term1EndDate": null,
       "term2StartDate": "August 24",
       "term2EndDate": "December 10"
     },
@@ -8221,8 +8356,8 @@
       "courseCode4": "HNKLY 4903-002 (Summer • CRN: 3896)",
       "seasonYear1": "Summer 2026",
       "seasonYear2": "Fall 2026",
-      "term1StartDate": "May 20",
-      "term1EndDate": "August 6",
+      "term1StartDate": null,
+      "term1EndDate": null,
       "term2StartDate": "August 24",
       "term2EndDate": "December 10"
     },
@@ -8239,8 +8374,8 @@
       "courseCode4": "HNKLY 4903-002 (Summer • CRN: 3896)",
       "seasonYear1": "Summer 2026",
       "seasonYear2": "Fall 2026",
-      "term1StartDate": "May 20",
-      "term1EndDate": "August 6",
+      "term1StartDate": null,
+      "term1EndDate": null,
       "term2StartDate": "August 24",
       "term2EndDate": "December 10"
     },
@@ -8275,8 +8410,8 @@
       "termsandConditionsPolicy": "https://www.uta.edu/administration/legal-affairs/privacy/privacy-notice",
       "registrationMessage": "Registration is now open.",
       "credits": "6 UTA credits",
-      "startDate": "<b style='color:red;'>null<b/>",
-      "endDate": "<b style='color:red;'>null<b/>"
+      "startDate": "June 1",
+      "endDate": "August 9"
     },
     {
       "item": "about",
@@ -8287,9 +8422,9 @@
       "phone": "(682) 297-7732",
       "credits": "6 UTA credits",
       "programFee": null,
-      "seasonYear": null,
-      "term": null,
-      "season": "<b style='color:red;'>null<b/>",
+      "seasonYear": "Summer 2026",
+      "term": "Summer",
+      "season": "Summer",
       "registrationMessage": "Registration is now open."
     },
     {
@@ -8308,8 +8443,8 @@
       "courseCode1": "INTS 2388 (Section-001)",
       "seasonYear1": "Summer 2026",
       "seasonYear2": "Fall 2026",
-      "term1StartDate": null,
-      "term1EndDate": null,
+      "term1StartDate": "June 1",
+      "term1EndDate": "August 9",
       "term2StartDate": "August 17",
       "term2EndDate": "December 1"
     },
@@ -8323,8 +8458,8 @@
       "courseCode1": "INTS 2388 (Section-001)",
       "seasonYear1": "Summer 2026",
       "seasonYear2": "Fall 2026",
-      "term1StartDate": null,
-      "term1EndDate": null,
+      "term1StartDate": "June 1",
+      "term1EndDate": "August 9",
       "term2StartDate": "August 17",
       "term2EndDate": "December 1"
     },
@@ -8338,8 +8473,8 @@
       "courseCode1": "INTS 2388 (Section-001)",
       "seasonYear1": "Summer 2026",
       "seasonYear2": "Fall 2026",
-      "term1StartDate": null,
-      "term1EndDate": null,
+      "term1StartDate": "June 1",
+      "term1EndDate": "August 9",
       "term2StartDate": "August 17",
       "term2EndDate": "December 1"
     },
@@ -8353,8 +8488,8 @@
       "courseCode1": "INTS 2388 (Section-001)",
       "seasonYear1": "Summer 2026",
       "seasonYear2": "Fall 2026",
-      "term1StartDate": null,
-      "term1EndDate": null,
+      "term1StartDate": "June 1",
+      "term1EndDate": "August 9",
       "term2StartDate": "August 17",
       "term2EndDate": "December 1"
     },
@@ -8368,8 +8503,8 @@
       "courseCode1": "INTS 2388 (Section-001)",
       "seasonYear1": "Summer 2026",
       "seasonYear2": "Fall 2026",
-      "term1StartDate": null,
-      "term1EndDate": null,
+      "term1StartDate": "June 1",
+      "term1EndDate": "August 9",
       "term2StartDate": "August 17",
       "term2EndDate": "December 1"
     },
@@ -8671,9 +8806,9 @@
       "programName": "UT San Antonio Global Career Accelerator",
       "termsandConditionsPolicy": "https://www.utsa.edu/policies/#_ga=2.42408678.2130508855.1692576888-1416629613.1692576888",
       "registrationMessage": "Registration is now open.",
-      "credits": null,
-      "startDate": "<b style='color:red;'>null<b/>",
-      "endDate": "<b style='color:red;'>null<b/>"
+      "credits": "6 UTSA credits",
+      "startDate": "May 26",
+      "endDate": "August 4"
     },
     {
       "item": "about",
@@ -8682,16 +8817,16 @@
       "schoolFullAddress": "Graduate School and Research Building, GSR 2.116  Main Campus  1 UTSA Circle  San Antonio, TX 78249",
       "abbreviation": "UTSA",
       "phone": "(210) 405-9277",
-      "credits": null,
+      "credits": "6 UTSA credits",
       "programFee": null,
-      "seasonYear": null,
-      "term": null,
-      "season": "<b style='color:red;'>null<b/>",
+      "seasonYear": "Summer 2026",
+      "term": "Summer",
+      "season": "Summer",
       "registrationMessage": "Registration is now open."
     },
     {
       "item": "explore-tracks",
-      "credits": null,
+      "credits": "6 UTSA credits",
       "abbreviation": "UTSA",
       "registrationMessage": "Registration is now open."
     },
@@ -8699,13 +8834,15 @@
       "item": "digital-marketing",
       "schoolname": "University of Texas at San Antonio",
       "trackTitle": "Digital Marketing Track",
-      "credits": null,
+      "credits": "6 UTSA credits",
       "abbreviation": "UTSA",
       "registrationMessage": "Registration is now open.",
+      "courseCode1": "GLA 4936: Internship in Global Affairs (Summer • CRN: 36687)",
+      "courseCode2": "GLA 4966: Internship in Global Affairs (Fall • CRN: 30193)",
       "seasonYear1": "Summer 2026",
       "seasonYear2": "Fall 2026",
-      "term1StartDate": null,
-      "term1EndDate": null,
+      "term1StartDate": "May 26",
+      "term1EndDate": "August 4",
       "term2StartDate": "August 25",
       "term2EndDate": "December 12"
     },
@@ -8713,13 +8850,15 @@
       "item": "coding-for-web",
       "schoolname": "University of Texas at San Antonio",
       "trackTitle": "Web Development for Everyone Track",
-      "credits": null,
+      "credits": "6 UTSA credits",
       "abbreviation": "UTSA",
       "registrationMessage": "Registration is now open.",
+      "courseCode1": "GLA 4936: Internship in Global Affairs (Summer • CRN: 36687)",
+      "courseCode2": "GLA 4966: Internship in Global Affairs (Fall • CRN: 30193)",
       "seasonYear1": "Summer 2026",
       "seasonYear2": "Fall 2026",
-      "term1StartDate": null,
-      "term1EndDate": null,
+      "term1StartDate": "May 26",
+      "term1EndDate": "August 4",
       "term2StartDate": "August 25",
       "term2EndDate": "December 12"
     },
@@ -8727,13 +8866,15 @@
       "item": "data-analytics",
       "schoolname": "University of Texas at San Antonio",
       "trackTitle": "Data Analytics Track",
-      "credits": null,
+      "credits": "6 UTSA credits",
       "abbreviation": "UTSA",
       "registrationMessage": "Registration is now open.",
+      "courseCode1": "GLA 4936: Internship in Global Affairs (Summer • CRN: 36687)",
+      "courseCode2": "GLA 4966: Internship in Global Affairs (Fall • CRN: 30193)",
       "seasonYear1": "Summer 2026",
       "seasonYear2": "Fall 2026",
-      "term1StartDate": null,
-      "term1EndDate": null,
+      "term1StartDate": "May 26",
+      "term1EndDate": "August 4",
       "term2StartDate": "August 25",
       "term2EndDate": "December 12"
     },
@@ -8741,13 +8882,15 @@
       "item": "coding-for-data",
       "schoolname": "University of Texas at San Antonio",
       "trackTitle": "Coding for Data Track",
-      "credits": null,
+      "credits": "6 UTSA credits",
       "abbreviation": "UTSA",
       "registrationMessage": "Registration is now open.",
+      "courseCode1": "GLA 4936: Internship in Global Affairs (Summer • CRN: 36687)",
+      "courseCode2": "GLA 4966: Internship in Global Affairs (Fall • CRN: 30193)",
       "seasonYear1": "Summer 2026",
       "seasonYear2": "Fall 2026",
-      "term1StartDate": null,
-      "term1EndDate": null,
+      "term1StartDate": "May 26",
+      "term1EndDate": "August 4",
       "term2StartDate": "August 25",
       "term2EndDate": "December 12"
     },
@@ -8755,13 +8898,15 @@
       "item": "career-rotation",
       "schoolname": "University of Texas at San Antonio",
       "trackTitle": "Career Rotation Track",
-      "credits": null,
+      "credits": "6 UTSA credits",
       "abbreviation": "UTSA",
       "registrationMessage": "Registration is now open.",
+      "courseCode1": "GLA 4936: Internship in Global Affairs (Summer • CRN: 36687)",
+      "courseCode2": "GLA 4966: Internship in Global Affairs (Fall • CRN: 30193)",
       "seasonYear1": "Summer 2026",
       "seasonYear2": "Fall 2026",
-      "term1StartDate": null,
-      "term1EndDate": null,
+      "term1StartDate": "May 26",
+      "term1EndDate": "August 4",
       "term2StartDate": "August 25",
       "term2EndDate": "December 12"
     },
@@ -8774,7 +8919,7 @@
     },
     {
       "item": "begin",
-      "credits": null,
+      "credits": "6 UTSA credits",
       "abbreviation": "UTSA",
       "phone": "(210) 405-9277"
     }
@@ -8826,6 +8971,7 @@
       "credits": "4 UVM credits",
       "abbreviation": "UVM",
       "registrationMessage": "Registration is now open.",
+      "courseCode1": "CAS 1990 (Summer)",
       "seasonYear1": "Summer 2026",
       "seasonYear2": "Fall 2026",
       "term1StartDate": "May 18",
@@ -8840,6 +8986,7 @@
       "credits": "4 UVM credits",
       "abbreviation": "UVM",
       "registrationMessage": "Registration is now open.",
+      "courseCode1": "CAS 1990 (Summer)",
       "seasonYear1": "Summer 2026",
       "seasonYear2": "Fall 2026",
       "term1StartDate": "May 18",
@@ -8854,6 +9001,7 @@
       "credits": "4 UVM credits",
       "abbreviation": "UVM",
       "registrationMessage": "Registration is now open.",
+      "courseCode1": "CAS 1990 (Summer)",
       "seasonYear1": "Summer 2026",
       "seasonYear2": "Fall 2026",
       "term1StartDate": "May 18",
@@ -8868,6 +9016,7 @@
       "credits": "4 UVM credits",
       "abbreviation": "UVM",
       "registrationMessage": "Registration is now open.",
+      "courseCode1": "CAS 1990 (Summer)",
       "seasonYear1": "Summer 2026",
       "seasonYear2": "Fall 2026",
       "term1StartDate": "May 18",
@@ -8882,6 +9031,7 @@
       "credits": "4 UVM credits",
       "abbreviation": "UVM",
       "registrationMessage": "Registration is now open.",
+      "courseCode1": "CAS 1990 (Summer)",
       "seasonYear1": "Summer 2026",
       "seasonYear2": "Fall 2026",
       "term1StartDate": "May 18",
@@ -9352,6 +9502,8 @@
       "credits": "6 WMU credits",
       "abbreviation": "WMU",
       "registrationMessage": "Registration is now open.",
+      "courseCode1": "CS4120: Podium (Spring • CRN: 14827) / CS4120: International Collab (Spring • CRN: 14836)",
+      "courseCode2": "CS4120: Podium (Summer • CRN: 21720) / CS4120: International Collab (Summer • CRN: 21721)",
       "seasonYear": "Summer 2026",
       "startDate": "May 11",
       "endDate": "August 21"
@@ -9363,6 +9515,8 @@
       "credits": "6 WMU credits",
       "abbreviation": "WMU",
       "registrationMessage": "Registration is now open.",
+      "courseCode1": "CS4120: Podium (Spring • CRN: 14827) / CS4120: International Collab (Spring • CRN: 14836)",
+      "courseCode2": "CS4120: Podium (Summer • CRN: 21720) / CS4120: International Collab (Summer • CRN: 21721)",
       "seasonYear": "Summer 2026",
       "startDate": "May 11",
       "endDate": "August 21"
@@ -9374,6 +9528,8 @@
       "credits": "6 WMU credits",
       "abbreviation": "WMU",
       "registrationMessage": "Registration is now open.",
+      "courseCode1": "CS4120: Podium (Spring • CRN: 14827) / CS4120: International Collab (Spring • CRN: 14836)",
+      "courseCode2": "CS4120: Podium (Summer • CRN: 21720) / CS4120: International Collab (Summer • CRN: 21721)",
       "seasonYear": "Summer 2026",
       "startDate": "May 11",
       "endDate": "August 21"
@@ -9385,6 +9541,8 @@
       "credits": "6 WMU credits",
       "abbreviation": "WMU",
       "registrationMessage": "Registration is now open.",
+      "courseCode1": "CS4120: Podium (Spring • CRN: 14827) / CS4120: International Collab (Spring • CRN: 14836)",
+      "courseCode2": "CS4120: Podium (Summer • CRN: 21720) / CS4120: International Collab (Summer • CRN: 21721)",
       "seasonYear": "Summer 2026",
       "startDate": "May 11",
       "endDate": "August 21"
@@ -9396,6 +9554,8 @@
       "credits": "6 WMU credits",
       "abbreviation": "WMU",
       "registrationMessage": "Registration is now open.",
+      "courseCode1": "CS4120: Podium (Spring • CRN: 14827) / CS4120: International Collab (Spring • CRN: 14836)",
+      "courseCode2": "CS4120: Podium (Summer • CRN: 21720) / CS4120: International Collab (Summer • CRN: 21721)",
       "seasonYear": "Summer 2026",
       "startDate": "May 11",
       "endDate": "August 21"
