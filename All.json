@@ -1,10 +1,10 @@
 {
-  "adelphi": [
+  "001rd00000me1r1ial": [
     {
       "item": "home",
       "schoolname": "Adelphi University",
-      "abbreviation": "Adelphi",
-      "genericProgramName": "The Global Career Accelerator",
+      "abbreviation": null,
+      "genericProgramName": null,
       "secondaryBrandColor": "#4F2C1D",
       "primaryBrandColor": "#FFB503",
       "buttonColor": "#FFB503",
@@ -12,21 +12,21 @@
       "logo": "https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/669d5713-9b6a-46bb-bd7e-c542cff6dd6a/bad0d961febe4f229536d370ebbb97ed/logo-school-dynamic-email/adelphi.png",
       "cobranded_logo": "https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/669d5713-9b6a-46bb-bd7e-c542cff6dd6a/bad0d961febe4f229536d370ebbb97ed/logo-school-cobrand-gca-dynamic-email/adelphi.png",
       "partner_id": "001Rd00000ME1R1IAL",
-      "programName": "Adelphi Global Career Accelerator",
+      "programName": null,
       "termsandConditionsPolicy": null,
       "registrationMessage": "Registration is now open.",
-      "credits": "3 Adelphi credits",
+      "credits": "3  credits",
       "startDate": "May 26",
       "endDate": "August 9"
     },
     {
       "item": "about",
       "schoolname": "Adelphi University",
-      "genericProgramName": "The Global Career Accelerator",
+      "genericProgramName": null,
       "schoolFullAddress": "One South Avenue | P.O. Box 701\r\nGarden City, NY 11530-0701",
-      "abbreviation": "Adelphi",
-      "phone": "(516) 871-3301",
-      "credits": "3 Adelphi credits",
+      "abbreviation": null,
+      "phone": null,
+      "credits": "3  credits",
       "programFee": null,
       "seasonYear": "Summer 2026",
       "term": "Summer",
@@ -35,16 +35,16 @@
     },
     {
       "item": "explore-tracks",
-      "credits": "3 Adelphi credits",
-      "abbreviation": "Adelphi",
+      "credits": "3  credits",
+      "abbreviation": null,
       "registrationMessage": "Registration is now open."
     },
     {
       "item": "digital-marketing",
       "schoolname": "Adelphi University",
       "trackTitle": "Digital Marketing Track",
-      "credits": "3 Adelphi credits",
-      "abbreviation": "Adelphi",
+      "credits": "3  credits",
+      "abbreviation": null,
       "registrationMessage": "Registration is now open.",
       "courseCode1": "0137-228",
       "seasonYear": "Summer 2026",
@@ -54,9 +54,9 @@
     {
       "item": "coding-for-web",
       "schoolname": "Adelphi University",
-      "trackTitle": "Web Development for Everyone Track",
-      "credits": "3 Adelphi credits",
-      "abbreviation": "Adelphi",
+      "trackTitle": "Coding for Web Track",
+      "credits": "3  credits",
+      "abbreviation": null,
       "registrationMessage": "Registration is now open.",
       "courseCode1": "0137-228",
       "seasonYear": "Summer 2026",
@@ -67,8 +67,8 @@
       "item": "data-analytics",
       "schoolname": "Adelphi University",
       "trackTitle": "Data Analytics Track",
-      "credits": "3 Adelphi credits",
-      "abbreviation": "Adelphi",
+      "credits": "3  credits",
+      "abbreviation": null,
       "registrationMessage": "Registration is now open.",
       "courseCode1": "0137-228",
       "seasonYear": "Summer 2026",
@@ -79,8 +79,8 @@
       "item": "coding-for-data",
       "schoolname": "Adelphi University",
       "trackTitle": "Coding for Data Track",
-      "credits": "3 Adelphi credits",
-      "abbreviation": "Adelphi",
+      "credits": "3  credits",
+      "abbreviation": null,
       "registrationMessage": "Registration is now open.",
       "courseCode1": "0137-228",
       "seasonYear": "Summer 2026",
@@ -91,8 +91,8 @@
       "item": "career-rotation",
       "schoolname": "Adelphi University",
       "trackTitle": "Career Rotation Track",
-      "credits": "3 Adelphi credits",
-      "abbreviation": "Adelphi",
+      "credits": "3  credits",
+      "abbreviation": null,
       "registrationMessage": "Registration is now open.",
       "courseCode1": "0137-228",
       "seasonYear": "Summer 2026",
@@ -101,16 +101,16 @@
     },
     {
       "item": "reserve-a-seat",
-      "programName": "Adelphi Global Career Accelerator",
+      "programName": null,
       "registrationMessage": "Registration is now open.",
-      "phone": "(516) 871-3301",
-      "abbreviation": "Adelphi"
+      "phone": null,
+      "abbreviation": null
     },
     {
       "item": "begin",
-      "credits": "3 Adelphi credits",
-      "abbreviation": "Adelphi",
-      "phone": "(516) 871-3301"
+      "credits": "3  credits",
+      "abbreviation": null,
+      "phone": null
     }
   ],
   "colorado": [
@@ -129,7 +129,7 @@
       "programName": "CSU Global Career Accelerator",
       "termsandConditionsPolicy": "https://www.colostate.edu/privacy/",
       "registrationMessage": "Registration is now open.",
-      "credits": null,
+      "credits": "1 or 6 CSU credits",
       "startDate": "May 19",
       "endDate": "August 9"
     },
@@ -140,7 +140,7 @@
       "schoolFullAddress": "200 W Lake St.\r\nFort Collins, CO 80521",
       "abbreviation": "CSU",
       "phone": "(970) 499-7515",
-      "credits": null,
+      "credits": "1 or 6 CSU credits",
       "programFee": null,
       "seasonYear": "Summer 2026",
       "term": "Summer",
@@ -149,7 +149,7 @@
     },
     {
       "item": "explore-tracks",
-      "credits": null,
+      "credits": "1 or 6 CSU credits",
       "abbreviation": "CSU",
       "registrationMessage": "Registration is now open."
     },
@@ -157,9 +157,11 @@
       "item": "digital-marketing",
       "schoolname": "Colorado State University-Fort Collins",
       "trackTitle": "Digital Marketing Track",
-      "credits": null,
+      "credits": "1 or 6 CSU credits",
       "abbreviation": "CSU",
       "registrationMessage": "Registration is now open.",
+      "courseCode1": "ESC 300",
+      "courseCode2": "IE 387: Intercultural Internship",
       "seasonYear": "Summer 2026",
       "startDate": "May 19",
       "endDate": "August 9"
@@ -168,9 +170,11 @@
       "item": "coding-for-web",
       "schoolname": "Colorado State University-Fort Collins",
       "trackTitle": "Web Development for Everyone Track",
-      "credits": null,
+      "credits": "1 or 6 CSU credits",
       "abbreviation": "CSU",
       "registrationMessage": "Registration is now open.",
+      "courseCode1": "ESC 300",
+      "courseCode2": "IE 387: Intercultural Internship",
       "seasonYear": "Summer 2026",
       "startDate": "May 19",
       "endDate": "August 9"
@@ -179,9 +183,11 @@
       "item": "data-analytics",
       "schoolname": "Colorado State University-Fort Collins",
       "trackTitle": "Data Analytics Track",
-      "credits": null,
+      "credits": "1 or 6 CSU credits",
       "abbreviation": "CSU",
       "registrationMessage": "Registration is now open.",
+      "courseCode1": "ESC 300",
+      "courseCode2": "IE 387: Intercultural Internship",
       "seasonYear": "Summer 2026",
       "startDate": "May 19",
       "endDate": "August 9"
@@ -190,9 +196,11 @@
       "item": "coding-for-data",
       "schoolname": "Colorado State University-Fort Collins",
       "trackTitle": "Coding for Data Track",
-      "credits": null,
+      "credits": "1 or 6 CSU credits",
       "abbreviation": "CSU",
       "registrationMessage": "Registration is now open.",
+      "courseCode1": "ESC 300",
+      "courseCode2": "IE 387: Intercultural Internship",
       "seasonYear": "Summer 2026",
       "startDate": "May 19",
       "endDate": "August 9"
@@ -201,9 +209,11 @@
       "item": "career-rotation",
       "schoolname": "Colorado State University-Fort Collins",
       "trackTitle": "Career Rotation Track",
-      "credits": null,
+      "credits": "1 or 6 CSU credits",
       "abbreviation": "CSU",
       "registrationMessage": "Registration is now open.",
+      "courseCode1": "ESC 300",
+      "courseCode2": "IE 387: Intercultural Internship",
       "seasonYear": "Summer 2026",
       "startDate": "May 19",
       "endDate": "August 9"
@@ -217,7 +227,7 @@
     },
     {
       "item": "begin",
-      "credits": null,
+      "credits": "1 or 6 CSU credits",
       "abbreviation": "CSU",
       "phone": "(970) 499-7515"
     }
@@ -676,7 +686,6 @@
       "credits": "3 BGSU credits",
       "abbreviation": "BGSU",
       "registrationMessage": "Registration is now open.",
-      "courseCode1": "AS 2010",
       "seasonYear": "Summer 2026",
       "startDate": "May 18",
       "endDate": "August 7"
@@ -688,7 +697,6 @@
       "credits": "3 BGSU credits",
       "abbreviation": "BGSU",
       "registrationMessage": "Registration is now open.",
-      "courseCode1": "AS 2010",
       "seasonYear": "Summer 2026",
       "startDate": "May 18",
       "endDate": "August 7"
@@ -700,7 +708,6 @@
       "credits": "3 BGSU credits",
       "abbreviation": "BGSU",
       "registrationMessage": "Registration is now open.",
-      "courseCode1": "AS 2010",
       "seasonYear": "Summer 2026",
       "startDate": "May 18",
       "endDate": "August 7"
@@ -712,7 +719,6 @@
       "credits": "3 BGSU credits",
       "abbreviation": "BGSU",
       "registrationMessage": "Registration is now open.",
-      "courseCode1": "AS 2010",
       "seasonYear": "Summer 2026",
       "startDate": "May 18",
       "endDate": "August 7"
@@ -724,7 +730,6 @@
       "credits": "3 BGSU credits",
       "abbreviation": "BGSU",
       "registrationMessage": "Registration is now open.",
-      "courseCode1": "AS 2010",
       "seasonYear": "Summer 2026",
       "startDate": "May 18",
       "endDate": "August 7"
@@ -874,8 +879,8 @@
       "termsandConditionsPolicy": null,
       "registrationMessage": "Registration is now open.",
       "credits": "6 BSU credits",
-      "startDate": "May 11",
-      "endDate": "August 16"
+      "startDate": "<b style='color:red;'>null<b/>",
+      "endDate": "<b style='color:red;'>null<b/>"
     },
     {
       "item": "about",
@@ -885,10 +890,10 @@
       "abbreviation": "BSU",
       "phone": "(208) 247-5556",
       "credits": "6 BSU credits",
-      "programFee": "+ 1,600",
-      "seasonYear": "Summer 2026",
-      "term": "Summer",
-      "season": "Summer",
+      "programFee": null,
+      "seasonYear": null,
+      "term": null,
+      "season": "<b style='color:red;'>null<b/>",
       "registrationMessage": "Registration is now open."
     },
     {
@@ -909,8 +914,8 @@
       "courseCode3": "IPS 350 (Summer • CRN: 42134)",
       "seasonYear1": "Summer 2026",
       "seasonYear2": "Fall 2026",
-      "term1StartDate": "May 11",
-      "term1EndDate": "August 16",
+      "term1StartDate": null,
+      "term1EndDate": null,
       "term2StartDate": "August 24",
       "term2EndDate": "December 18"
     },
@@ -926,8 +931,8 @@
       "courseCode3": "IPS 350 (Summer • CRN: 42134)",
       "seasonYear1": "Summer 2026",
       "seasonYear2": "Fall 2026",
-      "term1StartDate": "May 11",
-      "term1EndDate": "August 16",
+      "term1StartDate": null,
+      "term1EndDate": null,
       "term2StartDate": "August 24",
       "term2EndDate": "December 18"
     },
@@ -943,8 +948,8 @@
       "courseCode3": "IPS 350 (Summer • CRN: 42134)",
       "seasonYear1": "Summer 2026",
       "seasonYear2": "Fall 2026",
-      "term1StartDate": "May 11",
-      "term1EndDate": "August 16",
+      "term1StartDate": null,
+      "term1EndDate": null,
       "term2StartDate": "August 24",
       "term2EndDate": "December 18"
     },
@@ -960,8 +965,8 @@
       "courseCode3": "IPS 350 (Summer • CRN: 42134)",
       "seasonYear1": "Summer 2026",
       "seasonYear2": "Fall 2026",
-      "term1StartDate": "May 11",
-      "term1EndDate": "August 16",
+      "term1StartDate": null,
+      "term1EndDate": null,
       "term2StartDate": "August 24",
       "term2EndDate": "December 18"
     },
@@ -977,8 +982,8 @@
       "courseCode3": "IPS 350 (Summer • CRN: 42134)",
       "seasonYear1": "Summer 2026",
       "seasonYear2": "Fall 2026",
-      "term1StartDate": "May 11",
-      "term1EndDate": "August 16",
+      "term1StartDate": null,
+      "term1EndDate": null,
       "term2StartDate": "August 24",
       "term2EndDate": "December 18"
     },
@@ -1043,6 +1048,7 @@
       "credits": "6 CINCY credits",
       "abbreviation": "CINCY",
       "registrationMessage": "Registration is now open.",
+      "courseCode1": "LPE 2048",
       "seasonYear1": "Summer 2026",
       "seasonYear2": "Fall 2026",
       "term1StartDate": "May 11",
@@ -1057,6 +1063,7 @@
       "credits": "6 CINCY credits",
       "abbreviation": "CINCY",
       "registrationMessage": "Registration is now open.",
+      "courseCode1": "LPE 2048",
       "seasonYear1": "Summer 2026",
       "seasonYear2": "Fall 2026",
       "term1StartDate": "May 11",
@@ -1071,6 +1078,7 @@
       "credits": "6 CINCY credits",
       "abbreviation": "CINCY",
       "registrationMessage": "Registration is now open.",
+      "courseCode1": "LPE 2048",
       "seasonYear1": "Summer 2026",
       "seasonYear2": "Fall 2026",
       "term1StartDate": "May 11",
@@ -1085,6 +1093,7 @@
       "credits": "6 CINCY credits",
       "abbreviation": "CINCY",
       "registrationMessage": "Registration is now open.",
+      "courseCode1": "LPE 2048",
       "seasonYear1": "Summer 2026",
       "seasonYear2": "Fall 2026",
       "term1StartDate": "May 11",
@@ -1099,6 +1108,7 @@
       "credits": "6 CINCY credits",
       "abbreviation": "CINCY",
       "registrationMessage": "Registration is now open.",
+      "courseCode1": "LPE 2048",
       "seasonYear1": "Summer 2026",
       "seasonYear2": "Fall 2026",
       "term1StartDate": "May 11",
@@ -1120,12 +1130,12 @@
       "phone": "(513) 506-0718"
     }
   ],
-  "cleveland": [
+  "0014t00000zyjsqqaz": [
     {
       "item": "home",
       "schoolname": "Cleveland State University",
-      "abbreviation": "Cleveland",
-      "genericProgramName": "The Global Career Accelerator",
+      "abbreviation": null,
+      "genericProgramName": null,
       "secondaryBrandColor": "#69BE28",
       "primaryBrandColor": "#006A4D",
       "buttonColor": "#69BE29",
@@ -1133,21 +1143,21 @@
       "logo": "https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/669d5713-9b6a-46bb-bd7e-c542cff6dd6a/bad0d961febe4f229536d370ebbb97ed/logo-school-dynamic-email/csu.png",
       "cobranded_logo": "https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/669d5713-9b6a-46bb-bd7e-c542cff6dd6a/bad0d961febe4f229536d370ebbb97ed/logo-school-cobrand-gca-dynamic-email/csu.png",
       "partner_id": "0014T00000ZyjSQQAZ",
-      "programName": "CSU Global Career Accelerator",
-      "termsandConditionsPolicy": "https://www.csuohio.edu/sites/default/files/CSU_Web_Privacy_Statement.pdf",
+      "programName": null,
+      "termsandConditionsPolicy": null,
       "registrationMessage": "Registration is now open.",
-      "credits": "3 or 6 Cleveland credits",
+      "credits": "3 or 6  credits",
       "startDate": "May 18",
       "endDate": "August 7"
     },
     {
       "item": "about",
       "schoolname": "Cleveland State University",
-      "genericProgramName": "The Global Career Accelerator",
+      "genericProgramName": null,
       "schoolFullAddress": "Berkman Hall, Suite 412, 1899 East 22nd Street Cleveland, OH 44115-2214",
-      "abbreviation": "Cleveland",
-      "phone": "(216) 616-4116",
-      "credits": "3 or 6 Cleveland credits",
+      "abbreviation": null,
+      "phone": null,
+      "credits": "3 or 6  credits",
       "programFee": null,
       "seasonYear": "Summer 2026",
       "term": "Summer",
@@ -1156,16 +1166,16 @@
     },
     {
       "item": "explore-tracks",
-      "credits": "3 or 6 Cleveland credits",
-      "abbreviation": "Cleveland",
+      "credits": "3 or 6  credits",
+      "abbreviation": null,
       "registrationMessage": "Registration is now open."
     },
     {
       "item": "digital-marketing",
       "schoolname": "Cleveland State University",
       "trackTitle": "Digital Marketing Track",
-      "credits": "3 or 6 Cleveland credits",
-      "abbreviation": "Cleveland",
+      "credits": "3 or 6  credits",
+      "abbreviation": null,
       "registrationMessage": "Registration is now open.",
       "courseCode1": "ESC 300",
       "courseCode2": "INB 490",
@@ -1176,9 +1186,9 @@
     {
       "item": "coding-for-web",
       "schoolname": "Cleveland State University",
-      "trackTitle": "Web Development for Everyone Track",
-      "credits": "3 or 6 Cleveland credits",
-      "abbreviation": "Cleveland",
+      "trackTitle": "Coding for Web Track",
+      "credits": "3 or 6  credits",
+      "abbreviation": null,
       "registrationMessage": "Registration is now open.",
       "courseCode1": "ESC 300",
       "courseCode2": "INB 490",
@@ -1190,8 +1200,8 @@
       "item": "data-analytics",
       "schoolname": "Cleveland State University",
       "trackTitle": "Data Analytics Track",
-      "credits": "3 or 6 Cleveland credits",
-      "abbreviation": "Cleveland",
+      "credits": "3 or 6  credits",
+      "abbreviation": null,
       "registrationMessage": "Registration is now open.",
       "courseCode1": "ESC 300",
       "courseCode2": "INB 490",
@@ -1203,8 +1213,8 @@
       "item": "coding-for-data",
       "schoolname": "Cleveland State University",
       "trackTitle": "Coding for Data Track",
-      "credits": "3 or 6 Cleveland credits",
-      "abbreviation": "Cleveland",
+      "credits": "3 or 6  credits",
+      "abbreviation": null,
       "registrationMessage": "Registration is now open.",
       "courseCode1": "ESC 300",
       "courseCode2": "INB 490",
@@ -1216,8 +1226,8 @@
       "item": "career-rotation",
       "schoolname": "Cleveland State University",
       "trackTitle": "Career Rotation Track",
-      "credits": "3 or 6 Cleveland credits",
-      "abbreviation": "Cleveland",
+      "credits": "3 or 6  credits",
+      "abbreviation": null,
       "registrationMessage": "Registration is now open.",
       "courseCode1": "ESC 300",
       "courseCode2": "INB 490",
@@ -1227,16 +1237,16 @@
     },
     {
       "item": "reserve-a-seat",
-      "programName": "CSU Global Career Accelerator",
+      "programName": null,
       "registrationMessage": "Registration is now open.",
-      "phone": "(216) 616-4116",
-      "abbreviation": "Cleveland"
+      "phone": null,
+      "abbreviation": null
     },
     {
       "item": "begin",
-      "credits": "3 or 6 Cleveland credits",
-      "abbreviation": "Cleveland",
-      "phone": "(216) 616-4116"
+      "credits": "3 or 6  credits",
+      "abbreviation": null,
+      "phone": null
     }
   ],
   "cmu": [
@@ -1489,31 +1499,31 @@
       "abbreviation": "CSUSM",
       "genericProgramName": "The Global Career Accelerator",
       "secondaryBrandColor": null,
-      "primaryBrandColor": null,
-      "buttonColor": null,
-      "buttonTextColor": null,
-      "logo": null,
-      "cobranded_logo": null,
+      "primaryBrandColor": "#007AC3",
+      "buttonColor": "#0078CC",
+      "buttonTextColor": "#fff",
+      "logo": "https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/669d5713-9b6a-46bb-bd7e-c542cff6dd6a/bad0d961febe4f229536d370ebbb97ed/logo-school-dynamic-email/csusm.png",
+      "cobranded_logo": "https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/669d5713-9b6a-46bb-bd7e-c542cff6dd6a/bad0d961febe4f229536d370ebbb97ed/logo-school-cobrand-gca-dynamic-email/csusm.png",
       "partner_id": "001Rd00000IHMbGIAX",
       "programName": "CSUSM Global Career Accelerator",
       "termsandConditionsPolicy": "https://www.csusm.edu/corp/businesssrvcesandfinance/policies_proc_forms/generalprovisions.html",
       "registrationMessage": "Registration is now open.",
       "credits": "3 CSUSM credits",
-      "startDate": "June 1",
-      "endDate": "August 8"
+      "startDate": "<b style='color:red;'>null<b/>",
+      "endDate": "<b style='color:red;'>null<b/>"
     },
     {
       "item": "about",
       "schoolname": "California State University, San Marcos",
       "genericProgramName": "The Global Career Accelerator",
-      "schoolFullAddress": null,
+      "schoolFullAddress": "333 S. Twin Oaks Valley Rd. San Marcos CA, 92096",
       "abbreviation": "CSUSM",
       "phone": "(760) 750-5687",
       "credits": "3 CSUSM credits",
-      "programFee": "+ 1,600",
-      "seasonYear": "Summer 2026",
-      "term": "Summer",
-      "season": "Summer",
+      "programFee": null,
+      "seasonYear": null,
+      "term": null,
+      "season": "<b style='color:red;'>null<b/>",
       "registrationMessage": "Registration is now open."
     },
     {
@@ -1530,9 +1540,9 @@
       "abbreviation": "CSUSM",
       "registrationMessage": "Registration is now open.",
       "courseCode1": "ID 411C-901 (CRN: 24064)",
-      "seasonYear": "Summer 2026",
-      "startDate": "June 1",
-      "endDate": "August 8"
+      "seasonYear": "<b style='color:red;'>null<b/>",
+      "startDate": "<b style='color:red;'>null<b/>",
+      "endDate": "<b style='color:red;'>null<b/>"
     },
     {
       "item": "coding-for-web",
@@ -1542,9 +1552,9 @@
       "abbreviation": "CSUSM",
       "registrationMessage": "Registration is now open.",
       "courseCode1": "ID 411C-901 (CRN: 24064)",
-      "seasonYear": "Summer 2026",
-      "startDate": "June 1",
-      "endDate": "August 8"
+      "seasonYear": "<b style='color:red;'>null<b/>",
+      "startDate": "<b style='color:red;'>null<b/>",
+      "endDate": "<b style='color:red;'>null<b/>"
     },
     {
       "item": "data-analytics",
@@ -1554,9 +1564,9 @@
       "abbreviation": "CSUSM",
       "registrationMessage": "Registration is now open.",
       "courseCode1": "ID 411C-901 (CRN: 24064)",
-      "seasonYear": "Summer 2026",
-      "startDate": "June 1",
-      "endDate": "August 8"
+      "seasonYear": "<b style='color:red;'>null<b/>",
+      "startDate": "<b style='color:red;'>null<b/>",
+      "endDate": "<b style='color:red;'>null<b/>"
     },
     {
       "item": "coding-for-data",
@@ -1566,9 +1576,9 @@
       "abbreviation": "CSUSM",
       "registrationMessage": "Registration is now open.",
       "courseCode1": "ID 411C-901 (CRN: 24064)",
-      "seasonYear": "Summer 2026",
-      "startDate": "June 1",
-      "endDate": "August 8"
+      "seasonYear": "<b style='color:red;'>null<b/>",
+      "startDate": "<b style='color:red;'>null<b/>",
+      "endDate": "<b style='color:red;'>null<b/>"
     },
     {
       "item": "career-rotation",
@@ -1578,9 +1588,9 @@
       "abbreviation": "CSUSM",
       "registrationMessage": "Registration is now open.",
       "courseCode1": "ID 411C-901 (CRN: 24064)",
-      "seasonYear": "Summer 2026",
-      "startDate": "June 1",
-      "endDate": "August 8"
+      "seasonYear": "<b style='color:red;'>null<b/>",
+      "startDate": "<b style='color:red;'>null<b/>",
+      "endDate": "<b style='color:red;'>null<b/>"
     },
     {
       "item": "reserve-a-seat",
@@ -1735,8 +1745,8 @@
       "primaryBrandColor": "#141B4D",
       "buttonColor": "#141B4D",
       "buttonTextColor": "#ffffff",
-      "logo": null,
-      "cobranded_logo": null,
+      "logo": "https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/669d5713-9b6a-46bb-bd7e-c542cff6dd6a/bad0d961febe4f229536d370ebbb97ed/logo-school-dynamic-email/e4fc6d63e6864612b2bb8dbe52e47dd7-dayton.png",
+      "cobranded_logo": "https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/669d5713-9b6a-46bb-bd7e-c542cff6dd6a/bad0d961febe4f229536d370ebbb97ed/logo-school-cobrand-gca-dynamic-email/e4fc6d63e6864612b2bb8dbe52e47dd7-dayton.png",
       "partner_id": "001Rd00000acGqDIAU",
       "programName": "UD Global Career Accelerator",
       "termsandConditionsPolicy": "https://udayton.edu/policies/all-policies/index.php",
@@ -2087,12 +2097,12 @@
       "phone": "(740) 880-7773"
     }
   ],
-  "elmhurst": [
+  "001rd00000co7uriaa": [
     {
       "item": "home",
       "schoolname": "Elmhurst University",
-      "abbreviation": "Elmhurst",
-      "genericProgramName": "The Global Career Accelerator",
+      "abbreviation": null,
+      "genericProgramName": null,
       "secondaryBrandColor": "#F7A700",
       "primaryBrandColor": "#092D74",
       "buttonColor": "#092D74",
@@ -2100,128 +2110,108 @@
       "logo": "https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/669d5713-9b6a-46bb-bd7e-c542cff6dd6a/bad0d961febe4f229536d370ebbb97ed/logo-school-dynamic-email/4e205c4fb85b438b913c2b76a36d6e5a-elmhurst.png",
       "cobranded_logo": "https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/669d5713-9b6a-46bb-bd7e-c542cff6dd6a/bad0d961febe4f229536d370ebbb97ed/logo-school-cobrand-gca-dynamic-email/4e205c4fb85b438b913c2b76a36d6e5a-elmhurst.png",
       "partner_id": "001Rd00000co7urIAA",
-      "programName": "Elmhurst Global Career Accelerator",
+      "programName": null,
       "termsandConditionsPolicy": null,
       "registrationMessage": "Registration is now open.",
-      "credits": "1 Elmhurst credits",
-      "startDate": "June 8",
-      "endDate": "August 16"
+      "credits": null,
+      "startDate": "<b style='color:red;'>null<b/>",
+      "endDate": "<b style='color:red;'>null<b/>"
     },
     {
       "item": "about",
       "schoolname": "Elmhurst University",
-      "genericProgramName": "The Global Career Accelerator",
+      "genericProgramName": null,
       "schoolFullAddress": "190 Prospect Avenue\r\nElmhurst, Illinois 60126",
-      "abbreviation": "Elmhurst",
-      "phone": "(630) 621-9126",
-      "credits": "1 Elmhurst credits",
+      "abbreviation": null,
+      "phone": null,
+      "credits": null,
       "programFee": null,
-      "seasonYear": "Summer 2026",
-      "term": "Summer",
-      "season": "Summer",
+      "seasonYear": null,
+      "term": null,
+      "season": "<b style='color:red;'>null<b/>",
       "registrationMessage": "Registration is now open."
     },
     {
       "item": "explore-tracks",
-      "credits": "1 Elmhurst credits",
-      "abbreviation": "Elmhurst",
+      "credits": null,
+      "abbreviation": null,
       "registrationMessage": "Registration is now open."
     },
     {
       "item": "digital-marketing",
       "schoolname": "Elmhurst University",
       "trackTitle": "Digital Marketing Track",
-      "credits": "1 Elmhurst credits",
-      "abbreviation": "Elmhurst",
+      "credits": null,
+      "abbreviation": null,
       "registrationMessage": "Registration is now open.",
-      "courseCode1": "COM 353-15: COM 353-15",
-      "seasonYear1": "Summer 2026",
-      "seasonYear2": "Fall 2026",
-      "term1StartDate": "June 8",
-      "term1EndDate": "August 16",
-      "term2StartDate": "August 31",
-      "term2EndDate": "December 17"
+      "seasonYear": "<b style='color:red;'>null<b/>",
+      "startDate": "<b style='color:red;'>null<b/>",
+      "endDate": "<b style='color:red;'>null<b/>"
     },
     {
       "item": "coding-for-web",
       "schoolname": "Elmhurst University",
-      "trackTitle": "Web Development for Everyone Track",
-      "credits": "1 Elmhurst credits",
-      "abbreviation": "Elmhurst",
+      "trackTitle": "Coding for Web Track",
+      "credits": null,
+      "abbreviation": null,
       "registrationMessage": "Registration is now open.",
-      "courseCode1": "COM 353-15: COM 353-15",
-      "seasonYear1": "Summer 2026",
-      "seasonYear2": "Fall 2026",
-      "term1StartDate": "June 8",
-      "term1EndDate": "August 16",
-      "term2StartDate": "August 31",
-      "term2EndDate": "December 17"
+      "seasonYear": "<b style='color:red;'>null<b/>",
+      "startDate": "<b style='color:red;'>null<b/>",
+      "endDate": "<b style='color:red;'>null<b/>"
     },
     {
       "item": "data-analytics",
       "schoolname": "Elmhurst University",
       "trackTitle": "Data Analytics Track",
-      "credits": "1 Elmhurst credits",
-      "abbreviation": "Elmhurst",
+      "credits": null,
+      "abbreviation": null,
       "registrationMessage": "Registration is now open.",
-      "courseCode1": "COM 353-15: COM 353-15",
-      "seasonYear1": "Summer 2026",
-      "seasonYear2": "Fall 2026",
-      "term1StartDate": "June 8",
-      "term1EndDate": "August 16",
-      "term2StartDate": "August 31",
-      "term2EndDate": "December 17"
+      "seasonYear": "<b style='color:red;'>null<b/>",
+      "startDate": "<b style='color:red;'>null<b/>",
+      "endDate": "<b style='color:red;'>null<b/>"
     },
     {
       "item": "coding-for-data",
       "schoolname": "Elmhurst University",
       "trackTitle": "Coding for Data Track",
-      "credits": "1 Elmhurst credits",
-      "abbreviation": "Elmhurst",
+      "credits": null,
+      "abbreviation": null,
       "registrationMessage": "Registration is now open.",
-      "courseCode1": "COM 353-15: COM 353-15",
-      "seasonYear1": "Summer 2026",
-      "seasonYear2": "Fall 2026",
-      "term1StartDate": "June 8",
-      "term1EndDate": "August 16",
-      "term2StartDate": "August 31",
-      "term2EndDate": "December 17"
+      "seasonYear": "<b style='color:red;'>null<b/>",
+      "startDate": "<b style='color:red;'>null<b/>",
+      "endDate": "<b style='color:red;'>null<b/>"
     },
     {
       "item": "career-rotation",
       "schoolname": "Elmhurst University",
       "trackTitle": "Career Rotation Track",
-      "credits": "1 Elmhurst credits",
-      "abbreviation": "Elmhurst",
+      "credits": null,
+      "abbreviation": null,
       "registrationMessage": "Registration is now open.",
-      "courseCode1": "COM 353-15: COM 353-15",
-      "seasonYear1": "Summer 2026",
-      "seasonYear2": "Fall 2026",
-      "term1StartDate": "June 8",
-      "term1EndDate": "August 16",
-      "term2StartDate": "August 31",
-      "term2EndDate": "December 17"
+      "seasonYear": "<b style='color:red;'>null<b/>",
+      "startDate": "<b style='color:red;'>null<b/>",
+      "endDate": "<b style='color:red;'>null<b/>"
     },
     {
       "item": "reserve-a-seat",
-      "programName": "Elmhurst Global Career Accelerator",
+      "programName": null,
       "registrationMessage": "Registration is now open.",
-      "phone": "(630) 621-9126",
-      "abbreviation": "Elmhurst"
+      "phone": null,
+      "abbreviation": null
     },
     {
       "item": "begin",
-      "credits": "1 Elmhurst credits",
-      "abbreviation": "Elmhurst",
-      "phone": "(630) 621-9126"
+      "credits": null,
+      "abbreviation": null,
+      "phone": null
     }
   ],
-  "fau": [
+  "0014t00000n19uoqab": [
     {
       "item": "home",
       "schoolname": "Florida Atlantic University",
-      "abbreviation": "FAU",
-      "genericProgramName": "The Global Career Accelerator",
+      "abbreviation": null,
+      "genericProgramName": null,
       "secondaryBrandColor": "#CC0000",
       "primaryBrandColor": "#013366",
       "buttonColor": "#CC0000",
@@ -2229,21 +2219,21 @@
       "logo": "https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/669d5713-9b6a-46bb-bd7e-c542cff6dd6a/bad0d961febe4f229536d370ebbb97ed/logo-school-dynamic-email/fau.png",
       "cobranded_logo": "https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/669d5713-9b6a-46bb-bd7e-c542cff6dd6a/bad0d961febe4f229536d370ebbb97ed/logo-school-cobrand-gca-dynamic-email/fau.png",
       "partner_id": "0014T00000N19uoQAB",
-      "programName": "FAU Global Career Accelerator",
-      "termsandConditionsPolicy": "https://www.fau.edu/privacypolicy.php",
+      "programName": null,
+      "termsandConditionsPolicy": null,
       "registrationMessage": "Registration is now open.",
-      "credits": "6 FAU credits",
+      "credits": "6  credits",
       "startDate": "May 16",
       "endDate": "August 7"
     },
     {
       "item": "about",
       "schoolname": "Florida Atlantic University",
-      "genericProgramName": "The Global Career Accelerator",
+      "genericProgramName": null,
       "schoolFullAddress": "Gladys Davis Pavilion, W University Dr, Boca Raton, FL 33431",
-      "abbreviation": "FAU",
-      "phone": "(561) 299-3035",
-      "credits": "6 FAU credits",
+      "abbreviation": null,
+      "phone": null,
+      "credits": "6  credits",
       "programFee": "+ 1,800",
       "seasonYear": "Summer 2026",
       "term": "Summer",
@@ -2252,117 +2242,102 @@
     },
     {
       "item": "explore-tracks",
-      "credits": "6 FAU credits",
-      "abbreviation": "FAU",
+      "credits": "6  credits",
+      "abbreviation": null,
       "registrationMessage": "Registration is now open."
     },
     {
       "item": "digital-marketing",
       "schoolname": "Florida Atlantic University",
       "trackTitle": "Digital Marketing Track",
-      "credits": "6 FAU credits",
-      "abbreviation": "FAU",
+      "credits": "6  credits",
+      "abbreviation": null,
       "registrationMessage": "Registration is now open.",
       "courseCode1": "ISM 4930 (CRN: 14176) / GEB 4956 (CRN: 14173)",
       "courseCode2": "ISM 4930 (CRN: 14176) / GEB 4956 (CRN: 14173)",
       "courseCode3": "ISM 4930 (CRN: 14177) / GEB 4956 (CRN: 14174)",
       "courseCode4": "ISM 4930 (CRN: 14177) / GEB 4956 (CRN: 14174)",
       "courseCode5": "Mar 4933 (CRN: 14178) / GEB 4956 (CRN: 14175)",
-      "seasonYear1": "Summer 2026",
-      "seasonYear2": "Fall 2026",
-      "term1StartDate": "May 16",
-      "term1EndDate": "August 7",
-      "term2StartDate": "August 22",
-      "term2EndDate": "December 4"
+      "seasonYear": "Summer 2026",
+      "startDate": "May 16",
+      "endDate": "August 7"
     },
     {
       "item": "coding-for-web",
       "schoolname": "Florida Atlantic University",
-      "trackTitle": "Web Development for Everyone Track",
-      "credits": "6 FAU credits",
-      "abbreviation": "FAU",
+      "trackTitle": "Coding for Web Track",
+      "credits": "6  credits",
+      "abbreviation": null,
       "registrationMessage": "Registration is now open.",
       "courseCode1": "ISM 4930 (CRN: 14176) / GEB 4956 (CRN: 14173)",
       "courseCode2": "ISM 4930 (CRN: 14176) / GEB 4956 (CRN: 14173)",
       "courseCode3": "ISM 4930 (CRN: 14177) / GEB 4956 (CRN: 14174)",
       "courseCode4": "ISM 4930 (CRN: 14177) / GEB 4956 (CRN: 14174)",
       "courseCode5": "Mar 4933 (CRN: 14178) / GEB 4956 (CRN: 14175)",
-      "seasonYear1": "Summer 2026",
-      "seasonYear2": "Fall 2026",
-      "term1StartDate": "May 16",
-      "term1EndDate": "August 7",
-      "term2StartDate": "August 22",
-      "term2EndDate": "December 4"
+      "seasonYear": "Summer 2026",
+      "startDate": "May 16",
+      "endDate": "August 7"
     },
     {
       "item": "data-analytics",
       "schoolname": "Florida Atlantic University",
       "trackTitle": "Data Analytics Track",
-      "credits": "6 FAU credits",
-      "abbreviation": "FAU",
+      "credits": "6  credits",
+      "abbreviation": null,
       "registrationMessage": "Registration is now open.",
       "courseCode1": "ISM 4930 (CRN: 14176) / GEB 4956 (CRN: 14173)",
       "courseCode2": "ISM 4930 (CRN: 14176) / GEB 4956 (CRN: 14173)",
       "courseCode3": "ISM 4930 (CRN: 14177) / GEB 4956 (CRN: 14174)",
       "courseCode4": "ISM 4930 (CRN: 14177) / GEB 4956 (CRN: 14174)",
       "courseCode5": "Mar 4933 (CRN: 14178) / GEB 4956 (CRN: 14175)",
-      "seasonYear1": "Summer 2026",
-      "seasonYear2": "Fall 2026",
-      "term1StartDate": "May 16",
-      "term1EndDate": "August 7",
-      "term2StartDate": "August 22",
-      "term2EndDate": "December 4"
+      "seasonYear": "Summer 2026",
+      "startDate": "May 16",
+      "endDate": "August 7"
     },
     {
       "item": "coding-for-data",
       "schoolname": "Florida Atlantic University",
-      "trackTitle": "N/A Track",
-      "credits": "6 FAU credits",
-      "abbreviation": "FAU",
+      "trackTitle": "Coding for Data Track",
+      "credits": "6  credits",
+      "abbreviation": null,
       "registrationMessage": "Registration is now open.",
       "courseCode1": "ISM 4930 (CRN: 14176) / GEB 4956 (CRN: 14173)",
       "courseCode2": "ISM 4930 (CRN: 14176) / GEB 4956 (CRN: 14173)",
       "courseCode3": "ISM 4930 (CRN: 14177) / GEB 4956 (CRN: 14174)",
       "courseCode4": "ISM 4930 (CRN: 14177) / GEB 4956 (CRN: 14174)",
       "courseCode5": "Mar 4933 (CRN: 14178) / GEB 4956 (CRN: 14175)",
-      "seasonYear1": "Summer 2026",
-      "seasonYear2": "Fall 2026",
-      "term1StartDate": "May 16",
-      "term1EndDate": "August 7",
-      "term2StartDate": "August 22",
-      "term2EndDate": "December 4"
+      "seasonYear": "Summer 2026",
+      "startDate": "May 16",
+      "endDate": "August 7"
     },
     {
       "item": "career-rotation",
       "schoolname": "Florida Atlantic University",
-      "trackTitle": "N/A Track",
-      "credits": "6 FAU credits",
-      "abbreviation": "FAU",
+      "trackTitle": "Career Rotation Track",
+      "credits": "6  credits",
+      "abbreviation": null,
       "registrationMessage": "Registration is now open.",
       "courseCode1": "ISM 4930 (CRN: 14176) / GEB 4956 (CRN: 14173)",
       "courseCode2": "ISM 4930 (CRN: 14176) / GEB 4956 (CRN: 14173)",
       "courseCode3": "ISM 4930 (CRN: 14177) / GEB 4956 (CRN: 14174)",
       "courseCode4": "ISM 4930 (CRN: 14177) / GEB 4956 (CRN: 14174)",
       "courseCode5": "Mar 4933 (CRN: 14178) / GEB 4956 (CRN: 14175)",
-      "seasonYear1": "Summer 2026",
-      "seasonYear2": "Fall 2026",
-      "term1StartDate": "May 16",
-      "term1EndDate": "August 7",
-      "term2StartDate": "August 22",
-      "term2EndDate": "December 4"
+      "seasonYear": "Summer 2026",
+      "startDate": "May 16",
+      "endDate": "August 7"
     },
     {
       "item": "reserve-a-seat",
-      "programName": "FAU Global Career Accelerator",
+      "programName": null,
       "registrationMessage": "Registration is now open.",
-      "phone": "(561) 299-3035",
-      "abbreviation": "FAU"
+      "phone": null,
+      "abbreviation": null
     },
     {
       "item": "begin",
-      "credits": "6 FAU credits",
-      "abbreviation": "FAU",
-      "phone": "(561) 299-3035"
+      "credits": "6  credits",
+      "abbreviation": null,
+      "phone": null
     }
   ],
   "fgcu": [
@@ -2418,12 +2393,9 @@
       "courseCode4": "COE3948",
       "courseCode5": "COE3948",
       "courseCode6": "COE3948",
-      "seasonYear1": "Summer 2026",
-      "seasonYear2": "Fall 2026",
-      "term1StartDate": "May 11",
-      "term1EndDate": "August 8",
-      "term2StartDate": "August 17",
-      "term2EndDate": "December 4"
+      "seasonYear": "Summer 2026",
+      "startDate": "May 11",
+      "endDate": "August 8"
     },
     {
       "item": "coding-for-web",
@@ -2438,12 +2410,9 @@
       "courseCode4": "COE3948",
       "courseCode5": "COE3948",
       "courseCode6": "COE3948",
-      "seasonYear1": "Summer 2026",
-      "seasonYear2": "Fall 2026",
-      "term1StartDate": "May 11",
-      "term1EndDate": "August 8",
-      "term2StartDate": "August 17",
-      "term2EndDate": "December 4"
+      "seasonYear": "Summer 2026",
+      "startDate": "May 11",
+      "endDate": "August 8"
     },
     {
       "item": "data-analytics",
@@ -2458,12 +2427,9 @@
       "courseCode4": "COE3948",
       "courseCode5": "COE3948",
       "courseCode6": "COE3948",
-      "seasonYear1": "Summer 2026",
-      "seasonYear2": "Fall 2026",
-      "term1StartDate": "May 11",
-      "term1EndDate": "August 8",
-      "term2StartDate": "August 17",
-      "term2EndDate": "December 4"
+      "seasonYear": "Summer 2026",
+      "startDate": "May 11",
+      "endDate": "August 8"
     },
     {
       "item": "coding-for-data",
@@ -2478,12 +2444,9 @@
       "courseCode4": "COE3948",
       "courseCode5": "COE3948",
       "courseCode6": "COE3948",
-      "seasonYear1": "Summer 2026",
-      "seasonYear2": "Fall 2026",
-      "term1StartDate": "May 11",
-      "term1EndDate": "August 8",
-      "term2StartDate": "August 17",
-      "term2EndDate": "December 4"
+      "seasonYear": "Summer 2026",
+      "startDate": "May 11",
+      "endDate": "August 8"
     },
     {
       "item": "career-rotation",
@@ -2498,12 +2461,9 @@
       "courseCode4": "COE3948",
       "courseCode5": "COE3948",
       "courseCode6": "COE3948",
-      "seasonYear1": "Summer 2026",
-      "seasonYear2": "Fall 2026",
-      "term1StartDate": "May 11",
-      "term1EndDate": "August 8",
-      "term2StartDate": "August 17",
-      "term2EndDate": "December 4"
+      "seasonYear": "Summer 2026",
+      "startDate": "May 11",
+      "endDate": "August 8"
     },
     {
       "item": "reserve-a-seat",
@@ -2536,8 +2496,8 @@
       "termsandConditionsPolicy": "https://generalcounsel.fiu.edu/contract-forms/fiu-standard-terms-conditions/",
       "registrationMessage": "Registration is now open.",
       "credits": "3 FIU credits",
-      "startDate": "May 11",
-      "endDate": "July 31"
+      "startDate": "<b style='color:red;'>null<b/>",
+      "endDate": "<b style='color:red;'>null<b/>"
     },
     {
       "item": "about",
@@ -2547,10 +2507,10 @@
       "abbreviation": "FIU",
       "phone": "(954) 932-5452",
       "credits": "3 FIU credits",
-      "programFee": "+ 2,412",
-      "seasonYear": "Summer 2026",
-      "term": "Summer",
-      "season": "Summer",
+      "programFee": null,
+      "seasonYear": null,
+      "term": null,
+      "season": "<b style='color:red;'>null<b/>",
       "registrationMessage": "Registration is now open."
     },
     {
@@ -2566,10 +2526,11 @@
       "credits": "3 FIU credits",
       "abbreviation": "FIU",
       "registrationMessage": "Registration is now open.",
+      "courseCode1": "SLS 3940 (Internship)",
       "seasonYear1": "Summer 2026",
       "seasonYear2": "Fall 2026",
-      "term1StartDate": "May 11",
-      "term1EndDate": "July 31",
+      "term1StartDate": null,
+      "term1EndDate": null,
       "term2StartDate": "August 24",
       "term2EndDate": "December 12"
     },
@@ -2580,10 +2541,11 @@
       "credits": "3 FIU credits",
       "abbreviation": "FIU",
       "registrationMessage": "Registration is now open.",
+      "courseCode1": "SLS 3940 (Internship)",
       "seasonYear1": "Summer 2026",
       "seasonYear2": "Fall 2026",
-      "term1StartDate": "May 11",
-      "term1EndDate": "July 31",
+      "term1StartDate": null,
+      "term1EndDate": null,
       "term2StartDate": "August 24",
       "term2EndDate": "December 12"
     },
@@ -2594,10 +2556,11 @@
       "credits": "3 FIU credits",
       "abbreviation": "FIU",
       "registrationMessage": "Registration is now open.",
+      "courseCode1": "SLS 3940 (Internship)",
       "seasonYear1": "Summer 2026",
       "seasonYear2": "Fall 2026",
-      "term1StartDate": "May 11",
-      "term1EndDate": "July 31",
+      "term1StartDate": null,
+      "term1EndDate": null,
       "term2StartDate": "August 24",
       "term2EndDate": "December 12"
     },
@@ -2608,10 +2571,11 @@
       "credits": "3 FIU credits",
       "abbreviation": "FIU",
       "registrationMessage": "Registration is now open.",
+      "courseCode1": "SLS 3940 (Internship)",
       "seasonYear1": "Summer 2026",
       "seasonYear2": "Fall 2026",
-      "term1StartDate": "May 11",
-      "term1EndDate": "July 31",
+      "term1StartDate": null,
+      "term1EndDate": null,
       "term2StartDate": "August 24",
       "term2EndDate": "December 12"
     },
@@ -2622,10 +2586,11 @@
       "credits": "3 FIU credits",
       "abbreviation": "FIU",
       "registrationMessage": "Registration is now open.",
+      "courseCode1": "SLS 3940 (Internship)",
       "seasonYear1": "Summer 2026",
       "seasonYear2": "Fall 2026",
-      "term1StartDate": "May 11",
-      "term1EndDate": "July 31",
+      "term1StartDate": null,
+      "term1EndDate": null,
       "term2StartDate": "August 24",
       "term2EndDate": "December 12"
     },
@@ -2834,6 +2799,8 @@
       "credits": "3 UIdaho credits",
       "abbreviation": "UIdaho",
       "registrationMessage": "Registration is now open.",
+      "courseCode1": "INTR3980: INTR3980 (Fall)",
+      "courseCode2": "INTR3980: INTR3980 (Summer)",
       "seasonYear1": "Summer 2026",
       "seasonYear2": "Fall 2026",
       "term1StartDate": "May 18",
@@ -2848,6 +2815,8 @@
       "credits": "3 UIdaho credits",
       "abbreviation": "UIdaho",
       "registrationMessage": "Registration is now open.",
+      "courseCode1": "INTR3980: INTR3980 (Fall)",
+      "courseCode2": "INTR3980: INTR3980 (Summer)",
       "seasonYear1": "Summer 2026",
       "seasonYear2": "Fall 2026",
       "term1StartDate": "May 18",
@@ -2862,6 +2831,8 @@
       "credits": "3 UIdaho credits",
       "abbreviation": "UIdaho",
       "registrationMessage": "Registration is now open.",
+      "courseCode1": "INTR3980: INTR3980 (Fall)",
+      "courseCode2": "INTR3980: INTR3980 (Summer)",
       "seasonYear1": "Summer 2026",
       "seasonYear2": "Fall 2026",
       "term1StartDate": "May 18",
@@ -2876,6 +2847,8 @@
       "credits": "3 UIdaho credits",
       "abbreviation": "UIdaho",
       "registrationMessage": "Registration is now open.",
+      "courseCode1": "INTR3980: INTR3980 (Fall)",
+      "courseCode2": "INTR3980: INTR3980 (Summer)",
       "seasonYear1": "Summer 2026",
       "seasonYear2": "Fall 2026",
       "term1StartDate": "May 18",
@@ -2890,6 +2863,8 @@
       "credits": "3 UIdaho credits",
       "abbreviation": "UIdaho",
       "registrationMessage": "Registration is now open.",
+      "courseCode1": "INTR3980: INTR3980 (Fall)",
+      "courseCode2": "INTR3980: INTR3980 (Summer)",
       "seasonYear1": "Summer 2026",
       "seasonYear2": "Fall 2026",
       "term1StartDate": "May 18",
@@ -2958,6 +2933,7 @@
       "credits": "3 IIT credits",
       "abbreviation": "IIT",
       "registrationMessage": "Registration is now open.",
+      "courseCode1": "BUS 495",
       "seasonYear1": "Summer 2026",
       "seasonYear2": "Fall 2026",
       "term1StartDate": "May 18",
@@ -2972,6 +2948,7 @@
       "credits": "3 IIT credits",
       "abbreviation": "IIT",
       "registrationMessage": "Registration is now open.",
+      "courseCode1": "BUS 495",
       "seasonYear1": "Summer 2026",
       "seasonYear2": "Fall 2026",
       "term1StartDate": "May 18",
@@ -2986,6 +2963,7 @@
       "credits": "3 IIT credits",
       "abbreviation": "IIT",
       "registrationMessage": "Registration is now open.",
+      "courseCode1": "BUS 495",
       "seasonYear1": "Summer 2026",
       "seasonYear2": "Fall 2026",
       "term1StartDate": "May 18",
@@ -3000,6 +2978,7 @@
       "credits": "3 IIT credits",
       "abbreviation": "IIT",
       "registrationMessage": "Registration is now open.",
+      "courseCode1": "BUS 495",
       "seasonYear1": "Summer 2026",
       "seasonYear2": "Fall 2026",
       "term1StartDate": "May 18",
@@ -3014,6 +2993,7 @@
       "credits": "3 IIT credits",
       "abbreviation": "IIT",
       "registrationMessage": "Registration is now open.",
+      "courseCode1": "BUS 495",
       "seasonYear1": "Summer 2026",
       "seasonYear2": "Fall 2026",
       "term1StartDate": "May 18",
@@ -3083,12 +3063,9 @@
       "abbreviation": "UofI",
       "registrationMessage": "Registration is now open.",
       "courseCode1": "BUS 199",
-      "seasonYear1": "Summer 2026",
-      "seasonYear2": "Fall 2026",
-      "term1StartDate": "May 18",
-      "term1EndDate": "August 7",
-      "term2StartDate": "<b style='color:red;'>null<b/>",
-      "term2EndDate": "<b style='color:red;'>null<b/>"
+      "seasonYear": "Summer 2026",
+      "startDate": "May 18",
+      "endDate": "August 7"
     },
     {
       "item": "coding-for-web",
@@ -3098,12 +3075,9 @@
       "abbreviation": "UofI",
       "registrationMessage": "Registration is now open.",
       "courseCode1": "BUS 199",
-      "seasonYear1": "Summer 2026",
-      "seasonYear2": "Fall 2026",
-      "term1StartDate": "May 18",
-      "term1EndDate": "August 7",
-      "term2StartDate": "<b style='color:red;'>null<b/>",
-      "term2EndDate": "<b style='color:red;'>null<b/>"
+      "seasonYear": "Summer 2026",
+      "startDate": "May 18",
+      "endDate": "August 7"
     },
     {
       "item": "data-analytics",
@@ -3113,12 +3087,9 @@
       "abbreviation": "UofI",
       "registrationMessage": "Registration is now open.",
       "courseCode1": "BUS 199",
-      "seasonYear1": "Summer 2026",
-      "seasonYear2": "Fall 2026",
-      "term1StartDate": "May 18",
-      "term1EndDate": "August 7",
-      "term2StartDate": "<b style='color:red;'>null<b/>",
-      "term2EndDate": "<b style='color:red;'>null<b/>"
+      "seasonYear": "Summer 2026",
+      "startDate": "May 18",
+      "endDate": "August 7"
     },
     {
       "item": "coding-for-data",
@@ -3128,12 +3099,9 @@
       "abbreviation": "UofI",
       "registrationMessage": "Registration is now open.",
       "courseCode1": "BUS 199",
-      "seasonYear1": "Summer 2026",
-      "seasonYear2": "Fall 2026",
-      "term1StartDate": "May 18",
-      "term1EndDate": "August 7",
-      "term2StartDate": "<b style='color:red;'>null<b/>",
-      "term2EndDate": "<b style='color:red;'>null<b/>"
+      "seasonYear": "Summer 2026",
+      "startDate": "May 18",
+      "endDate": "August 7"
     },
     {
       "item": "career-rotation",
@@ -3143,12 +3111,9 @@
       "abbreviation": "UofI",
       "registrationMessage": "Registration is now open.",
       "courseCode1": "BUS 199",
-      "seasonYear1": "Summer 2026",
-      "seasonYear2": "Fall 2026",
-      "term1StartDate": "May 18",
-      "term1EndDate": "August 7",
-      "term2StartDate": "<b style='color:red;'>null<b/>",
-      "term2EndDate": "<b style='color:red;'>null<b/>"
+      "seasonYear": "Summer 2026",
+      "startDate": "May 18",
+      "endDate": "August 7"
     },
     {
       "item": "reserve-a-seat",
@@ -3344,12 +3309,9 @@
       "courseCode2": "UNST-498-0001 (Spring)",
       "courseCode3": "UNST-498-0001 (Summer)",
       "courseCode4": "UNST-498-0002 (Summer)",
-      "seasonYear1": "Summer 2026",
-      "seasonYear2": "Fall 2026",
-      "term1StartDate": "May 26",
-      "term1EndDate": "August 14",
-      "term2StartDate": "August 26",
-      "term2EndDate": "December 11"
+      "seasonYear": "Summer 2026",
+      "startDate": "May 26",
+      "endDate": "August 14"
     },
     {
       "item": "coding-for-web",
@@ -3362,12 +3324,9 @@
       "courseCode2": "UNST-498-0001 (Spring)",
       "courseCode3": "UNST-498-0001 (Summer)",
       "courseCode4": "UNST-498-0002 (Summer)",
-      "seasonYear1": "Summer 2026",
-      "seasonYear2": "Fall 2026",
-      "term1StartDate": "May 26",
-      "term1EndDate": "August 14",
-      "term2StartDate": "August 26",
-      "term2EndDate": "December 11"
+      "seasonYear": "Summer 2026",
+      "startDate": "May 26",
+      "endDate": "August 14"
     },
     {
       "item": "data-analytics",
@@ -3380,12 +3339,9 @@
       "courseCode2": "UNST-498-0001 (Spring)",
       "courseCode3": "UNST-498-0001 (Summer)",
       "courseCode4": "UNST-498-0002 (Summer)",
-      "seasonYear1": "Summer 2026",
-      "seasonYear2": "Fall 2026",
-      "term1StartDate": "May 26",
-      "term1EndDate": "August 14",
-      "term2StartDate": "August 26",
-      "term2EndDate": "December 11"
+      "seasonYear": "Summer 2026",
+      "startDate": "May 26",
+      "endDate": "August 14"
     },
     {
       "item": "coding-for-data",
@@ -3398,12 +3354,9 @@
       "courseCode2": "UNST-498-0001 (Spring)",
       "courseCode3": "UNST-498-0001 (Summer)",
       "courseCode4": "UNST-498-0002 (Summer)",
-      "seasonYear1": "Summer 2026",
-      "seasonYear2": "Fall 2026",
-      "term1StartDate": "May 26",
-      "term1EndDate": "August 14",
-      "term2StartDate": "August 26",
-      "term2EndDate": "December 11"
+      "seasonYear": "Summer 2026",
+      "startDate": "May 26",
+      "endDate": "August 14"
     },
     {
       "item": "career-rotation",
@@ -3416,12 +3369,9 @@
       "courseCode2": "UNST-498-0001 (Spring)",
       "courseCode3": "UNST-498-0001 (Summer)",
       "courseCode4": "UNST-498-0002 (Summer)",
-      "seasonYear1": "Summer 2026",
-      "seasonYear2": "Fall 2026",
-      "term1StartDate": "May 26",
-      "term1EndDate": "August 14",
-      "term2StartDate": "August 26",
-      "term2EndDate": "December 11"
+      "seasonYear": "Summer 2026",
+      "startDate": "May 26",
+      "endDate": "August 14"
     },
     {
       "item": "reserve-a-seat",
@@ -3485,12 +3435,9 @@
       "abbreviation": "JWU",
       "registrationMessage": "Registration is now open.",
       "courseCode1": "ASCI 4799",
-      "seasonYear1": "Summer 2026",
-      "seasonYear2": "Fall 2026",
-      "term1StartDate": "May 4",
-      "term1EndDate": "August 14",
-      "term2StartDate": "August 24",
-      "term2EndDate": "December 13"
+      "seasonYear": "Summer 2026",
+      "startDate": "May 4",
+      "endDate": "August 14"
     },
     {
       "item": "coding-for-web",
@@ -3500,12 +3447,9 @@
       "abbreviation": "JWU",
       "registrationMessage": "Registration is now open.",
       "courseCode1": "ASCI 4799",
-      "seasonYear1": "Summer 2026",
-      "seasonYear2": "Fall 2026",
-      "term1StartDate": "May 4",
-      "term1EndDate": "August 14",
-      "term2StartDate": "August 24",
-      "term2EndDate": "December 13"
+      "seasonYear": "Summer 2026",
+      "startDate": "May 4",
+      "endDate": "August 14"
     },
     {
       "item": "data-analytics",
@@ -3515,12 +3459,9 @@
       "abbreviation": "JWU",
       "registrationMessage": "Registration is now open.",
       "courseCode1": "ASCI 4799",
-      "seasonYear1": "Summer 2026",
-      "seasonYear2": "Fall 2026",
-      "term1StartDate": "May 4",
-      "term1EndDate": "August 14",
-      "term2StartDate": "August 24",
-      "term2EndDate": "December 13"
+      "seasonYear": "Summer 2026",
+      "startDate": "May 4",
+      "endDate": "August 14"
     },
     {
       "item": "coding-for-data",
@@ -3530,12 +3471,9 @@
       "abbreviation": "JWU",
       "registrationMessage": "Registration is now open.",
       "courseCode1": "ASCI 4799",
-      "seasonYear1": "Summer 2026",
-      "seasonYear2": "Fall 2026",
-      "term1StartDate": "May 4",
-      "term1EndDate": "August 14",
-      "term2StartDate": "August 24",
-      "term2EndDate": "December 13"
+      "seasonYear": "Summer 2026",
+      "startDate": "May 4",
+      "endDate": "August 14"
     },
     {
       "item": "career-rotation",
@@ -3545,12 +3483,9 @@
       "abbreviation": "JWU",
       "registrationMessage": "Registration is now open.",
       "courseCode1": "ASCI 4799",
-      "seasonYear1": "Summer 2026",
-      "seasonYear2": "Fall 2026",
-      "term1StartDate": "May 4",
-      "term1EndDate": "August 14",
-      "term2StartDate": "August 24",
-      "term2EndDate": "December 13"
+      "seasonYear": "Summer 2026",
+      "startDate": "May 4",
+      "endDate": "August 14"
     },
     {
       "item": "reserve-a-seat",
@@ -3705,12 +3640,12 @@
       "phone": "(330) 676-5818"
     }
   ],
-  "lafayette": [
+  "0014t000006hrnxqak": [
     {
       "item": "home",
       "schoolname": "Lafayette College",
-      "abbreviation": "Lafayette",
-      "genericProgramName": "The Global Career Accelerator",
+      "abbreviation": null,
+      "genericProgramName": null,
       "secondaryBrandColor": null,
       "primaryBrandColor": null,
       "buttonColor": "#910029",
@@ -3718,8 +3653,8 @@
       "logo": null,
       "cobranded_logo": null,
       "partner_id": "0014T000006HrNxQAK",
-      "programName": "Lafayette Global Career Accelerator",
-      "termsandConditionsPolicy": "https://www.lafayette.edu/terms-of-use/",
+      "programName": null,
+      "termsandConditionsPolicy": null,
       "registrationMessage": "Registration is now open.",
       "credits": null,
       "startDate": "<b style='color:red;'>null<b/>",
@@ -3728,10 +3663,10 @@
     {
       "item": "about",
       "schoolname": "Lafayette College",
-      "genericProgramName": "The Global Career Accelerator",
+      "genericProgramName": null,
       "schoolFullAddress": "730 High St, Easton, PA 18042",
-      "abbreviation": "Lafayette",
-      "phone": "(610) 890-4334",
+      "abbreviation": null,
+      "phone": null,
       "credits": null,
       "programFee": null,
       "seasonYear": "Summer 2026",
@@ -3742,7 +3677,7 @@
     {
       "item": "explore-tracks",
       "credits": null,
-      "abbreviation": "Lafayette",
+      "abbreviation": null,
       "registrationMessage": "Registration is now open."
     },
     {
@@ -3750,7 +3685,7 @@
       "schoolname": "Lafayette College",
       "trackTitle": "Digital Marketing Track",
       "credits": null,
-      "abbreviation": "Lafayette",
+      "abbreviation": null,
       "registrationMessage": "Registration is now open.",
       "seasonYear": "Summer 2026",
       "startDate": "<b style='color:red;'>null<b/>",
@@ -3759,9 +3694,9 @@
     {
       "item": "coding-for-web",
       "schoolname": "Lafayette College",
-      "trackTitle": "Web Development for Everyone Track",
+      "trackTitle": "Coding for Web Track",
       "credits": null,
-      "abbreviation": "Lafayette",
+      "abbreviation": null,
       "registrationMessage": "Registration is now open.",
       "seasonYear": "Summer 2026",
       "startDate": "<b style='color:red;'>null<b/>",
@@ -3772,7 +3707,7 @@
       "schoolname": "Lafayette College",
       "trackTitle": "Data Analytics Track",
       "credits": null,
-      "abbreviation": "Lafayette",
+      "abbreviation": null,
       "registrationMessage": "Registration is now open.",
       "seasonYear": "Summer 2026",
       "startDate": "<b style='color:red;'>null<b/>",
@@ -3783,7 +3718,7 @@
       "schoolname": "Lafayette College",
       "trackTitle": "Coding for Data Track",
       "credits": null,
-      "abbreviation": "Lafayette",
+      "abbreviation": null,
       "registrationMessage": "Registration is now open.",
       "seasonYear": "Summer 2026",
       "startDate": "<b style='color:red;'>null<b/>",
@@ -3794,7 +3729,7 @@
       "schoolname": "Lafayette College",
       "trackTitle": "Career Rotation Track",
       "credits": null,
-      "abbreviation": "Lafayette",
+      "abbreviation": null,
       "registrationMessage": "Registration is now open.",
       "seasonYear": "Summer 2026",
       "startDate": "<b style='color:red;'>null<b/>",
@@ -3802,16 +3737,16 @@
     },
     {
       "item": "reserve-a-seat",
-      "programName": "Lafayette Global Career Accelerator",
+      "programName": null,
       "registrationMessage": "Registration is now open.",
-      "phone": "(610) 890-4334",
-      "abbreviation": "Lafayette"
+      "phone": null,
+      "abbreviation": null
     },
     {
       "item": "begin",
       "credits": null,
-      "abbreviation": "Lafayette",
-      "phone": "(610) 890-4334"
+      "abbreviation": null,
+      "phone": null
     }
   ],
   "uofl": [
@@ -4293,7 +4228,6 @@
       "credits": "6 Mizzou credits",
       "abbreviation": "Mizzou",
       "registrationMessage": "Registration is now open.",
-      "courseCode1": "INTDSC 3101, Section 01: Topics in Interdisciplinary Studies",
       "seasonYear": "Summer 2026",
       "startDate": "June 8",
       "endDate": "July 31"
@@ -4305,7 +4239,6 @@
       "credits": "6 Mizzou credits",
       "abbreviation": "Mizzou",
       "registrationMessage": "Registration is now open.",
-      "courseCode1": "INTDSC 3101, Section 01: Topics in Interdisciplinary Studies",
       "seasonYear": "Summer 2026",
       "startDate": "June 8",
       "endDate": "July 31"
@@ -4317,7 +4250,6 @@
       "credits": "6 Mizzou credits",
       "abbreviation": "Mizzou",
       "registrationMessage": "Registration is now open.",
-      "courseCode1": "INTDSC 3101, Section 01: Topics in Interdisciplinary Studies",
       "seasonYear": "Summer 2026",
       "startDate": "June 8",
       "endDate": "July 31"
@@ -4329,7 +4261,6 @@
       "credits": "6 Mizzou credits",
       "abbreviation": "Mizzou",
       "registrationMessage": "Registration is now open.",
-      "courseCode1": "INTDSC 3101, Section 01: Topics in Interdisciplinary Studies",
       "seasonYear": "Summer 2026",
       "startDate": "June 8",
       "endDate": "July 31"
@@ -4341,7 +4272,6 @@
       "credits": "6 Mizzou credits",
       "abbreviation": "Mizzou",
       "registrationMessage": "Registration is now open.",
-      "courseCode1": "INTDSC 3101, Section 01: Topics in Interdisciplinary Studies",
       "seasonYear": "Summer 2026",
       "startDate": "June 8",
       "endDate": "July 31"
@@ -4377,8 +4307,8 @@
       "termsandConditionsPolicy": "https://www.umt.edu/about/privacy/",
       "registrationMessage": "Registration is now open.",
       "credits": "6 Montana credits",
-      "startDate": "May 18",
-      "endDate": "July 24"
+      "startDate": "<b style='color:red;'>null<b/>",
+      "endDate": "<b style='color:red;'>null<b/>"
     },
     {
       "item": "about",
@@ -4389,9 +4319,9 @@
       "phone": "(406) 247-0472",
       "credits": "6 Montana credits",
       "programFee": null,
-      "seasonYear": "Summer 2026",
-      "term": "Summer",
-      "season": "Summer",
+      "seasonYear": null,
+      "term": null,
+      "season": "<b style='color:red;'>null<b/>",
       "registrationMessage": "Registration is now open."
     },
     {
@@ -4409,9 +4339,9 @@
       "registrationMessage": "Registration is now open.",
       "courseCode1": "BGEN 291 (CRN: 50620)",
       "courseCode2": "GBLD 398 (CRN: 50533) (Experiential)",
-      "seasonYear": "Summer 2026",
-      "startDate": "May 18",
-      "endDate": "July 24"
+      "seasonYear": "<b style='color:red;'>null<b/>",
+      "startDate": "<b style='color:red;'>null<b/>",
+      "endDate": "<b style='color:red;'>null<b/>"
     },
     {
       "item": "coding-for-web",
@@ -4422,9 +4352,9 @@
       "registrationMessage": "Registration is now open.",
       "courseCode1": "BGEN 291 (CRN: 50620)",
       "courseCode2": "GBLD 398 (CRN: 50533) (Experiential)",
-      "seasonYear": "Summer 2026",
-      "startDate": "May 18",
-      "endDate": "July 24"
+      "seasonYear": "<b style='color:red;'>null<b/>",
+      "startDate": "<b style='color:red;'>null<b/>",
+      "endDate": "<b style='color:red;'>null<b/>"
     },
     {
       "item": "data-analytics",
@@ -4435,9 +4365,9 @@
       "registrationMessage": "Registration is now open.",
       "courseCode1": "BGEN 291 (CRN: 50620)",
       "courseCode2": "GBLD 398 (CRN: 50533) (Experiential)",
-      "seasonYear": "Summer 2026",
-      "startDate": "May 18",
-      "endDate": "July 24"
+      "seasonYear": "<b style='color:red;'>null<b/>",
+      "startDate": "<b style='color:red;'>null<b/>",
+      "endDate": "<b style='color:red;'>null<b/>"
     },
     {
       "item": "coding-for-data",
@@ -4448,9 +4378,9 @@
       "registrationMessage": "Registration is now open.",
       "courseCode1": "BGEN 291 (CRN: 50620)",
       "courseCode2": "GBLD 398 (CRN: 50533) (Experiential)",
-      "seasonYear": "Summer 2026",
-      "startDate": "May 18",
-      "endDate": "July 24"
+      "seasonYear": "<b style='color:red;'>null<b/>",
+      "startDate": "<b style='color:red;'>null<b/>",
+      "endDate": "<b style='color:red;'>null<b/>"
     },
     {
       "item": "career-rotation",
@@ -4461,9 +4391,9 @@
       "registrationMessage": "Registration is now open.",
       "courseCode1": "BGEN 291 (CRN: 50620)",
       "courseCode2": "GBLD 398 (CRN: 50533) (Experiential)",
-      "seasonYear": "Summer 2026",
-      "startDate": "May 18",
-      "endDate": "July 24"
+      "seasonYear": "<b style='color:red;'>null<b/>",
+      "startDate": "<b style='color:red;'>null<b/>",
+      "endDate": "<b style='color:red;'>null<b/>"
     },
     {
       "item": "reserve-a-seat",
@@ -4534,12 +4464,9 @@
       "courseCode6": "MGT 400-899 (Summer • CRN: 38960)",
       "courseCode7": "MKT 497-897 (Fall • CRN: 62585)",
       "courseCode8": "MKT 497-897 (Summer • CRN: 38963)",
-      "seasonYear1": "Summer 2026",
-      "seasonYear2": "Fall 2026",
-      "term1StartDate": "June 8",
-      "term1EndDate": "August 2",
-      "term2StartDate": "August 17",
-      "term2EndDate": "December 3"
+      "seasonYear": "Summer 2026",
+      "startDate": "June 8",
+      "endDate": "August 2"
     },
     {
       "item": "coding-for-web",
@@ -4556,12 +4483,9 @@
       "courseCode6": "MGT 400-899 (Summer • CRN: 38960)",
       "courseCode7": "MKT 497-897 (Fall • CRN: 62585)",
       "courseCode8": "MKT 497-897 (Summer • CRN: 38963)",
-      "seasonYear1": "Summer 2026",
-      "seasonYear2": "Fall 2026",
-      "term1StartDate": "June 8",
-      "term1EndDate": "August 2",
-      "term2StartDate": "August 17",
-      "term2EndDate": "December 3"
+      "seasonYear": "Summer 2026",
+      "startDate": "June 8",
+      "endDate": "August 2"
     },
     {
       "item": "data-analytics",
@@ -4578,12 +4502,9 @@
       "courseCode6": "MGT 400-899 (Summer • CRN: 38960)",
       "courseCode7": "MKT 497-897 (Fall • CRN: 62585)",
       "courseCode8": "MKT 497-897 (Summer • CRN: 38963)",
-      "seasonYear1": "Summer 2026",
-      "seasonYear2": "Fall 2026",
-      "term1StartDate": "June 8",
-      "term1EndDate": "August 2",
-      "term2StartDate": "August 17",
-      "term2EndDate": "December 3"
+      "seasonYear": "Summer 2026",
+      "startDate": "June 8",
+      "endDate": "August 2"
     },
     {
       "item": "coding-for-data",
@@ -4600,12 +4521,9 @@
       "courseCode6": "MGT 400-899 (Summer • CRN: 38960)",
       "courseCode7": "MKT 497-897 (Fall • CRN: 62585)",
       "courseCode8": "MKT 497-897 (Summer • CRN: 38963)",
-      "seasonYear1": "Summer 2026",
-      "seasonYear2": "Fall 2026",
-      "term1StartDate": "June 8",
-      "term1EndDate": "August 2",
-      "term2StartDate": "August 17",
-      "term2EndDate": "December 3"
+      "seasonYear": "Summer 2026",
+      "startDate": "June 8",
+      "endDate": "August 2"
     },
     {
       "item": "career-rotation",
@@ -4622,12 +4540,9 @@
       "courseCode6": "MGT 400-899 (Summer • CRN: 38960)",
       "courseCode7": "MKT 497-897 (Fall • CRN: 62585)",
       "courseCode8": "MKT 497-897 (Summer • CRN: 38963)",
-      "seasonYear1": "Summer 2026",
-      "seasonYear2": "Fall 2026",
-      "term1StartDate": "June 8",
-      "term1EndDate": "August 2",
-      "term2StartDate": "August 17",
-      "term2EndDate": "December 3"
+      "seasonYear": "Summer 2026",
+      "startDate": "June 8",
+      "endDate": "August 2"
     },
     {
       "item": "reserve-a-seat",
@@ -4690,13 +4605,9 @@
       "credits": "6 Mich State credits",
       "abbreviation": "Mich State",
       "registrationMessage": "Registration is now open.",
-      "courseCode1": "UGS 350: Special Topics in Global Technology I / UGS 351: Special Topics in Global Technology II",
-      "seasonYear1": "Summer 2026",
-      "seasonYear2": "Fall 2026",
-      "term1StartDate": "May 11",
-      "term1EndDate": "August 14",
-      "term2StartDate": "August 31",
-      "term2EndDate": "December 18"
+      "seasonYear": "Summer 2026",
+      "startDate": "May 11",
+      "endDate": "August 14"
     },
     {
       "item": "coding-for-web",
@@ -4705,13 +4616,9 @@
       "credits": "6 Mich State credits",
       "abbreviation": "Mich State",
       "registrationMessage": "Registration is now open.",
-      "courseCode1": "UGS 350: Special Topics in Global Technology I / UGS 351: Special Topics in Global Technology II",
-      "seasonYear1": "Summer 2026",
-      "seasonYear2": "Fall 2026",
-      "term1StartDate": "May 11",
-      "term1EndDate": "August 14",
-      "term2StartDate": "August 31",
-      "term2EndDate": "December 18"
+      "seasonYear": "Summer 2026",
+      "startDate": "May 11",
+      "endDate": "August 14"
     },
     {
       "item": "data-analytics",
@@ -4720,13 +4627,9 @@
       "credits": "6 Mich State credits",
       "abbreviation": "Mich State",
       "registrationMessage": "Registration is now open.",
-      "courseCode1": "UGS 350: Special Topics in Global Technology I / UGS 351: Special Topics in Global Technology II",
-      "seasonYear1": "Summer 2026",
-      "seasonYear2": "Fall 2026",
-      "term1StartDate": "May 11",
-      "term1EndDate": "August 14",
-      "term2StartDate": "August 31",
-      "term2EndDate": "December 18"
+      "seasonYear": "Summer 2026",
+      "startDate": "May 11",
+      "endDate": "August 14"
     },
     {
       "item": "coding-for-data",
@@ -4735,13 +4638,9 @@
       "credits": "6 Mich State credits",
       "abbreviation": "Mich State",
       "registrationMessage": "Registration is now open.",
-      "courseCode1": "UGS 350: Special Topics in Global Technology I / UGS 351: Special Topics in Global Technology II",
-      "seasonYear1": "Summer 2026",
-      "seasonYear2": "Fall 2026",
-      "term1StartDate": "May 11",
-      "term1EndDate": "August 14",
-      "term2StartDate": "August 31",
-      "term2EndDate": "December 18"
+      "seasonYear": "Summer 2026",
+      "startDate": "May 11",
+      "endDate": "August 14"
     },
     {
       "item": "career-rotation",
@@ -4750,13 +4649,9 @@
       "credits": "6 Mich State credits",
       "abbreviation": "Mich State",
       "registrationMessage": "Registration is now open.",
-      "courseCode1": "UGS 350: Special Topics in Global Technology I / UGS 351: Special Topics in Global Technology II",
-      "seasonYear1": "Summer 2026",
-      "seasonYear2": "Fall 2026",
-      "term1StartDate": "May 11",
-      "term1EndDate": "August 14",
-      "term2StartDate": "August 31",
-      "term2EndDate": "December 18"
+      "seasonYear": "Summer 2026",
+      "startDate": "May 11",
+      "endDate": "August 14"
     },
     {
       "item": "reserve-a-seat",
@@ -4933,6 +4828,11 @@
       "credits": "6 NAU credits",
       "abbreviation": "NAU",
       "registrationMessage": "Registration is now open.",
+      "courseCode1": "CS 200TR or SA 204 (Science and Applied Science)",
+      "courseCode2": "ISM 399 or SA 304 (Science and Applied Science)",
+      "courseCode3": "ISM 399 or SA 304 (Science and Applied Science)",
+      "courseCode4": "MKT 299 or SA 201 (Cultural Understanding)",
+      "courseCode5": "SA 301",
       "seasonYear": "Summer 2026",
       "startDate": "May 11",
       "endDate": "August 4"
@@ -4944,6 +4844,11 @@
       "credits": "6 NAU credits",
       "abbreviation": "NAU",
       "registrationMessage": "Registration is now open.",
+      "courseCode1": "CS 200TR or SA 204 (Science and Applied Science)",
+      "courseCode2": "ISM 399 or SA 304 (Science and Applied Science)",
+      "courseCode3": "ISM 399 or SA 304 (Science and Applied Science)",
+      "courseCode4": "MKT 299 or SA 201 (Cultural Understanding)",
+      "courseCode5": "SA 301",
       "seasonYear": "Summer 2026",
       "startDate": "May 11",
       "endDate": "August 4"
@@ -4955,6 +4860,11 @@
       "credits": "6 NAU credits",
       "abbreviation": "NAU",
       "registrationMessage": "Registration is now open.",
+      "courseCode1": "CS 200TR or SA 204 (Science and Applied Science)",
+      "courseCode2": "ISM 399 or SA 304 (Science and Applied Science)",
+      "courseCode3": "ISM 399 or SA 304 (Science and Applied Science)",
+      "courseCode4": "MKT 299 or SA 201 (Cultural Understanding)",
+      "courseCode5": "SA 301",
       "seasonYear": "Summer 2026",
       "startDate": "May 11",
       "endDate": "August 4"
@@ -4966,6 +4876,11 @@
       "credits": "6 NAU credits",
       "abbreviation": "NAU",
       "registrationMessage": "Registration is now open.",
+      "courseCode1": "CS 200TR or SA 204 (Science and Applied Science)",
+      "courseCode2": "ISM 399 or SA 304 (Science and Applied Science)",
+      "courseCode3": "ISM 399 or SA 304 (Science and Applied Science)",
+      "courseCode4": "MKT 299 or SA 201 (Cultural Understanding)",
+      "courseCode5": "SA 301",
       "seasonYear": "Summer 2026",
       "startDate": "May 11",
       "endDate": "August 4"
@@ -4977,6 +4892,11 @@
       "credits": "6 NAU credits",
       "abbreviation": "NAU",
       "registrationMessage": "Registration is now open.",
+      "courseCode1": "CS 200TR or SA 204 (Science and Applied Science)",
+      "courseCode2": "ISM 399 or SA 304 (Science and Applied Science)",
+      "courseCode3": "ISM 399 or SA 304 (Science and Applied Science)",
+      "courseCode4": "MKT 299 or SA 201 (Cultural Understanding)",
+      "courseCode5": "SA 301",
       "seasonYear": "Summer 2026",
       "startDate": "May 11",
       "endDate": "August 4"
@@ -5245,8 +5165,8 @@
       "termsandConditionsPolicy": "https://sites.rowan.edu/consumer-disclosures/",
       "registrationMessage": "Registration is now open.",
       "credits": "6 Rowan credits",
-      "startDate": "May 12",
-      "endDate": "August 31"
+      "startDate": "<b style='color:red;'>null<b/>",
+      "endDate": "<b style='color:red;'>null<b/>"
     },
     {
       "item": "about",
@@ -5257,9 +5177,9 @@
       "phone": "(856) 259-1313",
       "credits": "6 Rowan credits",
       "programFee": null,
-      "seasonYear": "Summer 2026",
-      "term": "Summer",
-      "season": "Summer",
+      "seasonYear": null,
+      "term": null,
+      "season": "<b style='color:red;'>null<b/>",
       "registrationMessage": "Registration is now open."
     },
     {
@@ -5276,12 +5196,9 @@
       "abbreviation": "Rowan",
       "registrationMessage": "Registration is now open.",
       "courseCode1": "CHSS 20399 (Section 6): INTR: Podium Global Tech Exp",
-      "seasonYear1": "Summer 2026",
-      "seasonYear2": "Fall 2026",
-      "term1StartDate": "May 12",
-      "term1EndDate": "August 31",
-      "term2StartDate": "September 7",
-      "term2EndDate": "December 18"
+      "seasonYear": "<b style='color:red;'>null<b/>",
+      "startDate": "<b style='color:red;'>null<b/>",
+      "endDate": "<b style='color:red;'>null<b/>"
     },
     {
       "item": "coding-for-web",
@@ -5291,12 +5208,9 @@
       "abbreviation": "Rowan",
       "registrationMessage": "Registration is now open.",
       "courseCode1": "CHSS 20399 (Section 6): INTR: Podium Global Tech Exp",
-      "seasonYear1": "Summer 2026",
-      "seasonYear2": "Fall 2026",
-      "term1StartDate": "May 12",
-      "term1EndDate": "August 31",
-      "term2StartDate": "September 7",
-      "term2EndDate": "December 18"
+      "seasonYear": "<b style='color:red;'>null<b/>",
+      "startDate": "<b style='color:red;'>null<b/>",
+      "endDate": "<b style='color:red;'>null<b/>"
     },
     {
       "item": "data-analytics",
@@ -5306,12 +5220,9 @@
       "abbreviation": "Rowan",
       "registrationMessage": "Registration is now open.",
       "courseCode1": "CHSS 20399 (Section 6): INTR: Podium Global Tech Exp",
-      "seasonYear1": "Summer 2026",
-      "seasonYear2": "Fall 2026",
-      "term1StartDate": "May 12",
-      "term1EndDate": "August 31",
-      "term2StartDate": "September 7",
-      "term2EndDate": "December 18"
+      "seasonYear": "<b style='color:red;'>null<b/>",
+      "startDate": "<b style='color:red;'>null<b/>",
+      "endDate": "<b style='color:red;'>null<b/>"
     },
     {
       "item": "coding-for-data",
@@ -5321,12 +5232,9 @@
       "abbreviation": "Rowan",
       "registrationMessage": "Registration is now open.",
       "courseCode1": "CHSS 20399 (Section 6): INTR: Podium Global Tech Exp",
-      "seasonYear1": "Summer 2026",
-      "seasonYear2": "Fall 2026",
-      "term1StartDate": "May 12",
-      "term1EndDate": "August 31",
-      "term2StartDate": "September 7",
-      "term2EndDate": "December 18"
+      "seasonYear": "<b style='color:red;'>null<b/>",
+      "startDate": "<b style='color:red;'>null<b/>",
+      "endDate": "<b style='color:red;'>null<b/>"
     },
     {
       "item": "career-rotation",
@@ -5336,12 +5244,9 @@
       "abbreviation": "Rowan",
       "registrationMessage": "Registration is now open.",
       "courseCode1": "CHSS 20399 (Section 6): INTR: Podium Global Tech Exp",
-      "seasonYear1": "Summer 2026",
-      "seasonYear2": "Fall 2026",
-      "term1StartDate": "May 12",
-      "term1EndDate": "August 31",
-      "term2StartDate": "September 7",
-      "term2EndDate": "December 18"
+      "seasonYear": "<b style='color:red;'>null<b/>",
+      "startDate": "<b style='color:red;'>null<b/>",
+      "endDate": "<b style='color:red;'>null<b/>"
     },
     {
       "item": "reserve-a-seat",
@@ -5635,12 +5540,12 @@
       "phone": "(605) 636-8223"
     }
   ],
-  "shsu": [
+  "001rd00000ooszciat": [
     {
       "item": "home",
       "schoolname": "Sam Houston State University",
-      "abbreviation": "SHSU",
-      "genericProgramName": "The Global Career Accelerator",
+      "abbreviation": null,
+      "genericProgramName": null,
       "secondaryBrandColor": "#004753",
       "primaryBrandColor": "#F76C39",
       "buttonColor": "#F76C39",
@@ -5648,21 +5553,21 @@
       "logo": "https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/669d5713-9b6a-46bb-bd7e-c542cff6dd6a/bad0d961febe4f229536d370ebbb97ed/logo-school-dynamic-email/shsu.png",
       "cobranded_logo": "https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/669d5713-9b6a-46bb-bd7e-c542cff6dd6a/bad0d961febe4f229536d370ebbb97ed/logo-school-cobrand-gca-dynamic-email/shsu.png",
       "partner_id": "001Rd00000OOszCIAT",
-      "programName": "SHSU Global Career Accelerator",
+      "programName": null,
       "termsandConditionsPolicy": null,
       "registrationMessage": "Registration is now open.",
-      "credits": "3 SHSU credits",
+      "credits": null,
       "startDate": "May 28",
       "endDate": "July 30"
     },
     {
       "item": "about",
       "schoolname": "Sam Houston State University",
-      "genericProgramName": "The Global Career Accelerator",
+      "genericProgramName": null,
       "schoolFullAddress": "1905 University Ave, Huntsville, TX 77340",
-      "abbreviation": "SHSU",
-      "phone": "(936) 299-6739",
-      "credits": "3 SHSU credits",
+      "abbreviation": null,
+      "phone": null,
+      "credits": null,
       "programFee": "+ 1,500",
       "seasonYear": "Summer 2026",
       "term": "Summer",
@@ -5671,97 +5576,77 @@
     },
     {
       "item": "explore-tracks",
-      "credits": "3 SHSU credits",
-      "abbreviation": "SHSU",
+      "credits": null,
+      "abbreviation": null,
       "registrationMessage": "Registration is now open."
     },
     {
       "item": "digital-marketing",
       "schoolname": "Sam Houston State University",
       "trackTitle": "Digital Marketing Track",
-      "credits": "3 SHSU credits",
-      "abbreviation": "SHSU",
+      "credits": null,
+      "abbreviation": null,
       "registrationMessage": "Registration is now open.",
-      "courseCode1": "UGR 270 (CRN: 71988)",
-      "seasonYear1": "Summer 2026",
-      "seasonYear2": "Fall 2026",
-      "term1StartDate": "May 28",
-      "term1EndDate": "July 30",
-      "term2StartDate": "August 19",
-      "term2EndDate": "December 10"
+      "seasonYear": "Summer 2026",
+      "startDate": "May 28",
+      "endDate": "July 30"
     },
     {
       "item": "coding-for-web",
       "schoolname": "Sam Houston State University",
-      "trackTitle": "Web Development for Everyone Track",
-      "credits": "3 SHSU credits",
-      "abbreviation": "SHSU",
+      "trackTitle": "Coding for Web Track",
+      "credits": null,
+      "abbreviation": null,
       "registrationMessage": "Registration is now open.",
-      "courseCode1": "UGR 270 (CRN: 71988)",
-      "seasonYear1": "Summer 2026",
-      "seasonYear2": "Fall 2026",
-      "term1StartDate": "May 28",
-      "term1EndDate": "July 30",
-      "term2StartDate": "August 19",
-      "term2EndDate": "December 10"
+      "seasonYear": "Summer 2026",
+      "startDate": "May 28",
+      "endDate": "July 30"
     },
     {
       "item": "data-analytics",
       "schoolname": "Sam Houston State University",
       "trackTitle": "Data Analytics Track",
-      "credits": "3 SHSU credits",
-      "abbreviation": "SHSU",
+      "credits": null,
+      "abbreviation": null,
       "registrationMessage": "Registration is now open.",
-      "courseCode1": "UGR 270 (CRN: 71988)",
-      "seasonYear1": "Summer 2026",
-      "seasonYear2": "Fall 2026",
-      "term1StartDate": "May 28",
-      "term1EndDate": "July 30",
-      "term2StartDate": "August 19",
-      "term2EndDate": "December 10"
+      "seasonYear": "Summer 2026",
+      "startDate": "May 28",
+      "endDate": "July 30"
     },
     {
       "item": "coding-for-data",
       "schoolname": "Sam Houston State University",
       "trackTitle": "Coding for Data Track",
-      "credits": "3 SHSU credits",
-      "abbreviation": "SHSU",
+      "credits": null,
+      "abbreviation": null,
       "registrationMessage": "Registration is now open.",
-      "courseCode1": "UGR 270 (CRN: 71988)",
-      "seasonYear1": "Summer 2026",
-      "seasonYear2": "Fall 2026",
-      "term1StartDate": "May 28",
-      "term1EndDate": "July 30",
-      "term2StartDate": "August 19",
-      "term2EndDate": "December 10"
+      "seasonYear": "Summer 2026",
+      "startDate": "May 28",
+      "endDate": "July 30"
     },
     {
       "item": "career-rotation",
       "schoolname": "Sam Houston State University",
       "trackTitle": "Career Rotation Track",
-      "credits": "3 SHSU credits",
-      "abbreviation": "SHSU",
+      "credits": null,
+      "abbreviation": null,
       "registrationMessage": "Registration is now open.",
-      "courseCode1": "UGR 270 (CRN: 71988)",
-      "seasonYear1": "Summer 2026",
-      "seasonYear2": "Fall 2026",
-      "term1StartDate": "May 28",
-      "term1EndDate": "July 30",
-      "term2StartDate": "August 19",
-      "term2EndDate": "December 10"
+      "seasonYear": "Summer 2026",
+      "startDate": "May 28",
+      "endDate": "July 30"
     },
     {
       "item": "reserve-a-seat",
-      "programName": "SHSU Global Career Accelerator",
+      "programName": null,
       "registrationMessage": "Registration is now open.",
-      "phone": "(936) 299-6739",
-      "abbreviation": "SHSU"
+      "phone": null,
+      "abbreviation": null
     },
     {
       "item": "begin",
-      "credits": "3 SHSU credits",
-      "abbreviation": "SHSU",
-      "phone": "(936) 299-6739"
+      "credits": null,
+      "abbreviation": null,
+      "phone": null
     }
   ],
   "cuse": [
@@ -6136,12 +6021,12 @@
       "phone": "(361) 866-5006"
     }
   ],
-  "temple": [
+  "001rd00000ezdwdiaw": [
     {
       "item": "home",
       "schoolname": "Temple University",
-      "abbreviation": "Temple",
-      "genericProgramName": "The Global Career Accelerator",
+      "abbreviation": null,
+      "genericProgramName": null,
       "secondaryBrandColor": "#222222",
       "primaryBrandColor": "#A41E35",
       "buttonColor": "#A41E35",
@@ -6149,105 +6034,105 @@
       "logo": "https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/669d5713-9b6a-46bb-bd7e-c542cff6dd6a/bad0d961febe4f229536d370ebbb97ed/logo-school-dynamic-email/63077342bccc4090bcebc50fc2997cb1-temple.png",
       "cobranded_logo": "https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/669d5713-9b6a-46bb-bd7e-c542cff6dd6a/bad0d961febe4f229536d370ebbb97ed/logo-school-cobrand-gca-dynamic-email/63077342bccc4090bcebc50fc2997cb1-temple.png",
       "partner_id": "001Rd00000eZDwDIAW",
-      "programName": "Temple Global Career Accelerator",
-      "termsandConditionsPolicy": "https://bulletin.temple.edu/undergraduate/academic-policies/academic-rights-responsibilities/",
+      "programName": null,
+      "termsandConditionsPolicy": null,
       "registrationMessage": "Registration is now open.",
-      "credits": "3 Temple credits",
-      "startDate": "May 13",
-      "endDate": "August 7"
+      "credits": "3  credits",
+      "startDate": "<b style='color:red;'>null<b/>",
+      "endDate": "<b style='color:red;'>null<b/>"
     },
     {
       "item": "about",
       "schoolname": "Temple University",
-      "genericProgramName": "The Global Career Accelerator",
+      "genericProgramName": null,
       "schoolFullAddress": null,
-      "abbreviation": "Temple",
-      "phone": "(267) 361-0101",
-      "credits": "3 Temple credits",
+      "abbreviation": null,
+      "phone": null,
+      "credits": "3  credits",
       "programFee": null,
-      "seasonYear": "Summer 2026",
-      "term": "Summer",
-      "season": "Summer",
+      "seasonYear": null,
+      "term": null,
+      "season": "<b style='color:red;'>null<b/>",
       "registrationMessage": "Registration is now open."
     },
     {
       "item": "explore-tracks",
-      "credits": "3 Temple credits",
-      "abbreviation": "Temple",
+      "credits": "3  credits",
+      "abbreviation": null,
       "registrationMessage": "Registration is now open."
     },
     {
       "item": "digital-marketing",
       "schoolname": "Temple University",
       "trackTitle": "Digital Marketing Track",
-      "credits": "3 Temple credits",
-      "abbreviation": "Temple",
+      "credits": "3  credits",
+      "abbreviation": null,
       "registrationMessage": "Registration is now open.",
       "courseCode1": "⚪ Not Set",
-      "seasonYear": "Summer 2026",
-      "startDate": "May 13",
-      "endDate": "August 7"
+      "seasonYear": "<b style='color:red;'>null<b/>",
+      "startDate": "<b style='color:red;'>null<b/>",
+      "endDate": "<b style='color:red;'>null<b/>"
     },
     {
       "item": "coding-for-web",
       "schoolname": "Temple University",
-      "trackTitle": "Web Development for Everyone Track",
-      "credits": "3 Temple credits",
-      "abbreviation": "Temple",
+      "trackTitle": "Coding for Web Track",
+      "credits": "3  credits",
+      "abbreviation": null,
       "registrationMessage": "Registration is now open.",
       "courseCode1": "⚪ Not Set",
-      "seasonYear": "Summer 2026",
-      "startDate": "May 13",
-      "endDate": "August 7"
+      "seasonYear": "<b style='color:red;'>null<b/>",
+      "startDate": "<b style='color:red;'>null<b/>",
+      "endDate": "<b style='color:red;'>null<b/>"
     },
     {
       "item": "data-analytics",
       "schoolname": "Temple University",
       "trackTitle": "Data Analytics Track",
-      "credits": "3 Temple credits",
-      "abbreviation": "Temple",
+      "credits": "3  credits",
+      "abbreviation": null,
       "registrationMessage": "Registration is now open.",
       "courseCode1": "⚪ Not Set",
-      "seasonYear": "Summer 2026",
-      "startDate": "May 13",
-      "endDate": "August 7"
+      "seasonYear": "<b style='color:red;'>null<b/>",
+      "startDate": "<b style='color:red;'>null<b/>",
+      "endDate": "<b style='color:red;'>null<b/>"
     },
     {
       "item": "coding-for-data",
       "schoolname": "Temple University",
       "trackTitle": "Coding for Data Track",
-      "credits": "3 Temple credits",
-      "abbreviation": "Temple",
+      "credits": "3  credits",
+      "abbreviation": null,
       "registrationMessage": "Registration is now open.",
       "courseCode1": "⚪ Not Set",
-      "seasonYear": "Summer 2026",
-      "startDate": "May 13",
-      "endDate": "August 7"
+      "seasonYear": "<b style='color:red;'>null<b/>",
+      "startDate": "<b style='color:red;'>null<b/>",
+      "endDate": "<b style='color:red;'>null<b/>"
     },
     {
       "item": "career-rotation",
       "schoolname": "Temple University",
       "trackTitle": "Career Rotation Track",
-      "credits": "3 Temple credits",
-      "abbreviation": "Temple",
+      "credits": "3  credits",
+      "abbreviation": null,
       "registrationMessage": "Registration is now open.",
       "courseCode1": "⚪ Not Set",
-      "seasonYear": "Summer 2026",
-      "startDate": "May 13",
-      "endDate": "August 7"
+      "seasonYear": "<b style='color:red;'>null<b/>",
+      "startDate": "<b style='color:red;'>null<b/>",
+      "endDate": "<b style='color:red;'>null<b/>"
     },
     {
       "item": "reserve-a-seat",
-      "programName": "Temple Global Career Accelerator",
+      "programName": null,
       "registrationMessage": "Registration is now open.",
-      "phone": "(267) 361-0101",
-      "abbreviation": "Temple"
+      "phone": null,
+      "abbreviation": null
     },
     {
       "item": "begin",
-      "credits": "3 Temple credits",
-      "abbreviation": "Temple",
-      "phone": "(267) 361-0101"
+      "credits": "3  credits",
+      "abbreviation": null,
+      "phone": null
     }
   ],
   "tufts": [
@@ -6257,11 +6142,11 @@
       "abbreviation": "Tufts",
       "genericProgramName": "The Global Career Accelerator",
       "secondaryBrandColor": null,
-      "primaryBrandColor": null,
-      "buttonColor": null,
-      "buttonTextColor": null,
-      "logo": null,
-      "cobranded_logo": null,
+      "primaryBrandColor": "#3E8EDE",
+      "buttonColor": "#3E8EDE",
+      "buttonTextColor": "#ffffff",
+      "logo": "https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/669d5713-9b6a-46bb-bd7e-c542cff6dd6a/bad0d961febe4f229536d370ebbb97ed/logo-school-dynamic-email/Tufts.png",
+      "cobranded_logo": "https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/669d5713-9b6a-46bb-bd7e-c542cff6dd6a/bad0d961febe4f229536d370ebbb97ed/logo-school-cobrand-gca-dynamic-email/Tufts.png",
       "partner_id": "0014T00000FmtXYQAZ",
       "programName": "Tufts Global Career Accelerator",
       "termsandConditionsPolicy": "https://access.tufts.edu/sites/default/files/finance/Terms-and-Conditions.pdf",
@@ -6274,7 +6159,7 @@
       "item": "about",
       "schoolname": "Tufts University",
       "genericProgramName": "The Global Career Accelerator",
-      "schoolFullAddress": null,
+      "schoolFullAddress": "419 Boston Ave, Medford, MA 02155",
       "abbreviation": "Tufts",
       "phone": "(617) 622-5596",
       "credits": "3 Tufts credits",
@@ -6369,12 +6254,12 @@
       "phone": "(617) 622-5596"
     }
   ],
-  "txst": [
+  "001rd000003mnomias": [
     {
       "item": "home",
       "schoolname": "Texas State University",
-      "abbreviation": "TXST",
-      "genericProgramName": "The Global Career Accelerator",
+      "abbreviation": null,
+      "genericProgramName": null,
       "secondaryBrandColor": "#AC9155",
       "primaryBrandColor": "#501214",
       "buttonColor": "#501214",
@@ -6382,21 +6267,21 @@
       "logo": "https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/669d5713-9b6a-46bb-bd7e-c542cff6dd6a/bad0d961febe4f229536d370ebbb97ed/logo-school-dynamic-email/txst2025.png",
       "cobranded_logo": "https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/669d5713-9b6a-46bb-bd7e-c542cff6dd6a/bad0d961febe4f229536d370ebbb97ed/logo-school-cobrand-gca-dynamic-email/txst2025.png",
       "partner_id": "001Rd000003MnoMIAS",
-      "programName": "Texas State Global Career Accelerator",
-      "termsandConditionsPolicy": "https://www.sbs.txst.edu/students/terms-conditions.html",
+      "programName": null,
+      "termsandConditionsPolicy": null,
       "registrationMessage": "Registration is now open.",
-      "credits": "3 TXST credits",
+      "credits": "3  credits",
       "startDate": "May 26",
       "endDate": "July 31"
     },
     {
       "item": "about",
       "schoolname": "Texas State University",
-      "genericProgramName": "The Global Career Accelerator",
+      "genericProgramName": null,
       "schoolFullAddress": "601 University Drive San Marcos, Texas 78666-4684",
-      "abbreviation": "TXST",
-      "phone": "(512) 240-6825",
-      "credits": "3 TXST credits",
+      "abbreviation": null,
+      "phone": null,
+      "credits": "3  credits",
       "programFee": "+ 1,800",
       "seasonYear": "Summer 2026",
       "term": "Summer",
@@ -6405,16 +6290,16 @@
     },
     {
       "item": "explore-tracks",
-      "credits": "3 TXST credits",
-      "abbreviation": "TXST",
+      "credits": "3  credits",
+      "abbreviation": null,
       "registrationMessage": "Registration is now open."
     },
     {
       "item": "digital-marketing",
       "schoolname": "Texas State University",
       "trackTitle": "Digital Marketing Track",
-      "credits": "3 TXST credits",
-      "abbreviation": "TXST",
+      "credits": "3  credits",
+      "abbreviation": null,
       "registrationMessage": "Registration is now open.",
       "courseCode1": "ARTC 4314W (Summer • CRN: 53045)",
       "courseCode2": "BA 4300 Section D01 (Fall • CRN: 21599)",
@@ -6429,19 +6314,16 @@
       "courseCode11": "PHYS 4321 (Summer • CRN: 53095)",
       "courseCode12": "PSY 4396 Section D01 (Fall • CRN: 21615)",
       "courseCode13": "PSY 4396 Section D01 (Summer • CRN: 53049)",
-      "seasonYear1": "Summer 2026",
-      "seasonYear2": "Fall 2026",
-      "term1StartDate": "May 26",
-      "term1EndDate": "July 31",
-      "term2StartDate": "August 19",
-      "term2EndDate": "December 10"
+      "seasonYear": "Summer 2026",
+      "startDate": "May 26",
+      "endDate": "July 31"
     },
     {
       "item": "coding-for-web",
       "schoolname": "Texas State University",
-      "trackTitle": "Web Development for Everyone Track",
-      "credits": "3 TXST credits",
-      "abbreviation": "TXST",
+      "trackTitle": "Coding for Web Track",
+      "credits": "3  credits",
+      "abbreviation": null,
       "registrationMessage": "Registration is now open.",
       "courseCode1": "ARTC 4314W (Summer • CRN: 53045)",
       "courseCode2": "BA 4300 Section D01 (Fall • CRN: 21599)",
@@ -6456,19 +6338,16 @@
       "courseCode11": "PHYS 4321 (Summer • CRN: 53095)",
       "courseCode12": "PSY 4396 Section D01 (Fall • CRN: 21615)",
       "courseCode13": "PSY 4396 Section D01 (Summer • CRN: 53049)",
-      "seasonYear1": "Summer 2026",
-      "seasonYear2": "Fall 2026",
-      "term1StartDate": "May 26",
-      "term1EndDate": "July 31",
-      "term2StartDate": "August 19",
-      "term2EndDate": "December 10"
+      "seasonYear": "Summer 2026",
+      "startDate": "May 26",
+      "endDate": "July 31"
     },
     {
       "item": "data-analytics",
       "schoolname": "Texas State University",
       "trackTitle": "Data Analytics Track",
-      "credits": "3 TXST credits",
-      "abbreviation": "TXST",
+      "credits": "3  credits",
+      "abbreviation": null,
       "registrationMessage": "Registration is now open.",
       "courseCode1": "ARTC 4314W (Summer • CRN: 53045)",
       "courseCode2": "BA 4300 Section D01 (Fall • CRN: 21599)",
@@ -6483,19 +6362,16 @@
       "courseCode11": "PHYS 4321 (Summer • CRN: 53095)",
       "courseCode12": "PSY 4396 Section D01 (Fall • CRN: 21615)",
       "courseCode13": "PSY 4396 Section D01 (Summer • CRN: 53049)",
-      "seasonYear1": "Summer 2026",
-      "seasonYear2": "Fall 2026",
-      "term1StartDate": "May 26",
-      "term1EndDate": "July 31",
-      "term2StartDate": "August 19",
-      "term2EndDate": "December 10"
+      "seasonYear": "Summer 2026",
+      "startDate": "May 26",
+      "endDate": "July 31"
     },
     {
       "item": "coding-for-data",
       "schoolname": "Texas State University",
       "trackTitle": "Coding for Data Track",
-      "credits": "3 TXST credits",
-      "abbreviation": "TXST",
+      "credits": "3  credits",
+      "abbreviation": null,
       "registrationMessage": "Registration is now open.",
       "courseCode1": "ARTC 4314W (Summer • CRN: 53045)",
       "courseCode2": "BA 4300 Section D01 (Fall • CRN: 21599)",
@@ -6510,19 +6386,16 @@
       "courseCode11": "PHYS 4321 (Summer • CRN: 53095)",
       "courseCode12": "PSY 4396 Section D01 (Fall • CRN: 21615)",
       "courseCode13": "PSY 4396 Section D01 (Summer • CRN: 53049)",
-      "seasonYear1": "Summer 2026",
-      "seasonYear2": "Fall 2026",
-      "term1StartDate": "May 26",
-      "term1EndDate": "July 31",
-      "term2StartDate": "August 19",
-      "term2EndDate": "December 10"
+      "seasonYear": "Summer 2026",
+      "startDate": "May 26",
+      "endDate": "July 31"
     },
     {
       "item": "career-rotation",
       "schoolname": "Texas State University",
       "trackTitle": "Career Rotation Track",
-      "credits": "3 TXST credits",
-      "abbreviation": "TXST",
+      "credits": "3  credits",
+      "abbreviation": null,
       "registrationMessage": "Registration is now open.",
       "courseCode1": "ARTC 4314W (Summer • CRN: 53045)",
       "courseCode2": "BA 4300 Section D01 (Fall • CRN: 21599)",
@@ -6537,25 +6410,22 @@
       "courseCode11": "PHYS 4321 (Summer • CRN: 53095)",
       "courseCode12": "PSY 4396 Section D01 (Fall • CRN: 21615)",
       "courseCode13": "PSY 4396 Section D01 (Summer • CRN: 53049)",
-      "seasonYear1": "Summer 2026",
-      "seasonYear2": "Fall 2026",
-      "term1StartDate": "May 26",
-      "term1EndDate": "July 31",
-      "term2StartDate": "August 19",
-      "term2EndDate": "December 10"
+      "seasonYear": "Summer 2026",
+      "startDate": "May 26",
+      "endDate": "July 31"
     },
     {
       "item": "reserve-a-seat",
-      "programName": "Texas State Global Career Accelerator",
+      "programName": null,
       "registrationMessage": "Registration is now open.",
-      "phone": "(512) 240-6825",
-      "abbreviation": "TXST"
+      "phone": null,
+      "abbreviation": null
     },
     {
       "item": "begin",
-      "credits": "3 TXST credits",
-      "abbreviation": "TXST",
-      "phone": "(512) 240-6825"
+      "credits": "3  credits",
+      "abbreviation": null,
+      "phone": null
     }
   ],
   "uarizona": [
@@ -6575,8 +6445,8 @@
       "termsandConditionsPolicy": "https://www.arizona.edu/information-security-privacy",
       "registrationMessage": "Registration is now open.",
       "credits": "6 UArizona credits",
-      "startDate": "May 18",
-      "endDate": "August 12"
+      "startDate": "<b style='color:red;'>null<b/>",
+      "endDate": "<b style='color:red;'>null<b/>"
     },
     {
       "item": "about",
@@ -6586,10 +6456,10 @@
       "abbreviation": "UArizona",
       "phone": "(520) 729-4798",
       "credits": "6 UArizona credits",
-      "programFee": "+ 3,208.9",
-      "seasonYear": "Summer 2026",
-      "term": "Summer",
-      "season": "Summer",
+      "programFee": null,
+      "seasonYear": null,
+      "term": null,
+      "season": "<b style='color:red;'>null<b/>",
       "registrationMessage": "Registration is now open."
     },
     {
@@ -6607,9 +6477,9 @@
       "registrationMessage": "Registration is now open.",
       "courseCode1": "ISTA 495 /",
       "courseCode2": "SBS 495 /",
-      "seasonYear": "Summer 2026",
-      "startDate": "May 18",
-      "endDate": "August 12"
+      "seasonYear": "<b style='color:red;'>null<b/>",
+      "startDate": "<b style='color:red;'>null<b/>",
+      "endDate": "<b style='color:red;'>null<b/>"
     },
     {
       "item": "coding-for-web",
@@ -6620,9 +6490,9 @@
       "registrationMessage": "Registration is now open.",
       "courseCode1": "ISTA 495 /",
       "courseCode2": "SBS 495 /",
-      "seasonYear": "Summer 2026",
-      "startDate": "May 18",
-      "endDate": "August 12"
+      "seasonYear": "<b style='color:red;'>null<b/>",
+      "startDate": "<b style='color:red;'>null<b/>",
+      "endDate": "<b style='color:red;'>null<b/>"
     },
     {
       "item": "data-analytics",
@@ -6633,9 +6503,9 @@
       "registrationMessage": "Registration is now open.",
       "courseCode1": "ISTA 495 /",
       "courseCode2": "SBS 495 /",
-      "seasonYear": "Summer 2026",
-      "startDate": "May 18",
-      "endDate": "August 12"
+      "seasonYear": "<b style='color:red;'>null<b/>",
+      "startDate": "<b style='color:red;'>null<b/>",
+      "endDate": "<b style='color:red;'>null<b/>"
     },
     {
       "item": "coding-for-data",
@@ -6646,9 +6516,9 @@
       "registrationMessage": "Registration is now open.",
       "courseCode1": "ISTA 495 /",
       "courseCode2": "SBS 495 /",
-      "seasonYear": "Summer 2026",
-      "startDate": "May 18",
-      "endDate": "August 12"
+      "seasonYear": "<b style='color:red;'>null<b/>",
+      "startDate": "<b style='color:red;'>null<b/>",
+      "endDate": "<b style='color:red;'>null<b/>"
     },
     {
       "item": "career-rotation",
@@ -6659,9 +6529,9 @@
       "registrationMessage": "Registration is now open.",
       "courseCode1": "ISTA 495 /",
       "courseCode2": "SBS 495 /",
-      "seasonYear": "Summer 2026",
-      "startDate": "May 18",
-      "endDate": "August 12"
+      "seasonYear": "<b style='color:red;'>null<b/>",
+      "startDate": "<b style='color:red;'>null<b/>",
+      "endDate": "<b style='color:red;'>null<b/>"
     },
     {
       "item": "reserve-a-seat",
@@ -6910,12 +6780,12 @@
       "phone": "(951) 824-1167"
     }
   ],
-  "uic": [
+  "0014t00000zyjhxqar": [
     {
       "item": "home",
       "schoolname": "University of Illinois at Chicago",
-      "abbreviation": "UIC",
-      "genericProgramName": "The Global Career Accelerator",
+      "abbreviation": null,
+      "genericProgramName": null,
       "secondaryBrandColor": "#d50032",
       "primaryBrandColor": "#011E63",
       "buttonColor": "#d50032",
@@ -6923,21 +6793,21 @@
       "logo": "https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/669d5713-9b6a-46bb-bd7e-c542cff6dd6a/bad0d961febe4f229536d370ebbb97ed/logo-school-dynamic-email/uic.png",
       "cobranded_logo": "https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/669d5713-9b6a-46bb-bd7e-c542cff6dd6a/bad0d961febe4f229536d370ebbb97ed/logo-school-cobrand-gca-dynamic-email/uic.png",
       "partner_id": "0014T00000ZyjhXQAR",
-      "programName": "UIC Global Career Accelerator",
-      "termsandConditionsPolicy": "https://www.vpaa.uillinois.edu/resources/web_privacy",
+      "programName": null,
+      "termsandConditionsPolicy": null,
       "registrationMessage": "Registration is now open.",
-      "credits": "3 UIC credits",
+      "credits": "3  credits",
       "startDate": "May 18",
       "endDate": "August 7"
     },
     {
       "item": "about",
       "schoolname": "University of Illinois at Chicago",
-      "genericProgramName": "The Global Career Accelerator",
+      "genericProgramName": null,
       "schoolFullAddress": "1253 S Halsted St, Chicago, IL 60607",
-      "abbreviation": "UIC",
-      "phone": "(773) 917-0403",
-      "credits": "3 UIC credits",
+      "abbreviation": null,
+      "phone": null,
+      "credits": "3  credits",
       "programFee": "+ 1,500",
       "seasonYear": "Summer 2026",
       "term": "Summer",
@@ -6946,110 +6816,95 @@
     },
     {
       "item": "explore-tracks",
-      "credits": "3 UIC credits",
-      "abbreviation": "UIC",
+      "credits": "3  credits",
+      "abbreviation": null,
       "registrationMessage": "Registration is now open."
     },
     {
       "item": "digital-marketing",
       "schoolname": "University of Illinois at Chicago",
       "trackTitle": "Digital Marketing Track",
-      "credits": "3 UIC credits",
-      "abbreviation": "UIC",
+      "credits": "3  credits",
+      "abbreviation": null,
       "registrationMessage": "Registration is now open.",
       "courseCode1": "BA 194 (Fall • CRN: 50519)",
       "courseCode2": "BA 194 (Summer • CRN: 25532)",
-      "seasonYear1": "Summer 2026",
-      "seasonYear2": "Fall 2026",
-      "term1StartDate": "May 18",
-      "term1EndDate": "August 7",
-      "term2StartDate": "August 24",
-      "term2EndDate": "December 11"
+      "seasonYear": "Summer 2026",
+      "startDate": "May 18",
+      "endDate": "August 7"
     },
     {
       "item": "coding-for-web",
       "schoolname": "University of Illinois at Chicago",
-      "trackTitle": "Web Development for Everyone Track",
-      "credits": "3 UIC credits",
-      "abbreviation": "UIC",
+      "trackTitle": "Coding for Web Track",
+      "credits": "3  credits",
+      "abbreviation": null,
       "registrationMessage": "Registration is now open.",
       "courseCode1": "BA 194 (Fall • CRN: 50519)",
       "courseCode2": "BA 194 (Summer • CRN: 25532)",
-      "seasonYear1": "Summer 2026",
-      "seasonYear2": "Fall 2026",
-      "term1StartDate": "May 18",
-      "term1EndDate": "August 7",
-      "term2StartDate": "August 24",
-      "term2EndDate": "December 11"
+      "seasonYear": "Summer 2026",
+      "startDate": "May 18",
+      "endDate": "August 7"
     },
     {
       "item": "data-analytics",
       "schoolname": "University of Illinois at Chicago",
       "trackTitle": "Data Analytics Track",
-      "credits": "3 UIC credits",
-      "abbreviation": "UIC",
+      "credits": "3  credits",
+      "abbreviation": null,
       "registrationMessage": "Registration is now open.",
       "courseCode1": "BA 194 (Fall • CRN: 50519)",
       "courseCode2": "BA 194 (Summer • CRN: 25532)",
-      "seasonYear1": "Summer 2026",
-      "seasonYear2": "Fall 2026",
-      "term1StartDate": "May 18",
-      "term1EndDate": "August 7",
-      "term2StartDate": "August 24",
-      "term2EndDate": "December 11"
+      "seasonYear": "Summer 2026",
+      "startDate": "May 18",
+      "endDate": "August 7"
     },
     {
       "item": "coding-for-data",
       "schoolname": "University of Illinois at Chicago",
       "trackTitle": "Coding for Data Track",
-      "credits": "3 UIC credits",
-      "abbreviation": "UIC",
+      "credits": "3  credits",
+      "abbreviation": null,
       "registrationMessage": "Registration is now open.",
       "courseCode1": "BA 194 (Fall • CRN: 50519)",
       "courseCode2": "BA 194 (Summer • CRN: 25532)",
-      "seasonYear1": "Summer 2026",
-      "seasonYear2": "Fall 2026",
-      "term1StartDate": "May 18",
-      "term1EndDate": "August 7",
-      "term2StartDate": "August 24",
-      "term2EndDate": "December 11"
+      "seasonYear": "Summer 2026",
+      "startDate": "May 18",
+      "endDate": "August 7"
     },
     {
       "item": "career-rotation",
       "schoolname": "University of Illinois at Chicago",
       "trackTitle": "Career Rotation Track",
-      "credits": "3 UIC credits",
-      "abbreviation": "UIC",
+      "credits": "3  credits",
+      "abbreviation": null,
       "registrationMessage": "Registration is now open.",
       "courseCode1": "BA 194 (Fall • CRN: 50519)",
       "courseCode2": "BA 194 (Summer • CRN: 25532)",
-      "seasonYear1": "Summer 2026",
-      "seasonYear2": "Fall 2026",
-      "term1StartDate": "May 18",
-      "term1EndDate": "August 7",
-      "term2StartDate": "August 24",
-      "term2EndDate": "December 11"
+      "seasonYear": "Summer 2026",
+      "startDate": "May 18",
+      "endDate": "August 7"
     },
     {
       "item": "reserve-a-seat",
-      "programName": "UIC Global Career Accelerator",
+      "programName": null,
       "registrationMessage": "Registration is now open.",
-      "phone": "(773) 917-0403",
-      "abbreviation": "UIC"
+      "phone": null,
+      "abbreviation": null
     },
     {
       "item": "begin",
-      "credits": "3 UIC credits",
-      "abbreviation": "UIC",
-      "phone": "(773) 917-0403"
+      "credits": "3  credits",
+      "abbreviation": null,
+      "phone": null
     }
   ],
-  "uk": [
+  "0014t00000uokgjqax": [
     {
       "item": "home",
       "schoolname": "University of Kentucky",
-      "abbreviation": "UK",
-      "genericProgramName": "The Global Career Accelerator",
+      "abbreviation": null,
+      "genericProgramName": null,
       "secondaryBrandColor": null,
       "primaryBrandColor": null,
       "buttonColor": "#1b3c96",
@@ -7057,21 +6912,21 @@
       "logo": "https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/669d5713-9b6a-46bb-bd7e-c542cff6dd6a/bad0d961febe4f229536d370ebbb97ed/logo-school-dynamic-email/uk-primary.png",
       "cobranded_logo": "https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/669d5713-9b6a-46bb-bd7e-c542cff6dd6a/bad0d961febe4f229536d370ebbb97ed/logo-school-cobrand-gca-dynamic-email/uk-primary.png",
       "partner_id": "0014T00000UOKgJQAX",
-      "programName": "UK Global Career Accelerator",
-      "termsandConditionsPolicy": "https://www.uky.edu/privacy/",
+      "programName": null,
+      "termsandConditionsPolicy": null,
       "registrationMessage": "Registration is now open.",
-      "credits": "3 UK credits",
+      "credits": "3  credits",
       "startDate": "May 18",
       "endDate": "August 12"
     },
     {
       "item": "about",
       "schoolname": "University of Kentucky",
-      "genericProgramName": "The Global Career Accelerator",
+      "genericProgramName": null,
       "schoolFullAddress": "410 Administration Dr, Lexington, KY 40506-0032",
-      "abbreviation": "UK",
-      "phone": "(859) 251-3444",
-      "credits": "3 UK credits",
+      "abbreviation": null,
+      "phone": null,
+      "credits": "3  credits",
       "programFee": "+ 2,150",
       "seasonYear": "Summer 2026",
       "term": "Summer",
@@ -7080,16 +6935,16 @@
     },
     {
       "item": "explore-tracks",
-      "credits": "3 UK credits",
-      "abbreviation": "UK",
+      "credits": "3  credits",
+      "abbreviation": null,
       "registrationMessage": "Registration is now open."
     },
     {
       "item": "digital-marketing",
       "schoolname": "University of Kentucky",
       "trackTitle": "Digital Marketing Track",
-      "credits": "3 UK credits",
-      "abbreviation": "UK",
+      "credits": "3  credits",
+      "abbreviation": null,
       "registrationMessage": "Registration is now open.",
       "courseCode1": "ARTC 4314W (Summer • CRN: 53045)",
       "courseCode2": "BA 4300 Section D01 (Fall • CRN: 21599)",
@@ -7111,9 +6966,9 @@
     {
       "item": "coding-for-web",
       "schoolname": "University of Kentucky",
-      "trackTitle": "Web Development for Everyone Track",
-      "credits": "3 UK credits",
-      "abbreviation": "UK",
+      "trackTitle": "Coding for Web Track",
+      "credits": "3  credits",
+      "abbreviation": null,
       "registrationMessage": "Registration is now open.",
       "courseCode1": "ARTC 4314W (Summer • CRN: 53045)",
       "courseCode2": "BA 4300 Section D01 (Fall • CRN: 21599)",
@@ -7136,8 +6991,8 @@
       "item": "data-analytics",
       "schoolname": "University of Kentucky",
       "trackTitle": "Data Analytics Track",
-      "credits": "3 UK credits",
-      "abbreviation": "UK",
+      "credits": "3  credits",
+      "abbreviation": null,
       "registrationMessage": "Registration is now open.",
       "courseCode1": "ARTC 4314W (Summer • CRN: 53045)",
       "courseCode2": "BA 4300 Section D01 (Fall • CRN: 21599)",
@@ -7160,8 +7015,8 @@
       "item": "coding-for-data",
       "schoolname": "University of Kentucky",
       "trackTitle": "Coding for Data Track",
-      "credits": "3 UK credits",
-      "abbreviation": "UK",
+      "credits": "3  credits",
+      "abbreviation": null,
       "registrationMessage": "Registration is now open.",
       "courseCode1": "ARTC 4314W (Summer • CRN: 53045)",
       "courseCode2": "BA 4300 Section D01 (Fall • CRN: 21599)",
@@ -7184,8 +7039,8 @@
       "item": "career-rotation",
       "schoolname": "University of Kentucky",
       "trackTitle": "Career Rotation Track",
-      "credits": "3 UK credits",
-      "abbreviation": "UK",
+      "credits": "3  credits",
+      "abbreviation": null,
       "registrationMessage": "Registration is now open.",
       "courseCode1": "ARTC 4314W (Summer • CRN: 53045)",
       "courseCode2": "BA 4300 Section D01 (Fall • CRN: 21599)",
@@ -7206,16 +7061,16 @@
     },
     {
       "item": "reserve-a-seat",
-      "programName": "UK Global Career Accelerator",
+      "programName": null,
       "registrationMessage": "Registration is now open.",
-      "phone": "(859) 251-3444",
-      "abbreviation": "UK"
+      "phone": null,
+      "abbreviation": null
     },
     {
       "item": "begin",
-      "credits": "3 UK credits",
-      "abbreviation": "UK",
-      "phone": "(859) 251-3444"
+      "credits": "3  credits",
+      "abbreviation": null,
+      "phone": null
     }
   ],
   "ull": [
@@ -7394,7 +7249,6 @@
       "credits": "6 UNCG credits",
       "abbreviation": "UNCG",
       "registrationMessage": "Registration is now open.",
-      "courseCode1": "IGS 200X: EC: Global Career Accelerator (CRN: 50831)",
       "seasonYear": "Summer 2026",
       "startDate": "May 13",
       "endDate": "July 23"
@@ -7406,7 +7260,6 @@
       "credits": "6 UNCG credits",
       "abbreviation": "UNCG",
       "registrationMessage": "Registration is now open.",
-      "courseCode1": "IGS 200X: EC: Global Career Accelerator (CRN: 50831)",
       "seasonYear": "Summer 2026",
       "startDate": "May 13",
       "endDate": "July 23"
@@ -7418,7 +7271,6 @@
       "credits": "6 UNCG credits",
       "abbreviation": "UNCG",
       "registrationMessage": "Registration is now open.",
-      "courseCode1": "IGS 200X: EC: Global Career Accelerator (CRN: 50831)",
       "seasonYear": "Summer 2026",
       "startDate": "May 13",
       "endDate": "July 23"
@@ -7430,7 +7282,6 @@
       "credits": "6 UNCG credits",
       "abbreviation": "UNCG",
       "registrationMessage": "Registration is now open.",
-      "courseCode1": "IGS 200X: EC: Global Career Accelerator (CRN: 50831)",
       "seasonYear": "Summer 2026",
       "startDate": "May 13",
       "endDate": "July 23"
@@ -7442,7 +7293,6 @@
       "credits": "6 UNCG credits",
       "abbreviation": "UNCG",
       "registrationMessage": "Registration is now open.",
-      "courseCode1": "IGS 200X: EC: Global Career Accelerator (CRN: 50831)",
       "seasonYear": "Summer 2026",
       "startDate": "May 13",
       "endDate": "July 23"
@@ -7509,12 +7359,9 @@
       "abbreviation": "UNL",
       "registrationMessage": "Registration is now open.",
       "courseCode1": "BSAD 391",
-      "seasonYear1": "Summer 2026",
-      "seasonYear2": "Fall 2026",
-      "term1StartDate": "May 18",
-      "term1EndDate": "August 13",
-      "term2StartDate": "August 24",
-      "term2EndDate": "December 12"
+      "seasonYear": "Summer 2026",
+      "startDate": "May 18",
+      "endDate": "August 13"
     },
     {
       "item": "coding-for-web",
@@ -7524,12 +7371,9 @@
       "abbreviation": "UNL",
       "registrationMessage": "Registration is now open.",
       "courseCode1": "BSAD 391",
-      "seasonYear1": "Summer 2026",
-      "seasonYear2": "Fall 2026",
-      "term1StartDate": "May 18",
-      "term1EndDate": "August 13",
-      "term2StartDate": "August 24",
-      "term2EndDate": "December 12"
+      "seasonYear": "Summer 2026",
+      "startDate": "May 18",
+      "endDate": "August 13"
     },
     {
       "item": "data-analytics",
@@ -7539,12 +7383,9 @@
       "abbreviation": "UNL",
       "registrationMessage": "Registration is now open.",
       "courseCode1": "BSAD 391",
-      "seasonYear1": "Summer 2026",
-      "seasonYear2": "Fall 2026",
-      "term1StartDate": "May 18",
-      "term1EndDate": "August 13",
-      "term2StartDate": "August 24",
-      "term2EndDate": "December 12"
+      "seasonYear": "Summer 2026",
+      "startDate": "May 18",
+      "endDate": "August 13"
     },
     {
       "item": "coding-for-data",
@@ -7554,12 +7395,9 @@
       "abbreviation": "UNL",
       "registrationMessage": "Registration is now open.",
       "courseCode1": "BSAD 391",
-      "seasonYear1": "Summer 2026",
-      "seasonYear2": "Fall 2026",
-      "term1StartDate": "May 18",
-      "term1EndDate": "August 13",
-      "term2StartDate": "August 24",
-      "term2EndDate": "December 12"
+      "seasonYear": "Summer 2026",
+      "startDate": "May 18",
+      "endDate": "August 13"
     },
     {
       "item": "career-rotation",
@@ -7569,12 +7407,9 @@
       "abbreviation": "UNL",
       "registrationMessage": "Registration is now open.",
       "courseCode1": "BSAD 391",
-      "seasonYear1": "Summer 2026",
-      "seasonYear2": "Fall 2026",
-      "term1StartDate": "May 18",
-      "term1EndDate": "August 13",
-      "term2StartDate": "August 24",
-      "term2EndDate": "December 12"
+      "seasonYear": "Summer 2026",
+      "startDate": "May 18",
+      "endDate": "August 13"
     },
     {
       "item": "reserve-a-seat",
@@ -7719,12 +7554,12 @@
       "phone": "(702) 748-8173"
     }
   ],
-  "uno": [
+  "001rd00000la3d1iaj": [
     {
       "item": "home",
       "schoolname": "University of Nebraska Omaha",
-      "abbreviation": "UNO",
-      "genericProgramName": "The Global Career Accelerator",
+      "abbreviation": null,
+      "genericProgramName": null,
       "secondaryBrandColor": "#D71920",
       "primaryBrandColor": "#0A0A0A",
       "buttonColor": "#D71920",
@@ -7732,21 +7567,21 @@
       "logo": "https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/669d5713-9b6a-46bb-bd7e-c542cff6dd6a/bad0d961febe4f229536d370ebbb97ed/logo-school-dynamic-email/uno_wide.png",
       "cobranded_logo": "https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/669d5713-9b6a-46bb-bd7e-c542cff6dd6a/bad0d961febe4f229536d370ebbb97ed/logo-school-cobrand-gca-dynamic-email/uno_wide.png",
       "partner_id": "001Rd00000La3D1IAJ",
-      "programName": "UNO Global Career Accelerator",
+      "programName": null,
       "termsandConditionsPolicy": null,
       "registrationMessage": "Registration is now open.",
-      "credits": "3 to 6 UNO credits",
+      "credits": "3 to 6  credits",
       "startDate": "May 26",
       "endDate": "July 31"
     },
     {
       "item": "about",
       "schoolname": "University of Nebraska Omaha",
-      "genericProgramName": "The Global Career Accelerator",
+      "genericProgramName": null,
       "schoolFullAddress": "6001 Dodge St, Omaha, NE 68182",
-      "abbreviation": "UNO",
-      "phone": "(402) 552-8675",
-      "credits": "3 to 6 UNO credits",
+      "abbreviation": null,
+      "phone": null,
+      "credits": "3 to 6  credits",
       "programFee": "+ 1,000",
       "seasonYear": "Summer 2026",
       "term": "Summer",
@@ -7755,120 +7590,105 @@
     },
     {
       "item": "explore-tracks",
-      "credits": "3 to 6 UNO credits",
-      "abbreviation": "UNO",
+      "credits": "3 to 6  credits",
+      "abbreviation": null,
       "registrationMessage": "Registration is now open."
     },
     {
       "item": "digital-marketing",
       "schoolname": "University of Nebraska Omaha",
       "trackTitle": "Digital Marketing Track",
-      "credits": "3 to 6 UNO credits",
-      "abbreviation": "UNO",
+      "credits": "3 to 6  credits",
+      "abbreviation": null,
       "registrationMessage": "Registration is now open.",
       "courseCode1": "SSCI 4900",
       "courseCode2": "SSCI 4900",
       "courseCode3": "SSCI 4900",
       "courseCode4": "SSCI 4900",
-      "seasonYear1": "Summer 2026",
-      "seasonYear2": "Fall 2026",
-      "term1StartDate": "May 26",
-      "term1EndDate": "July 31",
-      "term2StartDate": "August 24",
-      "term2EndDate": "December 18"
+      "seasonYear": "Summer 2026",
+      "startDate": "May 26",
+      "endDate": "July 31"
     },
     {
       "item": "coding-for-web",
       "schoolname": "University of Nebraska Omaha",
-      "trackTitle": "Web Development for Everyone Track",
-      "credits": "3 to 6 UNO credits",
-      "abbreviation": "UNO",
+      "trackTitle": "Coding for Web Track",
+      "credits": "3 to 6  credits",
+      "abbreviation": null,
       "registrationMessage": "Registration is now open.",
       "courseCode1": "SSCI 4900",
       "courseCode2": "SSCI 4900",
       "courseCode3": "SSCI 4900",
       "courseCode4": "SSCI 4900",
-      "seasonYear1": "Summer 2026",
-      "seasonYear2": "Fall 2026",
-      "term1StartDate": "May 26",
-      "term1EndDate": "July 31",
-      "term2StartDate": "August 24",
-      "term2EndDate": "December 18"
+      "seasonYear": "Summer 2026",
+      "startDate": "May 26",
+      "endDate": "July 31"
     },
     {
       "item": "data-analytics",
       "schoolname": "University of Nebraska Omaha",
       "trackTitle": "Data Analytics Track",
-      "credits": "3 to 6 UNO credits",
-      "abbreviation": "UNO",
+      "credits": "3 to 6  credits",
+      "abbreviation": null,
       "registrationMessage": "Registration is now open.",
       "courseCode1": "SSCI 4900",
       "courseCode2": "SSCI 4900",
       "courseCode3": "SSCI 4900",
       "courseCode4": "SSCI 4900",
-      "seasonYear1": "Summer 2026",
-      "seasonYear2": "Fall 2026",
-      "term1StartDate": "May 26",
-      "term1EndDate": "July 31",
-      "term2StartDate": "August 24",
-      "term2EndDate": "December 18"
+      "seasonYear": "Summer 2026",
+      "startDate": "May 26",
+      "endDate": "July 31"
     },
     {
       "item": "coding-for-data",
       "schoolname": "University of Nebraska Omaha",
       "trackTitle": "Coding for Data Track",
-      "credits": "3 to 6 UNO credits",
-      "abbreviation": "UNO",
+      "credits": "3 to 6  credits",
+      "abbreviation": null,
       "registrationMessage": "Registration is now open.",
       "courseCode1": "SSCI 4900",
       "courseCode2": "SSCI 4900",
       "courseCode3": "SSCI 4900",
       "courseCode4": "SSCI 4900",
-      "seasonYear1": "Summer 2026",
-      "seasonYear2": "Fall 2026",
-      "term1StartDate": "May 26",
-      "term1EndDate": "July 31",
-      "term2StartDate": "August 24",
-      "term2EndDate": "December 18"
+      "seasonYear": "Summer 2026",
+      "startDate": "May 26",
+      "endDate": "July 31"
     },
     {
       "item": "career-rotation",
       "schoolname": "University of Nebraska Omaha",
       "trackTitle": "Career Rotation Track",
-      "credits": "3 to 6 UNO credits",
-      "abbreviation": "UNO",
+      "credits": "3 to 6  credits",
+      "abbreviation": null,
       "registrationMessage": "Registration is now open.",
       "courseCode1": "SSCI 4900",
       "courseCode2": "SSCI 4900",
       "courseCode3": "SSCI 4900",
       "courseCode4": "SSCI 4900",
-      "seasonYear1": "Summer 2026",
-      "seasonYear2": "Fall 2026",
-      "term1StartDate": "May 26",
-      "term1EndDate": "July 31",
-      "term2StartDate": "August 24",
-      "term2EndDate": "December 18"
+      "seasonYear": "Summer 2026",
+      "startDate": "May 26",
+      "endDate": "July 31"
     },
     {
       "item": "reserve-a-seat",
-      "programName": "UNO Global Career Accelerator",
+      "programName": null,
       "registrationMessage": "Registration is now open.",
-      "phone": "(402) 552-8675",
-      "abbreviation": "UNO"
+      "phone": null,
+      "abbreviation": null
     },
     {
       "item": "begin",
-      "credits": "3 to 6 UNO credits",
-      "abbreviation": "UNO",
-      "phone": "(402) 552-8675"
+      "credits": "3 to 6  credits",
+      "abbreviation": null,
+      "phone": null
     }
   ],
-  "unt": [
+  "0014t00000s78dmqaj": [
     {
       "item": "home",
       "schoolname": "University of North Texas",
-      "abbreviation": "UNT",
-      "genericProgramName": "The Global Career Accelerator",
+      "abbreviation": null,
+      "genericProgramName": null,
       "secondaryBrandColor": "#72B844",
       "primaryBrandColor": "#00853E",
       "buttonColor": "#00853E",
@@ -7876,21 +7696,21 @@
       "logo": "https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/669d5713-9b6a-46bb-bd7e-c542cff6dd6a/bad0d961febe4f229536d370ebbb97ed/logo-school-dynamic-email/unt.png",
       "cobranded_logo": "https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/669d5713-9b6a-46bb-bd7e-c542cff6dd6a/bad0d961febe4f229536d370ebbb97ed/logo-school-cobrand-gca-dynamic-email/unt.png",
       "partner_id": "0014T00000S78DmQAJ",
-      "programName": "UNT Global Career Accelerator",
-      "termsandConditionsPolicy": "https://www.unt.edu/privacy",
+      "programName": null,
+      "termsandConditionsPolicy": null,
       "registrationMessage": "Registration is now open.",
-      "credits": "6 UNT credits",
+      "credits": "6  credits",
       "startDate": "May 18",
       "endDate": "July 24"
     },
     {
       "item": "about",
       "schoolname": "University of North Texas",
-      "genericProgramName": "The Global Career Accelerator",
+      "genericProgramName": null,
       "schoolFullAddress": "1155 Union Cir, Denton, TX 76203",
-      "abbreviation": "UNT",
-      "phone": "(817) 730-5823",
-      "credits": "6 UNT credits",
+      "abbreviation": null,
+      "phone": null,
+      "credits": "6  credits",
       "programFee": null,
       "seasonYear": "Summer 2026",
       "term": "Summer",
@@ -7899,16 +7719,16 @@
     },
     {
       "item": "explore-tracks",
-      "credits": "6 UNT credits",
-      "abbreviation": "UNT",
+      "credits": "6  credits",
+      "abbreviation": null,
       "registrationMessage": "Registration is now open."
     },
     {
       "item": "digital-marketing",
       "schoolname": "University of North Texas",
       "trackTitle": "Digital Marketing Track",
-      "credits": "6 UNT credits",
-      "abbreviation": "UNT",
+      "credits": "6  credits",
+      "abbreviation": null,
       "registrationMessage": "Registration is now open.",
       "courseCode1": "UCRS 4800.400: College of Liberal Arts and Social Sciences Internship",
       "seasonYear": "Summer 2026",
@@ -7918,9 +7738,9 @@
     {
       "item": "coding-for-web",
       "schoolname": "University of North Texas",
-      "trackTitle": "Web Development for Everyone Track",
-      "credits": "6 UNT credits",
-      "abbreviation": "UNT",
+      "trackTitle": "Coding for Web Track",
+      "credits": "6  credits",
+      "abbreviation": null,
       "registrationMessage": "Registration is now open.",
       "courseCode1": "UCRS 4800.400: College of Liberal Arts and Social Sciences Internship",
       "seasonYear": "Summer 2026",
@@ -7931,8 +7751,8 @@
       "item": "data-analytics",
       "schoolname": "University of North Texas",
       "trackTitle": "Data Analytics Track",
-      "credits": "6 UNT credits",
-      "abbreviation": "UNT",
+      "credits": "6  credits",
+      "abbreviation": null,
       "registrationMessage": "Registration is now open.",
       "courseCode1": "UCRS 4800.400: College of Liberal Arts and Social Sciences Internship",
       "seasonYear": "Summer 2026",
@@ -7943,8 +7763,8 @@
       "item": "coding-for-data",
       "schoolname": "University of North Texas",
       "trackTitle": "Coding for Data Track",
-      "credits": "6 UNT credits",
-      "abbreviation": "UNT",
+      "credits": "6  credits",
+      "abbreviation": null,
       "registrationMessage": "Registration is now open.",
       "courseCode1": "UCRS 4800.400: College of Liberal Arts and Social Sciences Internship",
       "seasonYear": "Summer 2026",
@@ -7955,8 +7775,8 @@
       "item": "career-rotation",
       "schoolname": "University of North Texas",
       "trackTitle": "Career Rotation Track",
-      "credits": "6 UNT credits",
-      "abbreviation": "UNT",
+      "credits": "6  credits",
+      "abbreviation": null,
       "registrationMessage": "Registration is now open.",
       "courseCode1": "UCRS 4800.400: College of Liberal Arts and Social Sciences Internship",
       "seasonYear": "Summer 2026",
@@ -7965,16 +7785,16 @@
     },
     {
       "item": "reserve-a-seat",
-      "programName": "UNT Global Career Accelerator",
+      "programName": null,
       "registrationMessage": "Registration is now open.",
-      "phone": "(817) 730-5823",
-      "abbreviation": "UNT"
+      "phone": null,
+      "abbreviation": null
     },
     {
       "item": "begin",
-      "credits": "6 UNT credits",
-      "abbreviation": "UNT",
-      "phone": "(817) 730-5823"
+      "credits": "6  credits",
+      "abbreviation": null,
+      "phone": null
     }
   ],
   "uofsc": [
@@ -8364,12 +8184,12 @@
       "phone": "(813) 981-7254"
     }
   ],
-  "uniutah": [
+  "001rd00000ks0pliaz": [
     {
       "item": "home",
       "schoolname": "The University of Utah",
-      "abbreviation": "UniUtah",
-      "genericProgramName": "The Global Career Accelerator",
+      "abbreviation": null,
+      "genericProgramName": null,
       "secondaryBrandColor": "#000000",
       "primaryBrandColor": "#BE0000",
       "buttonColor": "#BE0000",
@@ -8377,135 +8197,120 @@
       "logo": "https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/669d5713-9b6a-46bb-bd7e-c542cff6dd6a/bad0d961febe4f229536d370ebbb97ed/logo-school-dynamic-email/utah.png",
       "cobranded_logo": "https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/669d5713-9b6a-46bb-bd7e-c542cff6dd6a/bad0d961febe4f229536d370ebbb97ed/logo-school-cobrand-gca-dynamic-email/utah.png",
       "partner_id": "001Rd00000Ks0PLIAZ",
-      "programName": "Utah Global Career Accelerator",
+      "programName": null,
       "termsandConditionsPolicy": null,
       "registrationMessage": "Registration is now open.",
-      "credits": "3 or 6 UniUtah credits",
-      "startDate": "May 20",
-      "endDate": "August 6"
+      "credits": "3 or 6  credits",
+      "startDate": "<b style='color:red;'>null<b/>",
+      "endDate": "<b style='color:red;'>null<b/>"
     },
     {
       "item": "about",
       "schoolname": "The University of Utah",
-      "genericProgramName": "The Global Career Accelerator",
+      "genericProgramName": null,
       "schoolFullAddress": "201 Presidents' Cir, Salt Lake City, UT 84112",
-      "abbreviation": "UniUtah",
-      "phone": "(801) 876-1581",
-      "credits": "3 or 6 UniUtah credits",
+      "abbreviation": null,
+      "phone": null,
+      "credits": "3 or 6  credits",
       "programFee": null,
-      "seasonYear": "Summer 2026",
-      "term": "Summer",
-      "season": "Summer",
+      "seasonYear": null,
+      "term": null,
+      "season": "<b style='color:red;'>null<b/>",
       "registrationMessage": "Registration is now open."
     },
     {
       "item": "explore-tracks",
-      "credits": "3 or 6 UniUtah credits",
-      "abbreviation": "UniUtah",
+      "credits": "3 or 6  credits",
+      "abbreviation": null,
       "registrationMessage": "Registration is now open."
     },
     {
       "item": "digital-marketing",
       "schoolname": "The University of Utah",
       "trackTitle": "Digital Marketing Track",
-      "credits": "3 or 6 UniUtah credits",
-      "abbreviation": "UniUtah",
+      "credits": "3 or 6  credits",
+      "abbreviation": null,
       "registrationMessage": "Registration is now open.",
       "courseCode1": "HNKLY 4903-002 (Fall • CRN: 8254)",
       "courseCode2": "HNKLY 4903-002 (Fall • CRN: 8254)",
       "courseCode3": "HNKLY 4903-002 (Summer • CRN: 3896)",
       "courseCode4": "HNKLY 4903-002 (Summer • CRN: 3896)",
-      "seasonYear1": "Summer 2026",
-      "seasonYear2": "Fall 2026",
-      "term1StartDate": "May 20",
-      "term1EndDate": "August 6",
-      "term2StartDate": "August 24",
-      "term2EndDate": "December 10"
+      "seasonYear": "<b style='color:red;'>null<b/>",
+      "startDate": "<b style='color:red;'>null<b/>",
+      "endDate": "<b style='color:red;'>null<b/>"
     },
     {
       "item": "coding-for-web",
       "schoolname": "The University of Utah",
-      "trackTitle": "Web Development for Everyone Track",
-      "credits": "3 or 6 UniUtah credits",
-      "abbreviation": "UniUtah",
+      "trackTitle": "Coding for Web Track",
+      "credits": "3 or 6  credits",
+      "abbreviation": null,
       "registrationMessage": "Registration is now open.",
       "courseCode1": "HNKLY 4903-002 (Fall • CRN: 8254)",
       "courseCode2": "HNKLY 4903-002 (Fall • CRN: 8254)",
       "courseCode3": "HNKLY 4903-002 (Summer • CRN: 3896)",
       "courseCode4": "HNKLY 4903-002 (Summer • CRN: 3896)",
-      "seasonYear1": "Summer 2026",
-      "seasonYear2": "Fall 2026",
-      "term1StartDate": "May 20",
-      "term1EndDate": "August 6",
-      "term2StartDate": "August 24",
-      "term2EndDate": "December 10"
+      "seasonYear": "<b style='color:red;'>null<b/>",
+      "startDate": "<b style='color:red;'>null<b/>",
+      "endDate": "<b style='color:red;'>null<b/>"
     },
     {
       "item": "data-analytics",
       "schoolname": "The University of Utah",
       "trackTitle": "Data Analytics Track",
-      "credits": "3 or 6 UniUtah credits",
-      "abbreviation": "UniUtah",
+      "credits": "3 or 6  credits",
+      "abbreviation": null,
       "registrationMessage": "Registration is now open.",
       "courseCode1": "HNKLY 4903-002 (Fall • CRN: 8254)",
       "courseCode2": "HNKLY 4903-002 (Fall • CRN: 8254)",
       "courseCode3": "HNKLY 4903-002 (Summer • CRN: 3896)",
       "courseCode4": "HNKLY 4903-002 (Summer • CRN: 3896)",
-      "seasonYear1": "Summer 2026",
-      "seasonYear2": "Fall 2026",
-      "term1StartDate": "May 20",
-      "term1EndDate": "August 6",
-      "term2StartDate": "August 24",
-      "term2EndDate": "December 10"
+      "seasonYear": "<b style='color:red;'>null<b/>",
+      "startDate": "<b style='color:red;'>null<b/>",
+      "endDate": "<b style='color:red;'>null<b/>"
     },
     {
       "item": "coding-for-data",
       "schoolname": "The University of Utah",
       "trackTitle": "Coding for Data Track",
-      "credits": "3 or 6 UniUtah credits",
-      "abbreviation": "UniUtah",
+      "credits": "3 or 6  credits",
+      "abbreviation": null,
       "registrationMessage": "Registration is now open.",
       "courseCode1": "HNKLY 4903-002 (Fall • CRN: 8254)",
       "courseCode2": "HNKLY 4903-002 (Fall • CRN: 8254)",
       "courseCode3": "HNKLY 4903-002 (Summer • CRN: 3896)",
       "courseCode4": "HNKLY 4903-002 (Summer • CRN: 3896)",
-      "seasonYear1": "Summer 2026",
-      "seasonYear2": "Fall 2026",
-      "term1StartDate": "May 20",
-      "term1EndDate": "August 6",
-      "term2StartDate": "August 24",
-      "term2EndDate": "December 10"
+      "seasonYear": "<b style='color:red;'>null<b/>",
+      "startDate": "<b style='color:red;'>null<b/>",
+      "endDate": "<b style='color:red;'>null<b/>"
     },
     {
       "item": "career-rotation",
       "schoolname": "The University of Utah",
       "trackTitle": "Career Rotation Track",
-      "credits": "3 or 6 UniUtah credits",
-      "abbreviation": "UniUtah",
+      "credits": "3 or 6  credits",
+      "abbreviation": null,
       "registrationMessage": "Registration is now open.",
       "courseCode1": "HNKLY 4903-002 (Fall • CRN: 8254)",
       "courseCode2": "HNKLY 4903-002 (Fall • CRN: 8254)",
       "courseCode3": "HNKLY 4903-002 (Summer • CRN: 3896)",
       "courseCode4": "HNKLY 4903-002 (Summer • CRN: 3896)",
-      "seasonYear1": "Summer 2026",
-      "seasonYear2": "Fall 2026",
-      "term1StartDate": "May 20",
-      "term1EndDate": "August 6",
-      "term2StartDate": "August 24",
-      "term2EndDate": "December 10"
+      "seasonYear": "<b style='color:red;'>null<b/>",
+      "startDate": "<b style='color:red;'>null<b/>",
+      "endDate": "<b style='color:red;'>null<b/>"
     },
     {
       "item": "reserve-a-seat",
-      "programName": "Utah Global Career Accelerator",
+      "programName": null,
       "registrationMessage": "Registration is now open.",
-      "phone": "(801) 876-1581",
-      "abbreviation": "UniUtah"
+      "phone": null,
+      "abbreviation": null
     },
     {
       "item": "begin",
-      "credits": "3 or 6 UniUtah credits",
-      "abbreviation": "UniUtah",
-      "phone": "(801) 876-1581"
+      "credits": "3 or 6  credits",
+      "abbreviation": null,
+      "phone": null
     }
   ],
   "uta": [
@@ -8921,9 +8726,9 @@
       "programName": "UT San Antonio Global Career Accelerator",
       "termsandConditionsPolicy": "https://www.utsa.edu/policies/#_ga=2.42408678.2130508855.1692576888-1416629613.1692576888",
       "registrationMessage": "Registration is now open.",
-      "credits": "6 UTSA credits",
-      "startDate": "May 26",
-      "endDate": "August 4"
+      "credits": null,
+      "startDate": "<b style='color:red;'>null<b/>",
+      "endDate": "<b style='color:red;'>null<b/>"
     },
     {
       "item": "about",
@@ -8932,16 +8737,16 @@
       "schoolFullAddress": "Graduate School and Research Building, GSR 2.116  Main Campus  1 UTSA Circle  San Antonio, TX 78249",
       "abbreviation": "UTSA",
       "phone": "(210) 405-9277",
-      "credits": "6 UTSA credits",
+      "credits": null,
       "programFee": null,
-      "seasonYear": "Summer 2026",
-      "term": "Summer",
-      "season": "Summer",
+      "seasonYear": null,
+      "term": null,
+      "season": "<b style='color:red;'>null<b/>",
       "registrationMessage": "Registration is now open."
     },
     {
       "item": "explore-tracks",
-      "credits": "6 UTSA credits",
+      "credits": null,
       "abbreviation": "UTSA",
       "registrationMessage": "Registration is now open."
     },
@@ -8949,15 +8754,13 @@
       "item": "digital-marketing",
       "schoolname": "University of Texas at San Antonio",
       "trackTitle": "Digital Marketing Track",
-      "credits": "6 UTSA credits",
+      "credits": null,
       "abbreviation": "UTSA",
       "registrationMessage": "Registration is now open.",
-      "courseCode1": "GLA 4936: Internship in Global Affairs (Summer • CRN: 36687)",
-      "courseCode2": "GLA 4966: Internship in Global Affairs (Fall • CRN: 30193)",
       "seasonYear1": "Summer 2026",
       "seasonYear2": "Fall 2026",
-      "term1StartDate": "May 26",
-      "term1EndDate": "August 4",
+      "term1StartDate": null,
+      "term1EndDate": null,
       "term2StartDate": "August 25",
       "term2EndDate": "December 12"
     },
@@ -8965,15 +8768,13 @@
       "item": "coding-for-web",
       "schoolname": "University of Texas at San Antonio",
       "trackTitle": "Web Development for Everyone Track",
-      "credits": "6 UTSA credits",
+      "credits": null,
       "abbreviation": "UTSA",
       "registrationMessage": "Registration is now open.",
-      "courseCode1": "GLA 4936: Internship in Global Affairs (Summer • CRN: 36687)",
-      "courseCode2": "GLA 4966: Internship in Global Affairs (Fall • CRN: 30193)",
       "seasonYear1": "Summer 2026",
       "seasonYear2": "Fall 2026",
-      "term1StartDate": "May 26",
-      "term1EndDate": "August 4",
+      "term1StartDate": null,
+      "term1EndDate": null,
       "term2StartDate": "August 25",
       "term2EndDate": "December 12"
     },
@@ -8981,15 +8782,13 @@
       "item": "data-analytics",
       "schoolname": "University of Texas at San Antonio",
       "trackTitle": "Data Analytics Track",
-      "credits": "6 UTSA credits",
+      "credits": null,
       "abbreviation": "UTSA",
       "registrationMessage": "Registration is now open.",
-      "courseCode1": "GLA 4936: Internship in Global Affairs (Summer • CRN: 36687)",
-      "courseCode2": "GLA 4966: Internship in Global Affairs (Fall • CRN: 30193)",
       "seasonYear1": "Summer 2026",
       "seasonYear2": "Fall 2026",
-      "term1StartDate": "May 26",
-      "term1EndDate": "August 4",
+      "term1StartDate": null,
+      "term1EndDate": null,
       "term2StartDate": "August 25",
       "term2EndDate": "December 12"
     },
@@ -8997,15 +8796,13 @@
       "item": "coding-for-data",
       "schoolname": "University of Texas at San Antonio",
       "trackTitle": "Coding for Data Track",
-      "credits": "6 UTSA credits",
+      "credits": null,
       "abbreviation": "UTSA",
       "registrationMessage": "Registration is now open.",
-      "courseCode1": "GLA 4936: Internship in Global Affairs (Summer • CRN: 36687)",
-      "courseCode2": "GLA 4966: Internship in Global Affairs (Fall • CRN: 30193)",
       "seasonYear1": "Summer 2026",
       "seasonYear2": "Fall 2026",
-      "term1StartDate": "May 26",
-      "term1EndDate": "August 4",
+      "term1StartDate": null,
+      "term1EndDate": null,
       "term2StartDate": "August 25",
       "term2EndDate": "December 12"
     },
@@ -9013,15 +8810,13 @@
       "item": "career-rotation",
       "schoolname": "University of Texas at San Antonio",
       "trackTitle": "Career Rotation Track",
-      "credits": "6 UTSA credits",
+      "credits": null,
       "abbreviation": "UTSA",
       "registrationMessage": "Registration is now open.",
-      "courseCode1": "GLA 4936: Internship in Global Affairs (Summer • CRN: 36687)",
-      "courseCode2": "GLA 4966: Internship in Global Affairs (Fall • CRN: 30193)",
       "seasonYear1": "Summer 2026",
       "seasonYear2": "Fall 2026",
-      "term1StartDate": "May 26",
-      "term1EndDate": "August 4",
+      "term1StartDate": null,
+      "term1EndDate": null,
       "term2StartDate": "August 25",
       "term2EndDate": "December 12"
     },
@@ -9034,7 +8829,7 @@
     },
     {
       "item": "begin",
-      "credits": "6 UTSA credits",
+      "credits": null,
       "abbreviation": "UTSA",
       "phone": "(210) 405-9277"
     }
@@ -9045,12 +8840,12 @@
       "schoolname": "The University of Vermont",
       "abbreviation": "UVM",
       "genericProgramName": "The Global Career Accelerator",
-      "secondaryBrandColor": null,
-      "primaryBrandColor": null,
-      "buttonColor": null,
-      "buttonTextColor": null,
-      "logo": null,
-      "cobranded_logo": null,
+      "secondaryBrandColor": "#FFD100",
+      "primaryBrandColor": "#164734",
+      "buttonColor": "#007155",
+      "buttonTextColor": "#ffffff",
+      "logo": "https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/669d5713-9b6a-46bb-bd7e-c542cff6dd6a/bad0d961febe4f229536d370ebbb97ed/logo-school-dynamic-email/uvm-new.png",
+      "cobranded_logo": "https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/669d5713-9b6a-46bb-bd7e-c542cff6dd6a/bad0d961febe4f229536d370ebbb97ed/logo-school-cobrand-gca-dynamic-email/uvm-new.png",
       "partner_id": "001Rd0000036VgvIAE",
       "programName": "UVM Global Career Accelerator",
       "termsandConditionsPolicy": "https://www.uvm.edu/compliance/website-privacy-policy/terms-use",
@@ -9063,7 +8858,7 @@
       "item": "about",
       "schoolname": "The University of Vermont",
       "genericProgramName": "The Global Career Accelerator",
-      "schoolFullAddress": null,
+      "schoolFullAddress": "438 College Street\r\nBurlington, Vermont 05405",
       "abbreviation": "UVM",
       "phone": "(802) 659-2113",
       "credits": "4 UVM credits",
@@ -9299,8 +9094,8 @@
       "termsandConditionsPolicy": "https://wayne.edu/policies",
       "registrationMessage": "Registration is now open.",
       "credits": "3 or 6 Wayne State credits",
-      "startDate": "May 8",
-      "endDate": "August 1"
+      "startDate": "<b style='color:red;'>null<b/>",
+      "endDate": "<b style='color:red;'>null<b/>"
     },
     {
       "item": "about",
@@ -9310,10 +9105,10 @@
       "abbreviation": "Wayne State",
       "phone": "(313) 513-7671",
       "credits": "3 or 6 Wayne State credits",
-      "programFee": "+ 1,800",
-      "seasonYear": "Summer 2026",
-      "term": "Summer",
-      "season": "Summer",
+      "programFee": null,
+      "seasonYear": null,
+      "term": null,
+      "season": "<b style='color:red;'>null<b/>",
       "registrationMessage": "Registration is now open."
     },
     {
@@ -9337,8 +9132,8 @@
       "courseCode6": "GLS5500 (Summer • CRN: 31108)",
       "seasonYear1": "Summer 2026",
       "seasonYear2": "Fall 2026",
-      "term1StartDate": "May 8",
-      "term1EndDate": "August 1",
+      "term1StartDate": null,
+      "term1EndDate": null,
       "term2StartDate": "August 31",
       "term2EndDate": "December 15"
     },
@@ -9357,8 +9152,8 @@
       "courseCode6": "GLS5500 (Summer • CRN: 31108)",
       "seasonYear1": "Summer 2026",
       "seasonYear2": "Fall 2026",
-      "term1StartDate": "May 8",
-      "term1EndDate": "August 1",
+      "term1StartDate": null,
+      "term1EndDate": null,
       "term2StartDate": "August 31",
       "term2EndDate": "December 15"
     },
@@ -9377,8 +9172,8 @@
       "courseCode6": "GLS5500 (Summer • CRN: 31108)",
       "seasonYear1": "Summer 2026",
       "seasonYear2": "Fall 2026",
-      "term1StartDate": "May 8",
-      "term1EndDate": "August 1",
+      "term1StartDate": null,
+      "term1EndDate": null,
       "term2StartDate": "August 31",
       "term2EndDate": "December 15"
     },
@@ -9397,8 +9192,8 @@
       "courseCode6": "GLS5500 (Summer • CRN: 31108)",
       "seasonYear1": "Summer 2026",
       "seasonYear2": "Fall 2026",
-      "term1StartDate": "May 8",
-      "term1EndDate": "August 1",
+      "term1StartDate": null,
+      "term1EndDate": null,
       "term2StartDate": "August 31",
       "term2EndDate": "December 15"
     },
@@ -9417,8 +9212,8 @@
       "courseCode6": "GLS5500 (Summer • CRN: 31108)",
       "seasonYear1": "Summer 2026",
       "seasonYear2": "Fall 2026",
-      "term1StartDate": "May 8",
-      "term1EndDate": "August 1",
+      "term1StartDate": null,
+      "term1EndDate": null,
       "term2StartDate": "August 31",
       "term2EndDate": "December 15"
     },
@@ -9689,12 +9484,12 @@
       "phone": "(269) 386-6163"
     }
   ],
-  "wvu": [
+  "001rd000006h2sziai": [
     {
       "item": "home",
       "schoolname": "West Virginia University",
-      "abbreviation": "WVU",
-      "genericProgramName": "The Global Career Accelerator",
+      "abbreviation": null,
+      "genericProgramName": null,
       "secondaryBrandColor": "#EEAA00",
       "primaryBrandColor": "#002855",
       "buttonColor": "#EEAA00",
@@ -9702,21 +9497,21 @@
       "logo": "https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/669d5713-9b6a-46bb-bd7e-c542cff6dd6a/bad0d961febe4f229536d370ebbb97ed/logo-school-dynamic-email/wvu.png",
       "cobranded_logo": "https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/669d5713-9b6a-46bb-bd7e-c542cff6dd6a/bad0d961febe4f229536d370ebbb97ed/logo-school-cobrand-gca-dynamic-email/wvu.png",
       "partner_id": "001Rd000006h2SzIAI",
-      "programName": "WVU Global Career Accelerator",
-      "termsandConditionsPolicy": "https://procurement.wvu.edu/rules/terms",
+      "programName": null,
+      "termsandConditionsPolicy": null,
       "registrationMessage": "Registration is now open.",
-      "credits": "3 WVU credits",
+      "credits": "3  credits",
       "startDate": "May 18",
       "endDate": "August 7"
     },
     {
       "item": "about",
       "schoolname": "West Virginia University",
-      "genericProgramName": "The Global Career Accelerator",
+      "genericProgramName": null,
       "schoolFullAddress": "201 Woodburn Hall, Morgantown, WV 26501",
-      "abbreviation": "WVU",
-      "phone": "(304) 244-4794",
-      "credits": "3 WVU credits",
+      "abbreviation": null,
+      "phone": null,
+      "credits": "3  credits",
       "programFee": "+ 2,000",
       "seasonYear": "Summer 2026",
       "term": "Summer",
@@ -9725,97 +9520,82 @@
     },
     {
       "item": "explore-tracks",
-      "credits": "3 WVU credits",
-      "abbreviation": "WVU",
+      "credits": "3  credits",
+      "abbreviation": null,
       "registrationMessage": "Registration is now open."
     },
     {
       "item": "digital-marketing",
       "schoolname": "West Virginia University",
       "trackTitle": "Digital Marketing Track",
-      "credits": "3 WVU credits",
-      "abbreviation": "WVU",
+      "credits": "3  credits",
+      "abbreviation": null,
       "registrationMessage": "Registration is now open.",
       "courseCode1": "ARSC 491",
-      "seasonYear1": "Summer 2026",
-      "seasonYear2": "Fall 2026",
-      "term1StartDate": "May 18",
-      "term1EndDate": "August 7",
-      "term2StartDate": "August 18",
-      "term2EndDate": "December 11"
+      "seasonYear": "Summer 2026",
+      "startDate": "May 18",
+      "endDate": "August 7"
     },
     {
       "item": "coding-for-web",
       "schoolname": "West Virginia University",
-      "trackTitle": "Web Development for Everyone Track",
-      "credits": "3 WVU credits",
-      "abbreviation": "WVU",
+      "trackTitle": "Coding for Web Track",
+      "credits": "3  credits",
+      "abbreviation": null,
       "registrationMessage": "Registration is now open.",
       "courseCode1": "ARSC 491",
-      "seasonYear1": "Summer 2026",
-      "seasonYear2": "Fall 2026",
-      "term1StartDate": "May 18",
-      "term1EndDate": "August 7",
-      "term2StartDate": "August 18",
-      "term2EndDate": "December 11"
+      "seasonYear": "Summer 2026",
+      "startDate": "May 18",
+      "endDate": "August 7"
     },
     {
       "item": "data-analytics",
       "schoolname": "West Virginia University",
       "trackTitle": "Data Analytics Track",
-      "credits": "3 WVU credits",
-      "abbreviation": "WVU",
+      "credits": "3  credits",
+      "abbreviation": null,
       "registrationMessage": "Registration is now open.",
       "courseCode1": "ARSC 491",
-      "seasonYear1": "Summer 2026",
-      "seasonYear2": "Fall 2026",
-      "term1StartDate": "May 18",
-      "term1EndDate": "August 7",
-      "term2StartDate": "August 18",
-      "term2EndDate": "December 11"
+      "seasonYear": "Summer 2026",
+      "startDate": "May 18",
+      "endDate": "August 7"
     },
     {
       "item": "coding-for-data",
       "schoolname": "West Virginia University",
       "trackTitle": "Coding for Data Track",
-      "credits": "3 WVU credits",
-      "abbreviation": "WVU",
+      "credits": "3  credits",
+      "abbreviation": null,
       "registrationMessage": "Registration is now open.",
       "courseCode1": "ARSC 491",
-      "seasonYear1": "Summer 2026",
-      "seasonYear2": "Fall 2026",
-      "term1StartDate": "May 18",
-      "term1EndDate": "August 7",
-      "term2StartDate": "August 18",
-      "term2EndDate": "December 11"
+      "seasonYear": "Summer 2026",
+      "startDate": "May 18",
+      "endDate": "August 7"
     },
     {
       "item": "career-rotation",
       "schoolname": "West Virginia University",
       "trackTitle": "Career Rotation Track",
-      "credits": "3 WVU credits",
-      "abbreviation": "WVU",
+      "credits": "3  credits",
+      "abbreviation": null,
       "registrationMessage": "Registration is now open.",
       "courseCode1": "ARSC 491",
-      "seasonYear1": "Summer 2026",
-      "seasonYear2": "Fall 2026",
-      "term1StartDate": "May 18",
-      "term1EndDate": "August 7",
-      "term2StartDate": "August 18",
-      "term2EndDate": "December 11"
+      "seasonYear": "Summer 2026",
+      "startDate": "May 18",
+      "endDate": "August 7"
     },
     {
       "item": "reserve-a-seat",
-      "programName": "WVU Global Career Accelerator",
+      "programName": null,
       "registrationMessage": "Registration is now open.",
-      "phone": "(304) 244-4794",
-      "abbreviation": "WVU"
+      "phone": null,
+      "abbreviation": null
     },
     {
       "item": "begin",
-      "credits": "3 WVU credits",
-      "abbreviation": "WVU",
-      "phone": "(304) 244-4794"
+      "credits": "3  credits",
+      "abbreviation": null,
+      "phone": null
     }
   ],
   "uwyo": [
