@@ -113,12 +113,12 @@
       "phone": "(516) 871-3301"
     }
   ],
-  "colorado": [
+  "001rd00000bnkyziav": [
     {
       "item": "home",
       "schoolname": "Colorado State University-Fort Collins",
-      "abbreviation": "CSU",
-      "genericProgramName": "The Global Career Accelerator",
+      "abbreviation": null,
+      "genericProgramName": null,
       "secondaryBrandColor": "#E86C57",
       "primaryBrandColor": "#194D2D",
       "buttonColor": "#194D2D",
@@ -126,21 +126,21 @@
       "logo": "https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/669d5713-9b6a-46bb-bd7e-c542cff6dd6a/bad0d961febe4f229536d370ebbb97ed/logo-school-dynamic-email/coloradostatelogo.png",
       "cobranded_logo": "https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/669d5713-9b6a-46bb-bd7e-c542cff6dd6a/bad0d961febe4f229536d370ebbb97ed/logo-school-cobrand-gca-dynamic-email/coloradostatelogo.png",
       "partner_id": "001Rd00000BnKyZIAV",
-      "programName": "CSU Global Career Accelerator",
-      "termsandConditionsPolicy": "https://www.colostate.edu/privacy/",
+      "programName": null,
+      "termsandConditionsPolicy": null,
       "registrationMessage": "Registration is now open.",
-      "credits": "1 or 6 CSU credits",
+      "credits": "1 or 6  credits",
       "startDate": "May 19",
       "endDate": "August 9"
     },
     {
       "item": "about",
       "schoolname": "Colorado State University-Fort Collins",
-      "genericProgramName": "The Global Career Accelerator",
+      "genericProgramName": null,
       "schoolFullAddress": "200 W Lake St.\r\nFort Collins, CO 80521",
-      "abbreviation": "CSU",
-      "phone": "(970) 499-7515",
-      "credits": "1 or 6 CSU credits",
+      "abbreviation": null,
+      "phone": null,
+      "credits": "1 or 6  credits",
       "programFee": null,
       "seasonYear": "Summer 2026",
       "term": "Summer",
@@ -149,16 +149,16 @@
     },
     {
       "item": "explore-tracks",
-      "credits": "1 or 6 CSU credits",
-      "abbreviation": "CSU",
+      "credits": "1 or 6  credits",
+      "abbreviation": null,
       "registrationMessage": "Registration is now open."
     },
     {
       "item": "digital-marketing",
       "schoolname": "Colorado State University-Fort Collins",
       "trackTitle": "Digital Marketing Track",
-      "credits": "1 or 6 CSU credits",
-      "abbreviation": "CSU",
+      "credits": "1 or 6  credits",
+      "abbreviation": null,
       "registrationMessage": "Registration is now open.",
       "courseCode1": "ESC 300",
       "courseCode2": "IE 387: Intercultural Internship",
@@ -169,9 +169,9 @@
     {
       "item": "coding-for-web",
       "schoolname": "Colorado State University-Fort Collins",
-      "trackTitle": "Web Development for Everyone Track",
-      "credits": "1 or 6 CSU credits",
-      "abbreviation": "CSU",
+      "trackTitle": "Coding for Web Track",
+      "credits": "1 or 6  credits",
+      "abbreviation": null,
       "registrationMessage": "Registration is now open.",
       "courseCode1": "ESC 300",
       "courseCode2": "IE 387: Intercultural Internship",
@@ -183,8 +183,8 @@
       "item": "data-analytics",
       "schoolname": "Colorado State University-Fort Collins",
       "trackTitle": "Data Analytics Track",
-      "credits": "1 or 6 CSU credits",
-      "abbreviation": "CSU",
+      "credits": "1 or 6  credits",
+      "abbreviation": null,
       "registrationMessage": "Registration is now open.",
       "courseCode1": "ESC 300",
       "courseCode2": "IE 387: Intercultural Internship",
@@ -196,8 +196,8 @@
       "item": "coding-for-data",
       "schoolname": "Colorado State University-Fort Collins",
       "trackTitle": "Coding for Data Track",
-      "credits": "1 or 6 CSU credits",
-      "abbreviation": "CSU",
+      "credits": "1 or 6  credits",
+      "abbreviation": null,
       "registrationMessage": "Registration is now open.",
       "courseCode1": "ESC 300",
       "courseCode2": "IE 387: Intercultural Internship",
@@ -209,8 +209,8 @@
       "item": "career-rotation",
       "schoolname": "Colorado State University-Fort Collins",
       "trackTitle": "Career Rotation Track",
-      "credits": "1 or 6 CSU credits",
-      "abbreviation": "CSU",
+      "credits": "1 or 6  credits",
+      "abbreviation": null,
       "registrationMessage": "Registration is now open.",
       "courseCode1": "ESC 300",
       "courseCode2": "IE 387: Intercultural Internship",
@@ -220,16 +220,16 @@
     },
     {
       "item": "reserve-a-seat",
-      "programName": "CSU Global Career Accelerator",
+      "programName": null,
       "registrationMessage": "Registration is now open.",
-      "phone": "(970) 499-7515",
-      "abbreviation": "CSU"
+      "phone": null,
+      "abbreviation": null
     },
     {
       "item": "begin",
-      "credits": "1 or 6 CSU credits",
-      "abbreviation": "CSU",
-      "phone": "(970) 499-7515"
+      "credits": "1 or 6  credits",
+      "abbreviation": null,
+      "phone": null
     }
   ],
   "appstate": [
@@ -1497,12 +1497,12 @@
       "phone": "(332) 323-6549"
     }
   ],
-  "csusm": [
+  "001rd00000ihmbgiax": [
     {
       "item": "home",
       "schoolname": "California State University, San Marcos",
-      "abbreviation": "CSUSM",
-      "genericProgramName": "The Global Career Accelerator",
+      "abbreviation": null,
+      "genericProgramName": null,
       "secondaryBrandColor": null,
       "primaryBrandColor": "#007AC3",
       "buttonColor": "#0078CC",
@@ -1510,21 +1510,21 @@
       "logo": "https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/669d5713-9b6a-46bb-bd7e-c542cff6dd6a/bad0d961febe4f229536d370ebbb97ed/logo-school-dynamic-email/csusm.png",
       "cobranded_logo": "https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/669d5713-9b6a-46bb-bd7e-c542cff6dd6a/bad0d961febe4f229536d370ebbb97ed/logo-school-cobrand-gca-dynamic-email/csusm.png",
       "partner_id": "001Rd00000IHMbGIAX",
-      "programName": "CSUSM Global Career Accelerator",
-      "termsandConditionsPolicy": "https://www.csusm.edu/corp/businesssrvcesandfinance/policies_proc_forms/generalprovisions.html",
+      "programName": null,
+      "termsandConditionsPolicy": null,
       "registrationMessage": "Registration is now open.",
-      "credits": "3 CSUSM credits",
+      "credits": "3  credits",
       "startDate": "June 1",
       "endDate": "August 8"
     },
     {
       "item": "about",
       "schoolname": "California State University, San Marcos",
-      "genericProgramName": "The Global Career Accelerator",
+      "genericProgramName": null,
       "schoolFullAddress": "333 S. Twin Oaks Valley Rd. San Marcos CA, 92096",
-      "abbreviation": "CSUSM",
-      "phone": "(760) 750-5687",
-      "credits": "3 CSUSM credits",
+      "abbreviation": null,
+      "phone": null,
+      "credits": "3  credits",
       "programFee": "+ 1,600",
       "seasonYear": "Summer 2026",
       "term": "Summer",
@@ -1533,16 +1533,16 @@
     },
     {
       "item": "explore-tracks",
-      "credits": "3 CSUSM credits",
-      "abbreviation": "CSUSM",
+      "credits": "3  credits",
+      "abbreviation": null,
       "registrationMessage": "Registration is now open."
     },
     {
       "item": "digital-marketing",
       "schoolname": "California State University, San Marcos",
       "trackTitle": "Digital Marketing Track",
-      "credits": "3 CSUSM credits",
-      "abbreviation": "CSUSM",
+      "credits": "3  credits",
+      "abbreviation": null,
       "registrationMessage": "Registration is now open.",
       "courseCode1": "ID 411C-901 (CRN: 24064)",
       "seasonYear": "Summer 2026",
@@ -1552,9 +1552,9 @@
     {
       "item": "coding-for-web",
       "schoolname": "California State University, San Marcos",
-      "trackTitle": "Web Development for Everyone Track",
-      "credits": "3 CSUSM credits",
-      "abbreviation": "CSUSM",
+      "trackTitle": "Coding for Web Track",
+      "credits": "3  credits",
+      "abbreviation": null,
       "registrationMessage": "Registration is now open.",
       "courseCode1": "ID 411C-901 (CRN: 24064)",
       "seasonYear": "Summer 2026",
@@ -1565,8 +1565,8 @@
       "item": "data-analytics",
       "schoolname": "California State University, San Marcos",
       "trackTitle": "Data Analytics Track",
-      "credits": "3 CSUSM credits",
-      "abbreviation": "CSUSM",
+      "credits": "3  credits",
+      "abbreviation": null,
       "registrationMessage": "Registration is now open.",
       "courseCode1": "ID 411C-901 (CRN: 24064)",
       "seasonYear": "Summer 2026",
@@ -1577,8 +1577,8 @@
       "item": "coding-for-data",
       "schoolname": "California State University, San Marcos",
       "trackTitle": "Coding for Data Track",
-      "credits": "3 CSUSM credits",
-      "abbreviation": "CSUSM",
+      "credits": "3  credits",
+      "abbreviation": null,
       "registrationMessage": "Registration is now open.",
       "courseCode1": "ID 411C-901 (CRN: 24064)",
       "seasonYear": "Summer 2026",
@@ -1589,8 +1589,8 @@
       "item": "career-rotation",
       "schoolname": "California State University, San Marcos",
       "trackTitle": "Career Rotation Track",
-      "credits": "3 CSUSM credits",
-      "abbreviation": "CSUSM",
+      "credits": "3  credits",
+      "abbreviation": null,
       "registrationMessage": "Registration is now open.",
       "courseCode1": "ID 411C-901 (CRN: 24064)",
       "seasonYear": "Summer 2026",
@@ -1599,16 +1599,16 @@
     },
     {
       "item": "reserve-a-seat",
-      "programName": "CSUSM Global Career Accelerator",
+      "programName": null,
       "registrationMessage": "Registration is now open.",
-      "phone": "(760) 750-5687",
-      "abbreviation": "CSUSM"
+      "phone": null,
+      "abbreviation": null
     },
     {
       "item": "begin",
-      "credits": "3 CSUSM credits",
-      "abbreviation": "CSUSM",
-      "phone": "(760) 750-5687"
+      "credits": "3  credits",
+      "abbreviation": null,
+      "phone": null
     }
   ],
   "cudenver": [
@@ -6067,12 +6067,12 @@
       "phone": "(979) 800-3808"
     }
   ],
-  "tamucc": [
+  "001rd00000un8wkial": [
     {
       "item": "home",
       "schoolname": "Texas A&M University-Corpus Christi",
-      "abbreviation": "TAMUCC",
-      "genericProgramName": "The Global Career Accelerator",
+      "abbreviation": null,
+      "genericProgramName": null,
       "secondaryBrandColor": "#00844B",
       "primaryBrandColor": "#0064A2",
       "buttonColor": "#0064A2",
@@ -6080,21 +6080,21 @@
       "logo": "https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/669d5713-9b6a-46bb-bd7e-c542cff6dd6a/bad0d961febe4f229536d370ebbb97ed/logo-school-dynamic-email/0fd71cf5850a4288aa0a4e3c91540dfe-tamucc.png",
       "cobranded_logo": "https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/669d5713-9b6a-46bb-bd7e-c542cff6dd6a/bad0d961febe4f229536d370ebbb97ed/logo-school-cobrand-gca-dynamic-email/0fd71cf5850a4288aa0a4e3c91540dfe-tamucc.png",
       "partner_id": "001Rd00000UN8WkIAL",
-      "programName": "TAMU-CC Global Career Accelerator",
-      "termsandConditionsPolicy": "https://isc.tamucc.edu/terms-and-conditions",
+      "programName": null,
+      "termsandConditionsPolicy": null,
       "registrationMessage": "Registration is now open.",
-      "credits": "3 TAMUCC credits",
+      "credits": "3  credits",
       "startDate": "June 1",
       "endDate": "August 7"
     },
     {
       "item": "about",
       "schoolname": "Texas A&M University-Corpus Christi",
-      "genericProgramName": "The Global Career Accelerator",
+      "genericProgramName": null,
       "schoolFullAddress": "6300 Ocean Drive. \r\nCorpus Christi, Texas 78412",
-      "abbreviation": "TAMUCC",
-      "phone": "(361) 866-5006",
-      "credits": "3 TAMUCC credits",
+      "abbreviation": null,
+      "phone": null,
+      "credits": "3  credits",
       "programFee": null,
       "seasonYear": "Summer 2026",
       "term": "Summer",
@@ -6103,97 +6103,82 @@
     },
     {
       "item": "explore-tracks",
-      "credits": "3 TAMUCC credits",
-      "abbreviation": "TAMUCC",
+      "credits": "3  credits",
+      "abbreviation": null,
       "registrationMessage": "Registration is now open."
     },
     {
       "item": "digital-marketing",
       "schoolname": "Texas A&M University-Corpus Christi",
       "trackTitle": "Digital Marketing Track",
-      "credits": "3 TAMUCC credits",
-      "abbreviation": "TAMUCC",
+      "credits": "3  credits",
+      "abbreviation": null,
       "registrationMessage": "Registration is now open.",
       "courseCode1": "INTE 3398",
-      "seasonYear1": "Summer 2026",
-      "seasonYear2": "Fall 2026",
-      "term1StartDate": "June 1",
-      "term1EndDate": "August 7",
-      "term2StartDate": "August 24",
-      "term2EndDate": "December 10"
+      "seasonYear": "Summer 2026",
+      "startDate": "June 1",
+      "endDate": "August 7"
     },
     {
       "item": "coding-for-web",
       "schoolname": "Texas A&M University-Corpus Christi",
-      "trackTitle": "Web Development for Everyone Track",
-      "credits": "3 TAMUCC credits",
-      "abbreviation": "TAMUCC",
+      "trackTitle": "Coding for Web Track",
+      "credits": "3  credits",
+      "abbreviation": null,
       "registrationMessage": "Registration is now open.",
       "courseCode1": "INTE 3398",
-      "seasonYear1": "Summer 2026",
-      "seasonYear2": "Fall 2026",
-      "term1StartDate": "June 1",
-      "term1EndDate": "August 7",
-      "term2StartDate": "August 24",
-      "term2EndDate": "December 10"
+      "seasonYear": "Summer 2026",
+      "startDate": "June 1",
+      "endDate": "August 7"
     },
     {
       "item": "data-analytics",
       "schoolname": "Texas A&M University-Corpus Christi",
       "trackTitle": "Data Analytics Track",
-      "credits": "3 TAMUCC credits",
-      "abbreviation": "TAMUCC",
+      "credits": "3  credits",
+      "abbreviation": null,
       "registrationMessage": "Registration is now open.",
       "courseCode1": "INTE 3398",
-      "seasonYear1": "Summer 2026",
-      "seasonYear2": "Fall 2026",
-      "term1StartDate": "June 1",
-      "term1EndDate": "August 7",
-      "term2StartDate": "August 24",
-      "term2EndDate": "December 10"
+      "seasonYear": "Summer 2026",
+      "startDate": "June 1",
+      "endDate": "August 7"
     },
     {
       "item": "coding-for-data",
       "schoolname": "Texas A&M University-Corpus Christi",
       "trackTitle": "Coding for Data Track",
-      "credits": "3 TAMUCC credits",
-      "abbreviation": "TAMUCC",
+      "credits": "3  credits",
+      "abbreviation": null,
       "registrationMessage": "Registration is now open.",
       "courseCode1": "INTE 3398",
-      "seasonYear1": "Summer 2026",
-      "seasonYear2": "Fall 2026",
-      "term1StartDate": "June 1",
-      "term1EndDate": "August 7",
-      "term2StartDate": "August 24",
-      "term2EndDate": "December 10"
+      "seasonYear": "Summer 2026",
+      "startDate": "June 1",
+      "endDate": "August 7"
     },
     {
       "item": "career-rotation",
       "schoolname": "Texas A&M University-Corpus Christi",
       "trackTitle": "Career Rotation Track",
-      "credits": "3 TAMUCC credits",
-      "abbreviation": "TAMUCC",
+      "credits": "3  credits",
+      "abbreviation": null,
       "registrationMessage": "Registration is now open.",
       "courseCode1": "INTE 3398",
-      "seasonYear1": "Summer 2026",
-      "seasonYear2": "Fall 2026",
-      "term1StartDate": "June 1",
-      "term1EndDate": "August 7",
-      "term2StartDate": "August 24",
-      "term2EndDate": "December 10"
+      "seasonYear": "Summer 2026",
+      "startDate": "June 1",
+      "endDate": "August 7"
     },
     {
       "item": "reserve-a-seat",
-      "programName": "TAMU-CC Global Career Accelerator",
+      "programName": null,
       "registrationMessage": "Registration is now open.",
-      "phone": "(361) 866-5006",
-      "abbreviation": "TAMUCC"
+      "phone": null,
+      "abbreviation": null
     },
     {
       "item": "begin",
-      "credits": "3 TAMUCC credits",
-      "abbreviation": "TAMUCC",
-      "phone": "(361) 866-5006"
+      "credits": "3  credits",
+      "abbreviation": null,
+      "phone": null
     }
   ],
   "temple": [
